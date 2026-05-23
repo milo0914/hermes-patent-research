@@ -1,0 +1,307 @@
+[
+  {
+    "title": "Liquid Crystal Medium",
+    "abstract": "Liquid-crystalline (LC) media having positive dielectric anisotropy and liquid-crystal displays (LCDs) containing these media. Also, displays addressed by an active matrix and LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer-stabilized SA-HB-FFS, polymer-stabilized SA-XB-FFS, positive VA, or positive PS-VA type.",
+    "filing_date": "",
+    "publication_date": "2026-03-06",
+    "assignee": "Merck Display Materials Shanghai Co Ltd Merck Electronics KGaA",
+    "claim1": "A compound of formula I: in which R11 and R12 identically or differently, denote H, a straight-chain alkyl or alkoxy group having 1 to 15 C atoms, a straight-chain alkenyl or alkenyloxy group having 2 to 15 C atoms, or a branched alkyl, alkoxy, alkenyl, or alkenyloxy group having 3 to 15 C atoms, wherein one or more CH2 groups are optionally replaced, independently of one another, by  —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms are optionally replaced by halogen; and L11, L12, L13, and L14 identically or differently, denote H, F, Cl, CH3, CF3, or CHF2, wherein at least one of L11, L12, L13, or L14 denotes F, Cl, CH3, CF3, or CHF2.",
+    "neg_da_count": 2,
+    "pos_da_count": 7,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε\n=\n2.9",
+      "Δε\n=\n2."
+    ],
+    "delta_eps_ranges": [],
+    "molecular_structures": [
+      "formula I",
+      "formula I",
+      "formula I",
+      "formula I"
+    ],
+    "examples": [
+      "Example 1: 4′-Ethyl-3-fluoro-4-[4-(4-propylcyclohexyl)cyclohex-1-en-1-yl]-1,1′-biphenyl\nStep 1:4-{4′-ethyl-3-fluoro-[1,1′-biphenyl]-4-yl}-4′-propyl-[1,1′-bi(cyclohexane)]-4-ol\n[0432]\n50 g (250 mmol) of 4′-ethyl-3-fluoro-1,1′-biphenyl are dissolved in 350 mL of THF and cooled to −70° C. 200 mL (1.1 eq) of sec-BuLi (1.4 M in cyclohexane) is added dropwise. The solution is stirred for 1.5 h at −70° C. before a solution of 60 g (270 mmol) of trans-4′-propyl[1,1′-bicyclohexyl]-4-one in 250 ml of THF is added ",
+      "Example 2\n[0436]\nIn analogy to Synthesis Example 1, 4′-(but-3-en-1-yl)-4-[4-(4-ethylcyclohexyl)cyclohex-1-en-1-yl]-3-fluoro-1,1′-biphenyl is obtained as colorless crystals, phase sequence: K 134 SmA 178 N 275.8 I.\nΔε\n=\n2.\n5\nMIXTURE EXAMPLES\n[0437]\nThe composition and physical properties of the nematic mixtures M1 to M41 are given in the following tables. The composition is given in percent by weight.\n\nMixture Example M1\n\n\n\tCGPC-5-3\t1.0\tcl. p. [° C.]:\t120.6\n\tCC-3-V\t26.5\tΔn [589 nm, 20° C.]:\t0.1291\n\tCC-3-V",
+      "Example 2 and 0.03% of the compound ST-3d:\nMixture Example M36\n[0443]\nMixture Example M36 consists of 99.97% of Mixture Example M1 and 0.03% of the compound ST-3b-1:\n\nMixture Example M37\n\n\n\tCGPC-5-3\t2.0\tcl. p. [° C.]:\t120.4\n\tCC-3-V\t28.0\tΔn [589 nm, 20° C.]:\t0.1291\n\tCC-3-V1\t5.0\tΔε [1 kHz, 20° C.]:\t4.4\n\tCCP-V-1\t15.0\tγ1 [mPa · s, 20° C.]:\t105\n\tCCP-V2-1\t10.0\n\tCCVC-3-V\t6.0\n\tCDUQU-3-F\t2.0\n\tCLGIP-3-2\t3.5\n\tCLPC-3-2\t1.0\n\tDGUQU-4-F\t3.0\n\tPGP-2-2V\t4.0\n\tPGUQU-3-F\t3.0\n\tPGUQU-4-F\t2.0\n\tPGU-3-T\t2.0\n\tPGU-5-T\t2.0\n\tPPGU-3-F"
+    ],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "patent_id": "US20250361444A1",
+    "url": "https://patents.google.com/patent/US20250361444A1/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "A liquid-crystal (LC) medium or liquid-crystal (LC) materials based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode and/or the fringe-field switching mode, an LC display of the vertically aligned mode and/or the fringe-field switching mode comprising the LC medium, especially an energy-efficient LC display, and a process of manufacturing the LC display.",
+    "filing_date": "",
+    "publication_date": "",
+    "assignee": "Merck Display Materials Shanghai Co Ltd Merk Electronics Kgaa Merck Electronics KGaA Merck Performance Materials Ltd",
+    "claim1": "A liquid crystal medium comprising one or more compounds of formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, n denotes 0, 1, or 2, and each independently denote a group selected from the following formulae: wherein at least one of Z11 and Z12 each independently denote a single bond, —CH2CH2—, —CH2—, —OCH2—, —CH2O—, —O—, —CO—O—, —O—CO—, —CF2O—, —OCF2—, —CH═CH—, —CF═CF—, or —C≡C—, and in a case where n is 2, the two may be the same as or different from each other, and in a case where n is 2, the two Z11 may be the same as or different from each other.",
+    "neg_da_count": 6,
+    "pos_da_count": 4,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1"
+    ],
+    "molecular_structures": [
+      "of formula I.\n[0024]\nThe invention relates to a liquid crystal medium comprising the compound of the formula I\nin which\nR11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy ",
+      "of formula I with one or more compounds of formulae II, III and/or IIIA, and optionally with further LC compounds and/or additives.\n[0033]\nThe invention furthermore relates to a process for manufacturing an LC display as described above and below, comprising the",
+      "formula I",
+      "formula I"
+    ],
+    "examples": [],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "patent_id": "US20250284151A1",
+    "url": "https://patents.google.com/patent/US20250284151A1/en"
+  },
+  {
+    "title": "Liquid crystal medium",
+    "abstract": "Liquid-crystalline (LC) media having positive dielectric anisotropy and liquid-crystal displays (LCDs) containing these media, especially displays addressed by an active matrix and in particular LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.",
+    "filing_date": "",
+    "publication_date": "2026-04-28",
+    "assignee": "Merck Display Materials Shanghai Co Ltd Merck Electronics KGaA",
+    "claim1": "A liquid crystal medium comprising a) one or more compounds of formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, L11 and L12 independently denote H, F, Cl, CH3, CF3 or CHF2; and b) one or more compounds selected from the group of compounds of formulae II and/or III in which R2 and R3, independently of one another, denote a straight-chain or branched alkyl or alkoxy radical that is unsubstituted or halogenated and has 1 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —C≡C—, —CF2O—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, independently of one another denote L21, L22, L31 and L32 independently of each other, denote H or F, Y2 and Y3 identically or differently, denote H or CH3, X2 and X3 independently of each other, denote halogen, halogenated alkyl or halogenated alkoxy with 1 to 3 C-atoms or halogenated alkenyl or halogenated alkenyloxy with 2 or 3 C-atoms, Z3 denotes ",
+    "neg_da_count": 2,
+    "pos_da_count": 7,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "delta_eps_ranges": [],
+    "molecular_structures": [
+      "formula I",
+      "of formula I with compounds of formula II and/or Ill, enables liquid-crystalline media that show a low rotational viscosity and a low value of the ratios of γ1/K22 and γ1/K11. This enables liquid-crystal displays, especially of the HB-FFS, FFS and IPS mode, with",
+      "formula I",
+      "formula I"
+    ],
+    "examples": [
+      "Example 1, a favorably lower rotational viscosity (γ1) and at the same time a lower ratio γ1/K1 can be achieved, which improves the response time of a display.\nMixture Example M2\n\t\n\tCC-3-V\t34.0\tcl. p. [° C.]:\t107\n\tCC-3-V1\t6.5\tΔn [589 nm, 20° C.]:\t0.1215\n\tCCP-V-1\t15.0\tΔε [1 kHz, 20° C.]:\t3.8\n\tCCP-V2-1\t4.0\tγ1 [mPa s, 20° C.]:\t84\n\tCCVC-3-V\t3.0\tK1 [pN, 20° C.]:\t17.7\n\tCDUQU-3-F\t3.7\tK3 [pN, 20° C.]:\t18.5\n\tCLP-V-1\t4.5\n\tCLPC-3-2\t3.0\n\tCPGP-4-3\t1.0\n\tDGUQU-4-F\t4.0\n\tPGP-2-2V\t5.0\n\tPGUQU-3-F\t4.3\n\tPP-1-2V1\t1.5\n\tPPGU-3-"
+    ],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/06",
+      "C09K19/44",
+      "C09K19/40"
+    ],
+    "patent_id": "US20250207032A1",
+    "url": "https://patents.google.com/patent/US20250207032A1/en"
+  },
+  {
+    "title": "Liquid crystal medium",
+    "abstract": "Liquid-crystalline (LC) media having positive dielectric anisotropy and liquid-crystal displays (LCDs) containing these media, especially displays addressed by an active matrix and in particular LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.",
+    "filing_date": "",
+    "publication_date": "2026-04-28",
+    "assignee": "Merck Patent GmbH",
+    "claim1": "A liquid crystal medium comprising a) one or more compounds of formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by  —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, L11 and L12 independently denote H, F, Cl, CH3, CF3 or CHF2; and b) one or more compounds selected from the group of compounds of formulae II and/or III in which R2 and R3, independently of one another, denote a straight-chain alkyl or alkoxy radical that is unsubstituted or halogenated and has 1 to 15 C atoms, or a branched alkyl or alkoxy radical that is unsubstituted or halogenated and has 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by  —C≡C—, —CF2O—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another,  independently of one another denote L21, L22, L31 and L32 independently of each other, denote H or F, Y2 and Y3 identically or differently, denote H or CH3, X2 and X3 independently of each other, denote halogen, halogenated alkyl or halogenated alkoxy with 1 to ",
+    "neg_da_count": 2,
+    "pos_da_count": 7,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "delta_eps_ranges": [],
+    "molecular_structures": [
+      "formula I",
+      "of formula I with compounds of formula II and/or Ill, enables liquid-crystalline media that show a low rotational viscosity and a low value of the ratios of γ1/K22 and γ1/K11. This enables liquid-crystal displays, especially of the HB-FFS, FFS and IPS mode, with",
+      "formula I",
+      "formula I"
+    ],
+    "examples": [
+      "Example 1, a favorably lower rotational viscosity (γ1) and at the same time a lower ratio γ1/K1 can be achieved, which improves the response time of a display.\nMixture Example M2\n\t\n\tCC-3-V\t34.0\tcl. p. [° C.]:\t107\n\tCC-3-V1\t6.5\tΔn [589 nm, 20° C.]:\t0.1215\n\tCCP-V-1\t15.0\tΔε [1 kHz, 20° C.]:\t3.8\n\tCCP-V2-1\t4.0\tγ1 [mPa s, 20° C.]:\t84\n\tCCVC-3-V\t3.0\tK1 [pN, 20° C.]:\t17.7\n\tCDUQU-3-F\t3.7\tK3 [pN, 20° C.]:\t18.5\n\tCLP-V-1\t4.5\n\tCLPC-3-2\t3.0\n\tCPGP-4-3\t1.0\n\tDGUQU-4-F\t4.0\n\tPGP-2-2V\t5.0\n\tPGUQU-3-F\t4.3\n\tPP-1-2V1\t1.5\n\tPPGU-3-"
+    ],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/3003"
+    ],
+    "patent_id": "US12612551B2",
+    "url": "https://patents.google.com/patent/US12612551B2/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "A liquid-crystal (LC) material comprising one or more compounds of the formula I\nhaving negative dielectric anisotropy and the use thereof for optical, electro-optical and electronic purposes, such as for example in LC displays, in particular energy saving displays based on the ECB, IPS or FFS effect.",
+    "filing_date": "",
+    "publication_date": "2026-04-07",
+    "assignee": "Merck Display Materials Shanghai Co Ltd Merck Electronics KGaA",
+    "claim1": "A liquid crystal medium comprising one or more compounds of the formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by  —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, one of L11 and L12 denotes H, and the other one of L11 and L12 denotes H, F, Cl, CF3 or CHF2.",
+    "neg_da_count": 8,
+    "pos_da_count": 4,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5",
+      "Δε=0.5",
+      "Δε=2.3"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1"
+    ],
+    "molecular_structures": [
+      "of formula I.\n[0023]\nThe invention relates to a liquid crystal medium comprising the compound of the formula I\nin which\nR11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy ",
+      "formula I",
+      "formula I",
+      "formula I"
+    ],
+    "examples": [
+      "Example 1: 1-(4-ethylcyclohexyl)-4-[4-(4-propylcyclohexyl)cyclohex-1-en-1-yl]benzene\n[0527]\n1-(4-ethylcyclohexyl)-4-[4-(4-propylcyclohexyl)cyclohex-1-en-1-yl]benzene is prepared by addition of [4-(4-ethylcyclohexyl)phenyl]magnesiumbromide to 4′-propyl-[1,1′-bi(cyclohexane)]-4-one to give the intermediate 4-[4-(4-ethylcyclohexyl)phenyl]-4′-propyl-[1,1′-bi(cyclohexane)]-4-ol, followed by elimination of water.\nPhase sequence: K 239 N 290 I\nΔε=0.5\nΔn=0.1352\nCompound Example 2: 1-(4-ethylcyclohexyl)-2-fluoro-",
+      "Example 1, 1-(4-etylcyclohexyl)-2-fluoro-4-[4-(4-propylcyclohexyl)cyclohex-1-en-1-yl]benzene is obtained as colorless crystals.\nPhase sequence: K 68 SmB 163 SmA 188 N 272.0 I.\nΔε=2.3\nΔn=0.1348\nMixture Examples\n[0535]\nThe Comparative Example C1 and the Mixture Examples M1 to M15 and P1 to P10 have the compositions and properties given in the following tables. The quantities in the tables are given in percent by weight.\nComparative Mixture Example C1\n\t\n\tB(S)-2O-O4\t4.0\tcl. p. [° C.]:\t118.5\n\tB(S)-2O-O5\t3.0\tΔ",
+      "Example 1, despite the higher clearing temperature a favorably lower rotational viscosity (γ1) and at the same time a very low ratio γ1/K1 can be achieved, which improves the response time of a display.\nMixture Example M2\n\nB(S)-2O-O5\t5.0\tcl. p. [° C.]:\t108.5\nCC-3-V\t19.25\tΔn [589 nm, 20° C.]:\t0.0909\nCC-3-V1\t14.0\tΔε[1 kHz, 20° C.]:\t−2.4\nCC-4-V1\t12.0\tγ1 [mPa s, 20° C.]:\t134\nCC-3-O3\t3.25\tK1 [pN, 20° C.]:\t22.2\nCC-3-5\t5.0\tK3 [pN, 20° C.]:\t21.9\nCCP-3-1\t5.25\nCCY-3-O2\t9.0\nCLOY-3-O2\t6.25\nCLPC-3-2\t5.0\nCLY-3-O2\t9.0\n"
+    ],
+    "phys_params": [
+      "Δn=0.1352",
+      "Δn=0.1348"
+    ],
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "patent_id": "US20250215323A1",
+    "url": "https://patents.google.com/patent/US20250215323A1/en"
+  },
+  {
+    "title": "Reflective liquid crystal panel",
+    "abstract": "LCoS panels using liquid crystal (LC) media having negative dielectric anisotropy and LC media comprised therein. The liquid crystal material (LC medium) has negative dielectric anisotropy and high optical anisotropy and is particularly useful in electro-optical displays including projection systems based on vertical alignment (VA) nematic panels.\nImages (2)",
+    "filing_date": "",
+    "publication_date": "2026-01-06",
+    "assignee": "Merck Patent GmbH Merck Electronics KGaA",
+    "claim1": "",
+    "neg_da_count": 7,
+    "pos_da_count": 0,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1"
+    ],
+    "molecular_structures": [
+      "of formula I\nin which\nR11 and R12 denotes alkyl having 1 to 7 C atoms, alkoxy having 1 to 7 C atoms, or alkoxyalkyl, alkenyl or alkenyloxy having 2 to 7 C atoms, where, in addition, one or more CH2 groups in these radicals may each be replaced, independently of ",
+      "of formula III\nin which\nR31 and R32 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 7 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n —OCF2—, —CH═CH—, —O—, —CO—O",
+      "of formula IV\nin which\nR41 denotes an unsubstituted alkyl radical having 1 to 7 C atoms or an unsubstituted alkenyl radical having 2 to 7 C atoms, preferably an n-alkyl radical, particularly preferably having 2, 3, 4 or 5 C atoms, and\nR42 denotes an unsubstitute",
+      "of formula IV are selected from formula IV-1 to IV-4, more preferably of IV-1 to IV-3, and most preferably of compounds of formula IV-2,\npreferably alone or in combination with any of IV-1, IV-3 and IV-4, most preferably in combination with IV-3:\nwherein\nalkyl d"
+    ],
+    "examples": [],
+    "phys_params": [],
+    "cpc_codes": [
+      "G02F1/0045"
+    ],
+    "patent_id": "US20250189829A1",
+    "url": "https://patents.google.com/patent/US20250189829A1/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "The present invention relates to a liquid-crystal (LC) medium or LC material based on a mixture of polar compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the fringe-field switching mode, to an LC display of the fringe-field switching mode comprising the LC medium, especially an energy-saving LC display and to a process of manufacturing the LC display.",
+    "filing_date": "",
+    "publication_date": "2025-04-04",
+    "assignee": "Merck Display Materials Shanghai Co Ltd Merck Electronics KGaA",
+    "claim1": "A liquid crystal medium comprising one or more compounds of formula and one or more compounds of formula III and/or one or more compounds of formula BC and/or one or more compounds of formula PH-1 in which R11, R31, R32, R81, and R82 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 15 C atoms, where one or more —CH2— groups in these radicals may each be replaced, independently of one another, by —C═C—, —CF2O—, —OCF2—, —CH═CH—, by —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, R12 denotes an alkenyl radical having 2 to 12 C atoms, A3 on each occurrence, independently of one another, denotes a 1,4-phenylene radical, in which one or two CH groups may be replaced by N, or a 1,4-cyclohexylene or 1,4-cyclohexenylene radical, in which one or two non-adjacent CH2 groups may be replaced by —O— or —S—, where the radicals may be mono- or polysubstituted by halogen atoms, n denotes 0, 1 or 2, Z3 on each occurrence independently of one another denotes —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CH2—, —CH2CH2—, —CH═CH—, —C═C— or a single bond, L31 and L32, each, independently of one another, denote F, Cl, CF3 or CHF2, and Y1, Y2, Y3, Y4, each, independently of one another, denote H, F, Cl, CF3, CHF2, CH3 or OCH3.",
+    "neg_da_count": 8,
+    "pos_da_count": 5,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5",
+      "Δε≤−1.5",
+      "Δε≤1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1",
+      "Δε≤−1",
+      "Δε≤1.5. Furthermore, component B has pronounced nematogeneity and a flow viscosity of not greater than 30 mm2·s−1"
+    ],
+    "molecular_structures": [
+      "of formula I\nand\none or more compounds of formula III\nand/or\none or more compounds of formula BC\nand/or\none or more compounds of formula PH-1\nin which\nR11, R31, R32, R81, and R82 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 t",
+      "of formula I with one or more compounds of formula III, and optionally with further LC compounds and/or additives.\n[0038]\nThe invention furthermore relates to a process for manufacturing an LC display as described above and below, comprising the steps of filling",
+      "of formula I, wherein R11 and R12 independently of one another denote straight-chain alkyl having 1 to 7 C atoms or alkenyl having 2 to 7 C atoms.\n[0067]\nIn a preferred embodiment the LC medium according to the invention comprises one or more compounds of the fo",
+      "of formula I is Ib-1, and the most preferred is the compound CCC-3-V.\n[0070]\nPreferred compounds of formula III are those of formula III-1 to III-6:\nin which the occurring groups have the same meanings as given under formula III above and preferably\nR31 and R32 "
+    ],
+    "examples": [
+      "Example 1\n[0402]\nThe nematic LC mixture N1 is formulated as follows.\n\t\n\tB(S)—2O—O5\t3.0%\tCl. p. [° C.]:\t101.8\n\tCC-3-V\t14.0%\tne [589 nm, 20° C.]:\t1.5698\n\tCC-3-V1\t8.0%\tno [589 nm, 20° C.]:\t1.4790\n\tCC-4-V1\t8.0%\tΔn [589 nm, 20° C.]:\t0.0908\n\tCCC-3-V\t5.0%\tε∥ [1 kHz, 20° C.]:\t3.4\n\tCC-3-4\t4.0%\tε⊥ [1 kHz, 20° C.]:\t7.6\n\tCC-3-5\t7.0%\tΔε [1 kHz, 20° C.]:\t−4.2\n\tCCY-3-O2\t9.0%\tγ1 [mPa s, 20° C.]:\t156\n\tCCY-5-O2\t0.5%\tK1 [pN, 20° C.]:\t21.9\n\tCLOY-3-O2\t12.0%\tK3 [pN, 20° C.]:\t20.6\n\tCLY-3-O2\t9.0%\t\t\n\tCLY-3-O3\t5.0%\t\t\n\tCLY-5-O2\t5.",
+      "Example 2\n[0404]\nThe nematic LC mixture N2 is formulated as follows.\n\t\n\tCC-3-V\t 12.0%\tCl. p. [° C.]:\t96\n\tCC-3-V1\t 8.0%\tne [589 nm, 20° C.]:\t1.5609\n\tCC-4-V1\t 8.0%\tno [589 nm, 20° C.]:\t1.4773\n\tCCC-3-V\t 5.0%\tΔn [589 nm, 20° C.]:\t0.0836\n\tCC-3-4\t 4.0%\tε∥ [1 kHz, 20° C.]:\t3.4\n\tCC-3-5\t 8.0%\tε⊥ [1 kHz, 20° C.]:\t7.3\n\tCCP-3-1\t 0.75%\tΔε [1 kHz, 20° C.]:\t−3.9\n\tCCY-3-O2\t 9.0%\tγ1 [mPa s, 20° C.]:\t147\n\tCCY-5-O2\t 2.0%\tK1 [pN, 20° C.]:\t20.5\n\tCLOY-3-O2\t 15.0%\tK3 [pN, 20° C.]:\t20.6\n\tCLY-3-O2\t 9.0%\t\t\n\tCLY-3-O3\t 5.0%\t\t\n\tCLY-",
+      "Example 3\n[0406]\nThe nematic LC mixture N3 is formulated as follows.\n\t\n\tB(S)—2O—O5\t3.0%\tCl. p. [° C.]:\t99.4\n\tCC-3-V\t23.5%\tne [589 nm, 20° C.]:\t1.5723\n\tCC-3-V1\t8.0%\tno [589 nm, 20° C.]:\t1.4798\n\tCCC-3-V\t4.0%\tΔn [589 nm, 20° C.]:\t0.0925\n\tCC-3-5\t7.5%\tε∥ [1 kHz, 20° C.]:\t3.4\n\tCCY-3-O2\t9.0%\tε⊥ [1 kHz, 20° C.]:\t7.4\n\tCLY-3-O2\t9.0%\tΔε [1 kHz, 20° C.]:\t−4.0\n\tCLY-3-O3\t6.0%\tγ1 [mPa s, 20° C.]:\t134\n\tCLY-4-O2\t5.0%\tK1 [pN, 20° C.]:\t18.7\n\tCLY-5-O2\t5.0%\tK3 [pN, 20° C.]:\t19.4\n\tCOB(S)-2-O4\t5.0%\t\t\n\tCY-3-O2\t15.0%\t\t\n\tΣ\t100.0%",
+      "Example 4\n[0408]\nThe nematic LC mixture N4 is formulated as follows.\n\t\n\tB(S)—2O—O4\t3.0%\tCl. p. [° C.]:\t121.8\n\tB(S)—2O—O5\t4.0%\tne [589 nm, 20° C.]:\t1.5858\n\tCC-3-V\t12.5%\tno [589 nm, 20° C.]:\t1.4842\n\tCC-3-V1\t8.0%\tΔn [589 nm, 20° C.]:\t0.1016\n\tCC-4-V1\t8.0%\tε∥ [1 kHz, 20° C.]:\t3.2\n\tCCC-3-V\t5.0%\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCC-3-4\t4.0%\tΔε [1 kHz, 20° C.]:\t−3.8\n\tCC-3-5\t8.0%\tγ1 [mPa s, 20° C.]:\t179\n\tCCP-3-1\t4.0%\tK1 [pN, 20° C.]:\t30.0\n\tCCY-3-O2\t8.0%\tK3 [pN, 20° C.]:\t34.8\n\tCLOY-3-O2\t4.5%\t\t\n\tCLY-3-O2\t8.0%\t\t\n\tCLY-3-O3\t3.",
+      "Example 5\n[0410]\nThe nematic LC mixture N5 is formulated as follows.\n\t\n\tB(S)-2O-O4\t 4.0%\tCl.p. [° C.]:\t118.3\n\tB(S)-2O-O5\t 1.5%\tne [589 nm, 20° C.]:\t1.5854\n\tB(S)-2O-O6\t 4.0%\tno [589 nm, 20° C.]:\t1.4844\n\tCC-3-V1\t 10.0%\tΔn [589 nm, 20° C.]:\t0.1010\n\tCC-4-V1\t 13.0%\tε∥ [1 kHz, 20° C.]:\t3.2\n\tCCC-3-V\t 3.0%\tε⊥ [1 kHz, 20° C.]:\t7.4\n\tCC-3-5\t 10.0%\tΔε [1 kHz, 20° C.]:\t−4.2\n\tCCP-3-1\t 6.0%\tγ1 [mPa s, 20° C.]:\t218\n\tCCP-V2-1\t 8.5%\tK1 [pN, 20° C.]:\t28.1\n\tCCY-3-O2\t 9.0%\tK3 [pN, 20° C.]:\t27.9\n\tCLOY-3-O2\t 15.0%\t\t\n\tCLY-3-O2\t",
+      "Example 6\n[0412]\nThe nematic LC mixture N6 is formulated as follows.\n\t\n\tB(S)-2O-O4\t 4.0%\tCl.p. [° C.]:\t120\n\tB(S)-2O-O5\t 3.0%\tne [589 nm, 20° C.]:\t1.5874\n\tB(S)-2O-O6\t 4.0%\tno [589 nm, 20° C.]:\t1.4847\n\tCC-3-V1\t 10.0%\tΔn [589 nm, 20° C.]:\t0.1027\n\tCC-4-V1\t 12.5%\tε∥ [1 kHz, 20° C.]:\t3.2\n\tCCC-3-V\t 5.0%\tε⊥ [1 kHz, 20° C.]:\t7.4\n\tCC-3-5\t 10.0%\tΔε [1 kHz, 20° C.]:\t−4.2\n\tCCP-3-1\t 6.0%\tγ1 [mPa s, 20° C.]:\t226\n\tCCP-V2-1\t 4.0%\tK1 [pN, 20° C.]:\t29.0\n\tCCY-3-O2\t 9.0%\tK3 [pN, 20° C.]:\t30.0\n\tCLOY-3-O2\t 15.5%\t\t\n\tCLY-3-O2\t 9"
+    ],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/3003"
+    ],
+    "patent_id": "US20250101305A1",
+    "url": "https://patents.google.com/patent/US20250101305A1/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "The present invention relates to liquid-crystal (LC) media as defined in claim 1, to the use thereof for optical, electro-optical and electronic purposes, in particular in LC displays, and to LC displays containing said LC media. The invention in particular relates to LC media with improved response time that enable energy saving displays.",
+    "filing_date": "",
+    "publication_date": "2026-02-24",
+    "assignee": "Merck Display Materials Shanghai Co Ltd Merck KGaA Merck Electronics KGaA",
+    "claim1": "A liquid crystal medium comprising a) one or more compounds of the formula I: in which R1 and R2, identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by  —C≡C, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may each be replaced by halogen, Z1 denotes —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CO—O—, —O—CO—, —C2H4—, —CH═CH—, —C≡C— or a single bond, L1 and L2, each, independently of one another, denote F, Cl, CF3 or CHF2, Y denotes H, F, Cl, CF3, CHF2 or CH3; and b) one or more compounds selected from the group of compounds of the formulae IIA, IIB, IIC and IID in which R2A, R2B, R2C and R2D identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl or alkoxy or alkenyl or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by  —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may each be replaced by halogen, L1 and L2 each, ind",
+    "neg_da_count": 6,
+    "pos_da_count": 4,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1"
+    ],
+    "molecular_structures": [
+      "of formula I defined below.\n[0023]\nThe invention relates to a liquid crystal medium comprising\na) one or more compounds of the formula I:\nin which\nR1 and R2, identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight ch",
+      "formula I",
+      "formula I",
+      "formula I"
+    ],
+    "examples": [],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/06",
+      "C09K19/44",
+      "C09K19/40"
+    ],
+    "patent_id": "US20240067879A1",
+    "url": "https://patents.google.com/patent/US20240067879A1/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "A liquid-crystal (LC) material having negative dielectric anisotropy and the use thereof for optical, electro-optical and electronic purposes, such as for example in LC displays, in particular energy saving displays based on the ECB, IPS or FFS effect, where the liquid crystal medium contains one or more compounds of formula Iand one or more compounds compounds of formulae IIA, IIB, IIC and IID",
+    "filing_date": "",
+    "publication_date": "2024-10-01",
+    "assignee": "Merck Performance Materials Ltd Merck Display Materials Shanghai Co Ltd Merck KGaA Merck Electronics KGaA",
+    "claim1": "",
+    "neg_da_count": 11,
+    "pos_da_count": 4,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1"
+    ],
+    "molecular_structures": [
+      "of formula I defined below.\nThe present invention relates to a liquid crystal medium comprising\na) one or more compounds of the formula I:\nin which\nR1 and R2, identically or differently, denote H, halogen, CN, SCN, straight chain alkyl or alkoxy having 1 to 15 C",
+      "formula I",
+      "formula I",
+      "of formula I in which A0 denotes phenylene-1,4-diyl, in which one or two CH groups may be replaced by N and one or more H atoms may be replaced by halogen, CN, CH3, CHF2, CH2F, OCH3, OCHF2, CF3 or OCF3.\nParticularly preferred are compounds in which A0 denotes\nVe"
+    ],
+    "examples": [],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "patent_id": "US12104109B2",
+    "url": "https://patents.google.com/patent/US12104109B2/en"
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "total_unique": 17,
+  "patent_ids": [
+    "US12528988B2",
+    "US20250101305A1",
+    "US20250136868A1",
+    "US20250154412A1",
+    "US20250189829A1",
+    "US20250197723A1",
+    "US20250207032A1",
+    "US20250215323A1",
+    "US20250223496A1",
+    "US20250277152A1",
+    "US20250284151A1",
+    "US20250361444A1",
+    "US20260015735A1",
+    "EP4400561",
+    "EP4563675",
+    "EP4621030",
+    "EP4733370"
+  ],
+  "date_map": {
+    "WO2026052594A1": {
+      "filing_date": "2025-09-02",
+      "publication_date": "2026-03-12"
+    },
+    "US20250361444A1": {
+      "filing_date": "2025-04-28",
+      "publication_date": "2025-11-27"
+    },
+    "WO2025219502A1": {
+      "filing_date": "2025-04-17",
+      "publication_date": "2025-10-23"
+    },
+    "US20250277152A1": {
+      "filing_date": "2025-02-21",
+      "publication_date": "2025-09-04"
+    },
+    "EP4621030A1": {
+      "filing_date": "2025-03-18",
+      "publication_date": "2025-09-24"
+    },
+    "EP4733370A1": {
+      "filing_date": "2025-10-20",
+      "publication_date": "2026-04-29"
+    },
+    "US20250223496A1": {
+      "filing_date": "2025-01-03",
+      "publication_date": "2025-07-10"
+    },
+    "US20250284151A1": {
+      "filing_date": "2025-03-11",
+      "publication_date": "2025-09-11"
+    },
+    "US12528988B2": {
+      "filing_date": "2024-10-29",
+      "publication_date": "2026-01-20"
+    },
+    "US20250154412A1": {
+      "filing_date": "2024-10-29",
+      "publication_date": "2025-05-15"
+    },
+    "WO2025068290A1": {
+      "filing_date": "2024-09-25",
+      "publication_date": "2025-04-03"
+    },
+    "WO2024223484A1": {
+      "filing_date": "2024-04-22",
+      "publication_date": "2024-10-31"
+    },
+    "US20250101305A1": {
+      "filing_date": "2024-09-18",
+      "publication_date": "2025-03-27"
+    },
+    "US20250215323A1": {
+      "filing_date": "2024-12-12",
+      "publication_date": "2025-07-03"
+    },
+    "WO2025190813A1": {
+      "filing_date": "2025-03-07",
+      "publication_date": "2025-09-18"
+    },
+    "WO2025087893A1": {
+      "filing_date": "2024-10-22",
+      "publication_date": "2025-05-01"
+    },
+    "US20250207032A1": {
+      "filing_date": "2024-12-16",
+      "publication_date": "2025-06-26"
+    },
+    "US20250136868A1": {
+      "filing_date": "2024-08-29",
+      "publication_date": "2025-05-01"
+    },
+    "US20250197723A1": {
+      "filing_date": "2024-12-16",
+      "publication_date": "2025-06-19"
+    },
+    "US20250189829A1": {
+      "filing_date": "2024-12-05",
+      "publication_date": "2025-06-12"
+    },
+    "US20260015735A1": {
+      "filing_date": "2025-09-23",
+      "publication_date": "2026-01-15"
+    },
+    "EP4563675A1": {
+      "filing_date": "2024-11-27",
+      "publication_date": "2025-06-04"
+    },
+    "EP4400561A1": {
+      "filing_date": "2024-01-09",
+      "publication_date": "2024-07-17"
+    }
+  },
+  "us_count": 13,
+  "wo_count": 0,
+  "ep_count": 4
+}

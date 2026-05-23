@@ -1,0 +1,115 @@
+[
+  {
+    "url": "https://patents.google.com/patent/US20250277152A1/en",
+    "patent_id": "US20250277152A1",
+    "success": true,
+    "title": "",
+    "abstract": "A liquid-crystal (LC) medium (as a subcategory of liquid crystal material), based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode, an LC display of the vertically aligned mode comprising the LC medium, especially an energy-saving LC display, and a process of manufacturing the LC display.",
+    "claim1": "An LC medium having negative dielectric anisotropy and comprising one or more compounds of formula L1: wherein the individual radicals, independently of each other and on each occurrence identically or differently, have the following meanings RL1 straight chain alkyl having 1 to 15 C atoms or branched or cyclic alkyl having 3 to 15 C atoms, wherein one or more non-adjacent CH2-groups are optionally replaced by —O—, —S—, —CO—, —CO—O—, —O—CO—, —O—CO—O—, CR0═CR00—, —C≡C—, in such a manner that O- and/or S-atoms are not directly connected with each other, and wherein one or more H atoms are each optionally replaced by F or Cl, XL CH3, F, Cl, CF3 or CHF2, YL H, F, Cl or CH3, and Y0 H, F, Cl, CF3, CHF2 or CH3.",
+    "claim1_length": 713,
+    "dates": {
+      "priority_date": "2025-02-21",
+      "filing_date": "2025-09-04",
+      "publication_date": "2026-03-11"
+    },
+    "neg_da_count": 5,
+    "pos_da_count": 4,
+    "neg_delta_count": 0,
+    "is_negative_dielectric": true,
+    "contrast_count": 6,
+    "contrast_ratio_count": 3,
+    "high_contrast_count": 4,
+    "examples": [],
+    "example_count": 0,
+    "molecular_structures": [],
+    "phys_params": [],
+    "body_length": 231787
+  },
+  {
+    "url": "https://patents.google.com/patent/US20250284151A1/en",
+    "patent_id": "US20250284151A1",
+    "success": true,
+    "title": "",
+    "abstract": "A liquid-crystal (LC) medium or liquid-crystal (LC) materials based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode and/or the fringe-field switching mode, an LC display of the vertically aligned mode and/or the fringe-field switching mode comprising the LC medium, especially an energy-efficient LC display, and a process of manufacturing the LC display.",
+    "claim1": "liquid crystal medium comprising one or more compounds of formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, n denotes 0, 1, or 2, and each independently denote a group selected from the following formulae: wherein at least one of Z11 and Z12 each independently denote a single bond, —CH2CH2—, —CH2—, —OCH2—, —CH2O—, —O—, —CO—O—, —O—CO—, —CF2O—, —OCF2—, —CH═CH—, —CF═CF—, or —C≡C—, and in a case where n is 2, the two may be the same as or different from each other, and in a case where n is 2, the two Z11 may be the same as or different from each other.",
+    "claim1_length": 1046,
+    "dates": {
+      "priority_date": "2025-03-11",
+      "filing_date": "2025-09-11",
+      "publication_date": "2026-04-14"
+    },
+    "neg_da_count": 5,
+    "pos_da_count": 4,
+    "neg_delta_count": 0,
+    "is_negative_dielectric": true,
+    "contrast_count": 17,
+    "contrast_ratio_count": 8,
+    "high_contrast_count": 3,
+    "examples": [],
+    "example_count": 0,
+    "molecular_structures": [
+      "formula I",
+      "formula I\nin which\nR11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 "
+    ],
+    "phys_params": [],
+    "body_length": 263709
+  },
+  {
+    "url": "https://patents.google.com/patent/US20250361444A1/en",
+    "patent_id": "US20250361444A1",
+    "success": true,
+    "title": "",
+    "abstract": "Liquid-crystalline (LC) media having positive dielectric anisotropy and liquid-crystal displays (LCDs) containing these media. Also, displays addressed by an active matrix and LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer-stabilized SA-HB-FFS, polymer-stabilized SA-XB-FFS, positive VA, or positive PS-VA type.",
+    "claim1": "compound of formula I: in which R11 and R12 identically or differently, denote H, a straight-chain alkyl or alkoxy group having 1 to 15 C atoms, a straight-chain alkenyl or alkenyloxy group having 2 to 15 C atoms, or a branched alkyl, alkoxy, alkenyl, or alkenyloxy group having 3 to 15 C atoms, wherein one or more CH2 groups are optionally replaced, independently of one another, by  —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms are optionally replaced by halogen; and L11, L12, L13, and L14 identically or differently, denote H, F, Cl, CH3, CF3, or CHF2, wherein at least one of L11, L12, L13, or L14 denotes F, Cl, CH3, CF3, or CHF2.",
+    "claim1_length": 747,
+    "dates": {
+      "priority_date": "2025-04-28",
+      "filing_date": "2025-11-27",
+      "publication_date": "2026-03-30"
+    },
+    "neg_da_count": 1,
+    "pos_da_count": 5,
+    "neg_delta_count": 0,
+    "is_negative_dielectric": true,
+    "contrast_count": 7,
+    "contrast_ratio_count": 1,
+    "high_contrast_count": 1,
+    "examples": [],
+    "example_count": 0,
+    "molecular_structures": [
+      "formula I is shown in scheme 1",
+      "formula I, preferably in combination with compounds of the formula II and/or III, enable liquid-crystalline m",
+      "formula I",
+      "formula I and a liquid-crystalline medium comprising a compound of the formula I",
+      "formula I:\nin which\nR11 and R12 identically or differently, denote H, a straight-chain alkyl or alkoxy group "
+    ],
+    "phys_params": [],
+    "body_length": 129121
+  },
+  {
+    "url": "https://patents.google.com/patent/US20260015735A1/en",
+    "patent_id": "US20260015735A1",
+    "success": true,
+    "title": "",
+    "abstract": "A method for preparing a composite comprising at least the following steps (a) to (c): (a) providing a formulation onto a surface of a substrate by a wet deposition process to obtain a partly or fully dried formulation;(b) applying a post bake to the formulation provided on the surface of the substrate to obtain a 1st composite; and(c) applying a post-treatment to the 1st composite to obtain a final composite or applying a post-treatment to the partly or fully dried formulation obtained in step (a).",
+    "claim1": "method for preparing a composite comprising at least the following steps (a) to (c): (a) providing a formulation onto a surface of a substrate by a wet deposition process to obtain a partly or fully dried formulation; (b) applying a post bake to the formulation provided on the surface of the substrate to obtain a 1st composite; and (c) applying a post-treatment to the 1st composite to obtain a final composite or applying a post-treatment to the partly or fully dried formulation obtained in step (a); wherein said formulation provided in step (a) includes at least one material selected from the group consisting of metal sulfates, metal phosphates, metal oxy sulfates, metal oxy phosphates, metal oxy chlorides, hydrated metal sulfates, hydrated metal phosphates, hydrated metal oxy sulfates, hydrated metal oxy phosphates and hydrated metal oxy chlorides; and further includes a solvent or a solvent blend; wherein said post-treatment is a post-treatment with a solvent, a heat treatment or a combination of the post-treatment with a solvent and the heat treatment.",
+    "claim1_length": 1071,
+    "dates": {
+      "priority_date": "2025-09-23",
+      "filing_date": "2026-01-15",
+      "publication_date": "2025-11-01"
+    },
+    "neg_da_count": 0,
+    "pos_da_count": 0,
+    "neg_delta_count": 0,
+    "is_negative_dielectric": null,
+    "contrast_count": 1,
+    "contrast_ratio_count": 0,
+    "high_contrast_count": 0,
+    "examples": [],
+    "example_count": 0,
+    "molecular_structures": [],
+    "phys_params": [],
+    "body_length": 74414
+  }
+]

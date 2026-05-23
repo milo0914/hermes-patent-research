@@ -1,0 +1,336 @@
+[
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "A liquid-crystal (LC) medium based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode, to an LC display of the vertically aligned mode containing the LC medium, especially an energy-saving LC display and a process of manufacturing the LC display.",
+    "filing_date": "",
+    "publication_date": "2024-12-10",
+    "assignee": "Merck Patent GmbH Merck KGaA Merck Electronics KGaA",
+    "claim1": "Example 30 A polymerizable mixture is prepared by adding 0.2% of the polymerizable compound RM-171, 0.2% of the polymerizable compound RM-120 and 150 ppm of the stabiliser ST-8-1 to the mixture of Example 4. The preceding examples can be repeated with similar success by substituting the generically or specifically described reactants and/or operating conditions of this invention for those used in the preceding examples. Without further elaboration, it is believed that one skilled in the art can, using the preceding description, utilize the present invention to its fullest extent. The preceding preferred specific embodiments are, therefore, to be construed as merely illustrative, and not limitative of the remainder of the disclosure in any way whatsoever. From the description, one skilled in the art can easily ascertain the essential characteristics of this invention and, without departing from the spirit and scope thereof, can make various changes and modifications of the invention to adapt it to various usages and conditions. The entire disclosures of all applications, patents and publications, cited herein and of corresponding EP application No. 22176907.8, filed Jun. 2, 2022, are incorporated by reference herein.",
+    "neg_da_count": 10,
+    "pos_da_count": 5,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5",
+      "Δε≤−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1",
+      "Δε≤−1"
+    ],
+    "molecular_structures": [
+      "of formula IA\n\nin which the individual radicals, on each occurrence identically or differently, and each, independently of one another, have the following meaning:\nR1A an alkyl or alkoxy group having 1 to 12, preferably 1 to 6 C atoms, wherein one or more non-ad",
+      "of formula IA with one or more compounds of formula II or other compounds as described below and optionally with further LC compounds and/or additives.\nThe invention furthermore relates to an LC display comprising an LC medium according to the invention as descr",
+      "of formula IA and its subformulae, R2A preferably denotes alkoxy with 1, 2, 3, 4, 5 or 6 C atoms, very preferably ethoxy.\nIn the compounds of formula IA L1A and L2A preferably denote F or Cl, very preferably F.\nIn the compounds of formula IA Y preferably denotes",
+      "of formula IA R1A is preferably selected from the following groups:\nPreferred compounds of formula IA are those selected from the group consisting of the following subformulae:\n\nwherein (O) denotes an oxygen atom or a single bond and “alkyl” is an alkyl group wi"
+    ],
+    "examples": [
+      "Example 1\nThe nematic LC mixture N1 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t75.5\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1131\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t15.0\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.4\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t16.3\n\tB(S)-2O-O4\t4.0\tK3 [pN, 20° C.]:\t17.1\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t13.9\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t2.35\n\tCLY-3-O2\t4.5\tγ1 [mPa s, 20° C.]:\t107\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, −20° C.",
+      "Example 2\nThe nematic LC mixture N2 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t77\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1168\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t7.0\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.5\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t17.7\n\tB(S)-2O-O4\t4.0\tK3 [pN, 20° C.]:\t17.7\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t14.8\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t2.38\n\tCLY-3-O2\t8.5\tγ1 [mPa s, 20° C.]:\t116\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, −20° C.]:\t",
+      "Example 3\nThe nematic LC mixture N3 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t78\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1169\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t3.0\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.5\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t18.8\n\tB(S)-2O-O4\t4.0\tK3 [pN, 20° C.]:\t18.0\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t15.4\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t2.40\n\tCLY-3-O2\t8.5\tγ1 [mPa s, 20° C.]:\t121\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, −20° C.]:\t",
+      "Example 4\nThe nematic LC mixture N4 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t75.0\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1125\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t−3.5\n\tCY-3-O2\t15.0\tε⊥ [1 kHz, 20° C.]:\t6.9\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t3.4\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t16.2\n\tB(S)-(c5)1O-O2\t4.0\tK3 [pN, 20° C.]:\t17.0\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t13.8\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t\n\tCLY-3-O2\t4.5\tγ1 [mPa s, 20° C.]:\t110\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, −20° C.",
+      "Example 5\nThe nematic LC mixture N5 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t74.5\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1120\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t15.0\tε⊥ [1 kHz, 20° C.]:\t6.8\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.3\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t16.3\n\tB(S)-(c5)1O-O2\t4.0\tK3 [pN, 20° C.]:\t16.7\n\tB(S)-(c5)1O-O4\t5.0\tKavg [pN, 20° C.]:\t13.7\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t\n\tCLY-3-O2\t4.5\tγ1 [mPa s, 20° C.]:\t114\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, −20",
+      "Example 6\nThe nematic LC mixture N6 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t76.5\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1162\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t15.0\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.5\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t17.7\n\tB(S)-(c5)1O-O2\t4.0\tK3 [pN, 20° C.]:\t17.6\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t14.7\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t\n\tCLY-3-O2\t4.5\tγ1 [mPa s, 20° C.]:\t119\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, −20° C."
+    ],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "patent_id": "US12163081B2",
+    "url": "https://patents.google.com/patent/US12163081B2/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "A liquid-crystal (LC) medium based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode, to an LC display of the vertically aligned mode containing the LC medium, especially an energy-saving LC display and a process of manufacturing the LC display.",
+    "filing_date": "",
+    "publication_date": "2024-12-10",
+    "assignee": "Merck Patent GmbH Merck KGaA Merck Electronics KGaA",
+    "claim1": "Example 30 [0564] A polymerizable mixture is prepared by adding 0.2% of the polymerizable compound RM-171, 0.2% of the polymerizable compound RM-120 and 150 ppm of the stabiliser ST-8-1 to the mixture of Example 4. [0565] The preceding examples can be repeated with similar success by substituting the generically or specifically described reactants and/or operating conditions of this invention for those used in the preceding examples. [0566] Without further elaboration, it is believed that one skilled in the art can, using the preceding description, utilize the present invention to its fullest extent. The preceding preferred specific embodiments are, therefore, to be construed as merely illustrative, and not limitative of the remainder of the disclosure in any way whatsoever. From the description, one skilled in the art can easily ascertain the essential characteristics of this invention and, without departing from the spirit and scope thereof, can make various changes and modifications of the invention to adapt it to various usages and conditions. [0567] The entire disclosures of all applications, patents and publications, cited herein and of corresponding EP application No. 22176907.8, filed Jun. 2, 2022, are incorporated by reference herein.",
+    "neg_da_count": 10,
+    "pos_da_count": 5,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5",
+      "Δε≤−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1",
+      "Δε≤−1"
+    ],
+    "molecular_structures": [
+      "of formula IA\nin which the individual radicals, on each occurrence identically or differently, and each, independently of one another, have the following meaning:\nR1A an alkyl or alkoxy group having 1 to 12, preferably 1 to 6 C atoms, wherein one or more non-adj",
+      "of formula IA with one or more compounds of formula II or other compounds as described below and optionally with further LC compounds and/or additives.\n[0027]\nThe invention furthermore relates to an LC display comprising an LC medium according to the invention a",
+      "of formula IA and its subformulae, R2A preferably denotes alkoxy with 1, 2, 3, 4, 5 or 6 C atoms, very preferably ethoxy.\n[0072]\nIn the compounds of formula IA L1A and L2A preferably denote F or Cl, very preferably F.\n[0073]\nIn the compounds of formula IA Y pref",
+      "of formula IA R1A is preferably selected from the following groups:\n[0075]\nPreferred compounds of formula IA are those selected from the group consisting of the following subformulae:\nwherein (O) denotes an oxygen atom or a single bond and “alkyl” is an alkyl gr"
+    ],
+    "examples": [
+      "Example 1\n[0526]\nThe nematic LC mixture N1 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t75.5\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1131\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t15.0\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.4\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t16.3\n\tB(S)-2O-O4\t4.0\tK3 [pN, 20° C.]:\t17.1\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t13.9\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t2.35\n\tCLY-3-O2\t4.5\tγ1 [mPa s, 20° C.]:\t107\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, ",
+      "Example 2\n[0529]\nThe nematic LC mixture N2 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t77\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1168\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t7.0\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.5\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t17.7\n\tB(S)-2O-O4\t4.0\tK3 [pN, 20° C.]:\t17.7\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t14.8\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t2.38\n\tCLY-3-O2\t8.5\tγ1 [mPa s, 20° C.]:\t116\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, −20",
+      "Example 3\n[0531]\nThe nematic LC mixture N3 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t78\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1169\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t3.0\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.5\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t18.8\n\tB(S)-2O-O4\t4.0\tK3 [pN, 20° C.]:\t18.0\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t15.4\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t2.40\n\tCLY-3-O2\t8.5\tγ1 [mPa s, 20° C.]:\t121\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, −20",
+      "Example 4\n[0533]\nThe nematic LC mixture N4 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t75.0\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1125\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t−3.5\n\tCY-3-O2\t15.0\tε⊥ [1 kHz, 20° C.]:\t6.9\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t3.4\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t16.2\n\tB(S)-(c5)1O-O2\t4.0\tK3 [pN, 20° C.]:\t17.0\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t13.8\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t\n\tCLY-3-O2\t4.5\tγ1 [mPa s, 20° C.]:\t110\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, ",
+      "Example 5\n[0535]\nThe nematic LC mixture N5 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t74.5\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1120\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t15.0\tε⊥ [1 kHz, 20° C.]:\t6.8\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.3\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t16.3\n\tB(S)-(c5)1O-O2\t4.0\tK3 [pN, 20° C.]:\t16.7\n\tB(S)-(c5)1O-O4\t5.0\tKavg [pN, 20° C.]:\t13.7\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t\n\tCLY-3-O2\t4.5\tγ1 [mPa s, 20° C.]:\t114\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk ",
+      "Example 6\n[0537]\nThe nematic LC mixture N6 is formulated as follows.\n\t\n\tCC-3-V1\t9.0\tCl.p. [° C.]:\t76.5\n\tCC-4-V1\t22.0\tΔn [589 nm, 20° C.]:\t0.1162\n\tCCH-301\t6.0\tε∥ [1 kHz, 20° C.]:\t3.5\n\tCY-3-O2\t15.0\tε⊥ [1 kHz, 20° C.]:\t7.0\n\tCY-3-O4\t4.5\tΔε [1 kHz, 20° C.]:\t−3.5\n\tPP-1-2V1\t8.0\tK1 [pN, 20° C.]:\t17.7\n\tB(S)-(c5)1O-O2\t4.0\tK3 [pN, 20° C.]:\t17.6\n\tB(S)-2O-O5\t5.0\tKavg [pN, 20° C.]:\t14.7\n\tCCP-3-1\t5.0\tV0 [V, 20° C.]:\t\n\tCLY-3-O2\t4.5\tγ1 [mPa s, 20° C.]:\t119\n\tCPY-3-O2\t10.0\tLTS bulk [h, −10° C.]:\t\n\tPYP-2-3\t3.0\tLTS bulk [h, "
+    ],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "patent_id": "US20230392077A1",
+    "url": "https://patents.google.com/patent/US20230392077A1/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "A liquid-crystal (LC) medium which is based on a mixture of polar compounds and is substantially dielectrically neutral, its use for optical, electro-optical and electronic purposes, in particular as optical retarder or optical compensator in LC displays, an optical retarder or optical compensator containing the LC medium, an optical, electrooptical or electronic device containing the optical retarder or optical compensator, and a process of manufacturing the optical retarder or optical compensator.\nImages (2)",
+    "filing_date": "",
+    "publication_date": "2025-01-07",
+    "assignee": "Merck Performance Materials Ltd Merck Electronics KGaA",
+    "claim1": "The preceding examples can be repeated with similar success by substituting the generically or specifically described reactants and/or operating conditions of this invention for those used in the preceding examples. Without further elaboration, it is believed that one skilled in the art can, using the preceding description, utilize the present invention to its fullest extent. The preceding preferred specific embodiments are, therefore, to be construed as merely illustrative, and not limitative of the remainder of the disclosure in any way whatsoever. From the description, one skilled in the art can easily ascertain the essential characteristics of this invention and, without departing from the spirit and scope thereof, can make various changes and modifications of the invention to adapt it to various usages and conditions. The entire disclosures of all applications, patents and publications, cited herein and of corresponding EP application No. 22176299.0, filed May 31, 2023, are incorporated by reference herein.",
+    "neg_da_count": 1,
+    "pos_da_count": 2,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5",
+      "Δε≤−0.8"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes compounds having Δε<−1",
+      "Δε≤−0"
+    ],
+    "molecular_structures": [
+      "of formula IA to IE and IIa to IID or other components of the LC medium as disclosed below is not considered to be within the meaning of the term “polymerizable group” as used herein. The conditions for the polymerization of the polymerizable compounds of the LC",
+      "of formula IA are selected from the following subformulae:\n\nin which R0 and X0 have the meanings indicated above, and R0 preferably denotes alkyl having 1 to 6 C atoms and X0 preferably denotes F or OCF3, furthermore OCF═CF2 or Cl.\nVery preferred compounds of fo",
+      "of formula IA are selected from the following subformula:\n\nin which R0 has the meanings indicated above and is preferably methyl, ethyl, propyl or pentyl.\nPreferred compounds of formula IB are selected from the following subformulae:\n\nin which R0 and X0 have the",
+      "of formula IC are selected from the following subformulae:\n\nin which R0 and X0 have the meanings indicated above, and R0 preferably denotes alkyl having 1 to 6 C atoms and X0 preferably denotes F, furthermore OCF3, CF3, CF═CF2, OCHF2 or OCH═CF2.\nVery preferred c"
+    ],
+    "examples": [
+      "Example 1.\nAn alkenyl group in the compounds of formula IA to IE and IIa to IID or other components of the LC medium as disclosed below is not considered to be within the meaning of the term “polymerizable group” as used herein. The conditions for the polymerization of the polymerizable compounds of the LC medium are preferably selected such that alkenyl substituents do not participate in the polymerization reaction. Preferably the LC media disclosed and claimed in the present application do not contain ",
+      "Example 1\nThe nematic LC mixture N1 is formulated as follows.\n\t\n\tBCH-32\t10.0%\tCl.p. [° C.]:\t79.1\n\tCC-3-V\t39.5%\tΔn [589 nm, 20° C.]:\t0.0995\n\tCC-3-V1\t7.0%\tne [589 nm, 20° C.]:\t1.5860\n\tCCP-2F.F.F\t6.5%\tno [589 nm, 20° C.]:\t1.4865\n\tCCP-3F.F.F\t7.0%\tΔε [1 kHz, 20° C.]:\t0.0\n\tCPY-2-O2\t11.0%\tε∥ [1 kHz, 20° C.]:\t4.5\n\tCPY-3-O2\t11.0%\tε⊥ [1 kHz, 20° C.]:\t4.5\n\tPY-3-O2\t8.0%\t\t\n\tΣ\t100.0%\n\t\nTo the mixture N1 are added 300 ppm of the stabiliser ST-3a-1.\nThe birefringence Δn, dielectric anisotropy Δε and dielectric permittiv",
+      "Example 2\nThe nematic LC mixture N2 is formulated as follows.\n\t\n\tCC-3-V\t30.0%\tCl.p. [° C.]:\t76\n\tCY-3-O4\t20.0%\tΔn [589 nm, 20° C.]:\t0.0778\n\tCCY-3-O2\t10.0%\tne [589 nm, 20° C.]:\t1.5523\n\tCCY-4-O2\t10.0%\tno [589 nm, 20° C.]:\t1.4745\n\tCPY-2-O2\t5.0%\tΔε [1 kHz, 20° C.]:\t−0.3\n\tCCP-2F.F.F\t5.0%\tε∥ [1 kHz, 20° C.]:\t5.7\n\tCCP-3F.F.F\t10.0%\tε⊥ [1 kHz, 20° C.]:\t5.9\n\tCCP-30CF3\t10.0%\t\t\n\tΣ\t100.0%\n\t\nTo the mixture N2 are added 150 ppm of the stabiliser ST-3b-1.\nExample 3\nThe nematic LC mixture N3 is formulated as follows.\n\t\n\tC",
+      "Example 4\nThe nematic LC mixture N4 is formulated as follows.\n\t\n\tCY-3-O2\t12.0%\tCl.p. [° C.]:\t81.5\n\tCY-5-O2\t9.0%\tΔn [589 nm, 20° C.]:\t0.1431\n\tCCY-3-O3\t11.0%\tne [589 nm, 20° C.]:\t1.6357\n\tCCY-4-O2\t2.0%\tno [589 nm, 20° C.]:\t1.4926\n\tCPY-2-O2\t12.0%\tΔε [1 kHz, 20° C.]:\t−0.2\n\tCPY-3-O2\t12.0%\tε∥ [1 kHz, 20° C.]:\t8.1\n\tPYP-2-4\t10.0%\tε⊥ [1 kHz, 20° C.]:\t8.3\n\tCC-5-V\t14.0%\tLTS bulk [h, −20° C.]:\t24\n\tPGU-3-F\t9.0%\t\t\n\tPGU-2-F\t9.0%\t\t\n\tΣ\t100.0%\n\t\nTo the mixture N4 are added 150 ppm of the stabiliser ST-9-1.\nExample 5\nThe ne",
+      "Example 6\nThe nematic LC mixture N6 is formulated as follows.\n\t\n\tCC-5-O1\t13.95%\tCl.p. [° C.]:\t68\n\tCC-3-5\t9.5%\tΔn [589 nm, 20° C.]:\t0.0682\n\tCP-5-3\t4.4%\tne [589 nm, 20° C.]:\t1.5422\n\tCY-3-O4\t7.7%\tno [589 nm, 20° C.]:\t1.4740\n\tCY-5-O4\t7.15%\tΔε [1 kHz, 20° C.]:\t0.0\n\tCCY-3-O2\t4.4%\tε∥ [1 kHz, 20° C.]:\t5.3\n\tCCY-5-O2\t4.4%\tε⊥ [1 kHz, 20° C.]:\t5.3\n\tCCY-21\t4.95%\t\t\n\tCCY-31\t4.95%\t\t\n\tCPY-2-O2\t4.4%\t\t\n\tCC-3-O1\t9.0%\t\t\n\tCC-5-V\t7.2%\t\t\n\tCCZC-3-3\t1.35%\t\t\n\tCCZC-3-5\t1.35%\t\t\n\tCCZC-4-3\t1.35%\t\t\n\tCCZU-2-F\t1.35%\t\t\n\tCCZU-3-F\t6.75%\t\t\n\t"
+    ],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/06",
+      "C09K19/44",
+      "C09K19/40"
+    ],
+    "patent_id": "US12187944B2",
+    "url": "https://patents.google.com/patent/US12187944B2/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "A liquid crystal medium containinga) one or more compounds of formula Ib) one or more compounds of the formula IIBaand c) one or more compounds of the formula IIDaand the use thereof for optical, electro-optical and/or electronic purposes, in particular in LC displays, especially in IPS, FFS, VA or PS-VA displays.",
+    "filing_date": "",
+    "publication_date": "",
+    "assignee": "Merck Patent GmbH Merck KGaA",
+    "claim1": "RM2, RM3 and RM4 in the amount given in Table 1 (% RM). TABLE 1  Polymerisable Mixtures. \tLC\t\t Mixture\tHost\tRM\t% RM  P1\tM1\tRM1\t0.3 P2\tM3\tRM2\t0.3 P3\tM5\tRM3\t0.3 P4\tM7\tRM4\t0.3 P5\tM10\tRM1\t0.25 P6\tM11\tRM2\t0.25 P7\tM12\tRM3\t0.25 P8\tM13\tRM4\t0.25  \tRM1  \tRM2  \tRM3  \tRM4  [0464] The preceding examples can be repeated with similar success by substituting the generically or specifically described reactants and/or operating conditions of this invention for those used in the preceding examples. [0465] Without further elaboration, it is believed that one skilled in the art can, using the preceding description, utilize the present invention to its fullest extent. The preceding preferred specific embodiments are, therefore, to be construed as merely illustrative, and not limitative of the remainder of the disclosure in any way whatsoever. From the description, one skilled in the art can easily ascertain the essential characteristics of this invention and, without departing from the spirit and scope thereof, can make various changes and modifications of the invention to adapt it to various usages and conditions. [0466] The entire disclosures of all applications, patents and publications, cited herein and of corresponding EP application No. 22172035.2, filed May 6, 2022, are incorporated by reference herein.",
+    "neg_da_count": 4,
+    "pos_da_count": 3,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1"
+    ],
+    "molecular_structures": [
+      "of formula I\nin which\nR11, R12 identically or differently, denote H, a straight chain or branched alkyl or alkenyl or alkoxy radical having 1 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n —C",
+      "of formula III\nin which\nR31 and R32 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n —C≡C—, —CF2O—, —OCF2—, —CH",
+      "of formula R\n\nP-Sp-A1-(Z1-A2)z-R  R\nin which the individual radicals, independently of each other and on each occurrence identically or differently, have the following meanings:\nP a polymerisable group,\nSp a spacer group or a single bond,\nA1, A2 an aromatic, het",
+      "of formula R are polymerised.\n[0060]\nThe invention furthermore relates to a process for preparing an LC medium as described above and below, comprising the steps of mixing one or more compounds of the formulae I, IIBa, IIDa and preferably with one or more compou"
+    ],
+    "examples": [],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/06"
+    ],
+    "patent_id": "US20230357637A1",
+    "url": "https://patents.google.com/patent/US20230357637A1/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "The present invention relates to a liquid-crystal (LC) medium based on a mixture of polar compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode, to an LC display of the vertically aligned mode comprising the LC medium, especially an energy-saving LC display and to a process of manufacturing the LC display.",
+    "filing_date": "",
+    "publication_date": "",
+    "assignee": "Merck Patent GmbH",
+    "claim1": "Example 34 A polymerizable mixture is prepared by adding 0.3% of the polymerizable compound RM-156 and 150 ppm of the stabiliser ST-8-1 to the mixture of Example 8. Example 35 A polymerizable mixture is prepared by adding 0.35% of the polymerizable compound RM-162 and 50 ppm of the stabiliser H-2-1-1 to the mixture of Example 15. Example 36 A polymerizable mixture is prepared by adding 0.4% of the polymerizable compound RM-58 and 150 ppm of the stabiliser ST-3b-1 to the mixture of Example 17. Example 37 A polymerizable mixture is prepared by adding 0.3% of the polymerizable compound RM-160 and 150 ppm of the stabiliser ST-8-1 to the mixture of Example 20. Example 38 A polymerizable mixture is prepared by adding 0.4% of the polymerizable compound RM-163 and 100 ppm of the stabiliser ST-9-1 to the mixture of Example 16. Example 39 A polymerizable mixture is prepared by adding 0.4% of the polymerizable compound RM-64 and 150 ppm of the stabiliser ST-3b-1 to the mixture of Example 19. Example 40 A polymerizable mixture is prepared by adding 0.4% of the polymerizable compound RM-169 and 100 ppm of the stabiliser ST-8-1 to the mixture of Example 22. Example 41 A polymerizable mixture is prepared by adding 0.4% of the polymerizable compound RM-157 and 150 ppm of the stabiliser H-2-1-1 to the mixture of Example 21 .",
+    "neg_da_count": 10,
+    "pos_da_count": 5,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "delta_eps_ranges": [],
+    "molecular_structures": [
+      "of formula IA\nIA in which the individual radicals, on each occurrence identically or differently, and each, independently of one another, have the following meaning:\nR1A straight chain, branched or cyclic alkyl having 1 to 25 C atoms, wherein one or more non-adj",
+      "of formula IA with one or more compounds of formula II or other compounds as described below and optionally with further LC compounds and/or additives.\nThe invention furthermore relates to an LC display comprising an LC medium according to the invention as descr",
+      "of formula IA, HA to HD or other components of the LC medium as disclosed below is not considered to be within the meaning of the term “polymerizable group” as used herein. The conditions for the polymerization of the polymerizable compounds of the LC medium are",
+      "of formula IA are those of formula IA1 and IA2: wherein R1A and R2A have the meanings given in formula IA.\nEspecially preferred are the compounds of formula IA-1 .\nFurther preferred compounds of formula IA are selected from the group consisting of the following "
+    ],
+    "examples": [
+      "Example 1\nThe nematic LC mixture C1 is formulated as follows.\nB(S)-2O-O4 5.0 % Cl.p. [°C]: 77\nB(S)-2O-O5 5.0 % An [589 nm, 20°C]: 0.1147\nB(S)-2O-O6 4.0 % 8|| [1 kHz, 20°C]: 4.2\nCC-3-V 32.5 % si [1 kHz, 20°C]: 10.4\nCLY-2-04 4.5 % As [1 kHz, 20°C]: -6.2\nCLY-3-02 5.5 % yi [mPa s, 20°C]: 123\nCLY-3-03 4.0 % Ki [pN, 20°C]: 15.6\nCLY-4-02 4.5 % K3 [pN, 20°C]: 13.6\nCLY-5-02 5.0 % V0 [V, 20°C]: 1.56\nCOB(S)-2-O4 10.0 % LTS bulk [h, -20°C]: 792\nCY-3-02 12.0 % PY-3-02 8.0 % 100.0 %\nThe mixture C1 does not contain a c",
+      "Example 1\nThe nematic LC mixture N1 is formulated as follows.\nB(S)-2O-O4 5.0 % Cl.p. [°C]: 77.5\nB(S)-2O-O5 5.0 % An [589 nm, 20°C]: 0.1155\nThe mixture N1 contains a compound of formula IA1 and shows a reduced viscosity.\nTo the mixture N1 are added 100 ppm of the stabiliser H-1-1-1.\nExample 2 The nematic LC mixture N2 is formulated as follows.\nThe mixture N2 contains a compound of formula IA10 and shows a reduced viscosity.\nIA10\nTo the mixture N2 are added 150 ppm of the stabiliser ST-3a-1 .\nST-3a-1\nExamp",
+      "Example 4\nThe nematic LC mixture N4 is formulated as follows.\nB(S)-2O-O4 5.0 % Cl.p. [°C]: 77.0\nB(S)-2O-O5 5.0 % An [589 nm, 20°C]: 0.1152\nThe mixture N4 contains a compound of formula IA12 and shows a reduced viscosity.\nIA12\nTo the mixture N4 are added 150 ppm of the stabiliser ST-3a-1 .\nExample 5\nThe nematic LC mixture N5 is formulated as follows.\nB(S)-2O-O4 5.0 % Cl.p. [°C]: 76.5\nB(S)-(c5)1O-O4 5.0 % An [589 nm, 20°C]: 0.1150\nB(S)-(c5)-10-O1 4.0 % As [1 kHz, 20°C]: -6.0\nCC-3-V 38.0 % yi [mPa s, 20°C]:",
+      "Example 6\nThe nematic LC mixture N6 is formulated as follows.\nTo the mixture N6 are added 150 ppm of the stabiliser ST-3b-1 . Example 7\nThe nematic LC mixture N7 is formulated as follows.\nTo the mixture N7 are added 50 ppm of the stabiliser H-2-1 -1 .\nH-2-1 -1\nExample 8 The nematic LC mixture N8 is formulated as follows.\nTo the mixture N8 are added 150 ppm of the stabiliser ST-3a-1 .\nExample 9\nThe nematic LC mixture N9 is formulated as follows.\nTo the mixture N9 are added 150 ppm of the stabiliser ST-3b-",
+      "Example 10\nThe nematic LC mixture N10 is formulated as follows.\nTo the mixture N10 are added 100 ppm of the stabiliser ST-8-1 .\nST-8-1\nExample 11 The nematic LC mixture N11 is formulated as follows.\nTo the mixture N11 are added 50 ppm of the stabiliser ST-9-1 .\nST-9-1 Comparison Example 2\nThe nematic LC mixture C2 is formulated as follows.\nThe mixture C2 does not contain a compound of formula IA.\nExample 12\nThe nematic LC mixture N12 is formulated as follows.\nThe mixture N12 contains a compound of formula",
+      "Example 13\nThe nematic LC mixture N13 is formulated as follows.\nThe mixture N13 contains a compound of formula IA2 and shows a reduced viscosity.\nTo the mixture N8 are added 100 ppm of the stabiliser ST-3a-1 .\nExample 14\nThe nematic LC mixture N9 is formulated as follows.\nThe mixture N14 contains a compound of formula IA5 and shows a reduced viscosity.\nTo the mixture N14 are added 100 ppm of the stabiliser ST-3b-1 .\nExample 15\nThe nematic LC mixture N15 is formulated as follows.\nThe mixture N15 contains a"
+    ],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "patent_id": "EP4514920A1",
+    "url": "https://patents.google.com/patent/EP4514920A1/en"
+  },
+  {
+    "title": "Liquid-crystal medium",
+    "abstract": "The present invention relates to liquid-crystal (LC) media as defined in claim 1, having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, in particular in LC displays.",
+    "filing_date": "",
+    "publication_date": "2024-01-04",
+    "assignee": "Merck Display Materials Shanghai Co Ltd Merck Electronics KGaA",
+    "claim1": "",
+    "neg_da_count": 5,
+    "pos_da_count": 3,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1"
+    ],
+    "molecular_structures": [
+      "of formula I defined below.\nThe invention relates to a liquid crystal medium comprising\na) one or more compounds of the formula I:\nin which\nAr denotes a methylene group or an aromatic hydrocarbon group having 6 to 40 C atoms or a heteroaromatic hydrocarbon group",
+      "formula I",
+      "of formula IID-10, one or more compounds of formula CL, and optionally with one or more chiral dopants, and optionally with one or more polymerisable compounds and optionally with further LC compounds and/or additives.\nThe invention furthermore relates to the us",
+      "formula I"
+    ],
+    "examples": [],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/544"
+    ],
+    "patent_id": "US12325817B2",
+    "url": "https://patents.google.com/patent/US12325817B2/en"
+  },
+  {
+    "title": "Liquid-crystalline medium",
+    "abstract": "The present invention relates to a liquid-crystal material (LC media) comprising thiophene derivatives which are stabilised by sterically hindered amines or amine derivatives (HALS, hindered amine light stabilisers), and to liquid-crystal displays (LC displays) which contain these LC materials.",
+    "filing_date": "",
+    "publication_date": "2024-11-25",
+    "assignee": "Merck Patent GmbH Merck KGaA Merck Electronics KGaA",
+    "claim1": "MOS (metal oxide semiconductor) or other diodes on silicon wafers as substrate.",
+    "neg_da_count": 2,
+    "pos_da_count": 4,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε≤1.5",
+      "Δε<−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the expression “dielectrically negative compounds” means compounds having Δε<−1"
+    ],
+    "molecular_structures": [
+      "of formula II with mixtures not containing such compounds, there is still a demand for a higher level of stabilization, in particular in terms of the VHR.\n[0040]\nThe complexity of the mechanisms of action and the fact that LC media are composed of up to ten or e",
+      "formula I",
+      "formula I",
+      "formula I"
+    ],
+    "examples": [],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/06",
+      "C09K19/46",
+      "C09K19/40"
+    ],
+    "patent_id": "US20230323207A1",
+    "url": "https://patents.google.com/patent/US20230323207A1/en"
+  },
+  {
+    "title": "Liquid crystal medium",
+    "abstract": "Liquid crystal (LC) media having negative dielectric anisotropy, the use thereof in an electro-optical display, particularly in a display with passive matrix addressing, based on the VA, ECB, FFS or IPS effect, and displays of this type, in particular an energy saving PM-VA display with low duty driving.",
+    "filing_date": "",
+    "publication_date": "2026-04-21",
+    "assignee": "Merck Electronics KGaA Merck Electronics Ltd",
+    "claim1": "",
+    "neg_da_count": 8,
+    "pos_da_count": 4,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1"
+    ],
+    "molecular_structures": [
+      "formula I",
+      "formula III",
+      "of formula I and one or more compounds selected from the group consisting of the formulae IIA, IIB, IIC and IID and one or more compounds of the formula III.\n[0044]\nThe invention furthermore relates to the use of LC media according to the invention in LC display",
+      "formula I"
+    ],
+    "examples": [],
+    "phys_params": [],
+    "cpc_codes": [
+      "C09K19/04"
+    ],
+    "patent_id": "US20240360362A1",
+    "url": "https://patents.google.com/patent/US20240360362A1/en"
+  },
+  {
+    "title": "Liquid-crystal medium comprising poylmerizable compounds",
+    "abstract": "The present invention relates to a liquid-crystal (LC) medium comprising polymerizable compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the PSA (polymer sustained alignment) or SA (self-aligning) mode, to an LC display of the PSA or SA mode comprising the LC medium, and to a process of manufacturing the LC display using the LC medium, especially an energy-saving LC display and energy-saving LC display production process.",
+    "filing_date": "",
+    "publication_date": "2025-09-02",
+    "assignee": "Merck Display Materials Shanghai Co Ltd Merck Electronics KGaA",
+    "claim1": "An LC medium having negative dielectric anisotropy and comprising one or more polymerizable compounds and one or more dopants of formula IA wherein alkyl and alkyl* each, independently of one another, denote a C1-6-straight-chain, C3-6-branched or C3-6-cyclic alkyl radical, wherein the total proportion of the dopants of formula IA in the LC medium is from 0.01 to 0.8% by weight.",
+    "neg_da_count": 6,
+    "pos_da_count": 1,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "Δε>1.5",
+      "Δε≤1.5",
+      "Δε<−1.5",
+      "Δε≤−0.8"
+    ],
+    "delta_eps_ranges": [
+      "Δε≤1.5 and the term “dielectrically negative compounds” denotes those having Δε<−1",
+      "Δε≤−0"
+    ],
+    "molecular_structures": [
+      "of formula IA to a polymerizable LC medium with negative dielectric anisotropy that preferably comprises a benzodithiophene compound of formula IB, it is possible to achieve an improved polymerization of the RMs with a reduced residual RM concentration after the",
+      "of formula IA, especially LC media containing a benzodithiophene compound of formula IB, can maintain a favourably low viscosity which enables faster response times, a low threshold voltage which enables a reduced driving voltage, and a low ratio γ1/K3 which con",
+      "of formula IA\nwherein alkyl and alkyl* each, independently of one another, denote a straight-chain, branched or cyclic alkyl radical having 1-6 C atoms, wherein the total proportion of the dopants of formula IA in the LC medium is from 0.01 to 0.8% by weight.\n[0",
+      "of formula IB\nin which the individual radicals, on each occurrence identically or differently, and each, independently of one another, have the following meaning:\nR1, R2 straight chain, branched or cyclic alkyl having 1 to 25 C atoms, wherein one or more non-adj"
+    ],
+    "examples": [
+      "Example 1\n[0482]\nThe nematic LC host mixture Cl is formulated as follows\n\t\n\tB(S)-2O-O5\t 2.00%\tcl.p.\t74.5° C.\n\tBCH-32\t 9.50%\tΔn\t0.1052\n\tCC-3-V1\t 6.50%\tΔε\t−3.2\n\tCCH-301\t 8.50%\tε||\t3.7\n\tCCH-34\t 3.00%\tγ1\t94 mPa · s\n\tCCP-3-1\t 9.50%\tK1\t12.6\n\tCCY-3-O1\t 6.50%\tK3\t14.9\n\tCCY-5-O2\t 9.50%\tγ1/K1\t6.31\n\tCLY-3-O2\t 1.00%\tV0\t2.29 V\n\tCPY-3-O2\t 5.50%\t\t\n\tCY-3-O2\t15.50%\t\t\n\tPCH-301\t 5.00%\t\t\n\tPCH-302\t 6.50%\t\t\n\tPY-2-O2\t11.50%\n\t\n[0483]\nThe mixture does not contain a dopant of formula IA.\nExample 1\n[0484]\nThe nematic LC host mixtur",
+      "Example 2\n[0506]\nThe nematic LC host mixture N2 is formulated as follows\n\t\n\tB(S)-2O-O4\t3.00%\tcl.p.\t74.7° C.\n\tB(S)-2O-O5\t5.00%\t\t\n\tBCH-32\t7.00%\t\t\n\tCC-3-V\t29.50%\t\t\n\tCC-3-V1\t9.00%\t\t\n\tCCP-3-1\t10.80%\t\t\n\tCCP-3-3\t2.00%\t\t\n\tCLY-3-O2\t2.00%\t\t\n\tCPY-2-O2\t6.50%\t\t\n\tCPY-3-O2\t5.50%\t\t\n\tPY-1-O2\t10.50%\t\t\n\tPY-2-O2\t9.00%\t\t\n\tPYP-2-3\t0.20%\n\t\n[0507]\nPolymerizable mixture P2 is prepared by adding 0.3% of polymerizable compound RM-1 and 0.01% of stabiliser S1-1 to nematic LC host mixture N2.\nExample 3\n[0508]\nThe nematic LC host mix",
+      "Example 4\n[0510]\nThe nematic LC host mixture N4 is formulated as follows\n\t\n\tB(S)-2O-O4\t4.00%\tcl.p.\t74.7° C.\n\tB(S)-2O-O5\t5.00%\t\t\n\tCC-3-V\t28.20%\t\t\n\tCC-3-V1\t8.00%\t\t\n\tCCP-3-1\t3.70%\t\t\n\tCCP-V-1\t10.60%\t\t\n\tCPY-2-O2\t7.80%\t\t\n\tCPY-3-O2\t12.00%\t\t\n\tPP-1-2V1\t7.60%\t\t\n\tPY-1-O2\t10.00%\t\t\n\tPY-3-O2\t3.00%\t\t\n\tPYP-2-3\t0.10%\n\t\n[0511]\nPolymerizable mixture P4 is prepared by adding 0.35% of polymerizable compound RM-17 and 0.015% of stabiliser S1-1 to nematic LC host mixture N4.\nExample 5\n[0512]\nThe nematic LC host mixture N5 is f",
+      "Example 6\n[0514]\nThe nematic LC host mixture N6 is formulated as follows\n\t\n\tB(S)-2O-O4\t4.50%\tcl.p.\t75.7° C.\n\tB(S)-2O-O5\t5.00%\t\t\n\tBCH-32\t6.00%\t\t\n\tCC-3-V\t29.70%\t\t\n\tCC-3-V1\t8.00%\t\t\n\tCCY-3-O1\t7.50%\t\t\n\tCCY-3-O2\t11.00%\t\t\n\tCLY-3-O2\t8.00%\t\t\n\tPY-1-O2\t10.50%\t\t\n\tPY-2-O2\t9.50%\t\t\n\tPYP-2-3\t0.30%\n\t\n[0515]\nPolymerizable mixture P6 is prepared by adding 0.3% of polymerizable compound RM-1 and 0.01% of stabiliser S2-1 to nematic LC host mixture N6.\nExample 7\n[0516]\nPolymerizable mixture P7 is prepared by adding 0.3% of po",
+      "Example 8\n[0517]\nPolymerizable mixture P8 is prepared by adding 0.3% of polymerizable compound RM-64 and 0.01% of stabiliser S1-1 to nematic LC host mixture N1.\nExample 9\n[0518]\nPolymerizable mixture P9 is prepared by adding 0.2% of polymerizable compound RM-120 and 0.01% of stabiliser S1-1 to nematic LC host mixture N1.\nExample 10\n[0519]\nPolymerizable mixture P10 is prepared by adding 0.3% of polymerizable compound RM-1, 0.2% of polymerizable compound RM-120 and 0.01% of stabiliser S1-1 to nematic LC ho",
+      "Example 11\n[0520]\nPolymerizable mixture P11 is prepared by adding 0.35% of polymerizable compound RM-1 and 0.01% of stabiliser S3-1 to nematic LC host mixture N2.\nExample 12\n[0521]\nPolymerizable mixture P12 is prepared by adding 0.3% of polymerizable compound RM-1, 0.2% of polymerizable compound RM-35 and 0.01% of stabiliser S2-1 to nematic LC host mixture N2.\nExample 13\n[0522]\nPolymerizable mixture P13 is prepared by adding 0.2% of polymerizable compound RM-145 and 0.01% of stabiliser S1-1 to nematic LC "
+    ],
+    "phys_params": [
+      "Δn\t0.1052",
+      "γ1\t94",
+      "Δn\t0.1057",
+      "γ1\t95"
+    ],
+    "cpc_codes": [
+      "C09K19/06",
+      "C09K19/44",
+      "C09K19/40"
+    ],
+    "patent_id": "US20230242817A1",
+    "url": "https://patents.google.com/patent/US20230242817A1/en"
+  }
+]

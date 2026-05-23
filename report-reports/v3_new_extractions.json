@@ -1,0 +1,458 @@
+[
+  {
+    "patent_id": "US20250368897A1",
+    "url": "https://patents.google.com/patent/US20250368897A1/en",
+    "title": "Patents",
+    "abstract": "A liquid crystal (LC) medium comprising one or more polymerizable compounds, its use for optical, electro-optical, and electronic purposes, in particular in LC displays, especially in LC displays of the PSA (polymer sustained alignment) or SA (self-aligning) mode. Also, an LC display of the PSA or SA mode comprising the LC medium, and a process of manufacturing the LC display using the LC medium, especially an energy-saving LC display and energy-saving LC display production process.",
+    "dates": {
+      "filing_date": "2025-05-28"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. A l",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 9,
+    "positive_dielectric_count": 1,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "compound of formula IV",
+      "formula I ",
+      "formula X ",
+      "formula VII",
+      "formula VIII ",
+      "formula VIII i",
+      "formula III ",
+      "formula IX i",
+      "formula IV i"
+    ],
+    "examples": "example in an amount of up to 45% of the mixture as a whole, but preferably up to 35%, in particular up to 10%.\n[0437]\nThe other constituents are preferably selected from nematic or nematogenic substances, in particular known substances, from the classes of the azoxybenzenes, benzylideneanilines, biphenyls, terphenyls, phenyl or cyclohexyl benzoates, phenyl or cyclohexyl cyclohexanecarboxylates, phenylcyclohexanes, cyclohexylbiphenyls, cyclohexylcyclohexanes, cyclohexylnaphthalenes, 1,4-biscyclohexylbiphenyls or cyclohexylpyrimidines, phenyl- or cyclohexyldioxanes, optionally halogenated stilbenes, benzyl phenyl ethers, tolanes, and substituted cinnamic acid esters.\n[0438]\nThe most important compounds which are suitable as constituents of LC phases of this type can be characterised by the formula R:\nin which L and E each denote a carbo- or heterocyclic ring system from the group formed by 1,4-disubstituted benzene and cyclohexane rings, 4,4′-disubstituted biphenyl, phenylcyclohexane and cyclohexylcyclohexane systems, 2,5-disubstituted pyrimidine and 1,3-dioxane rings, 2,6-disubstituted naphthalene, di- and tetrahydronaphthalene, quinazoline, and tetrahydroquinazoline,\nG denotes\nor a C—C single bond, Q denotes halogen, preferably chlorine, or —CN, and RR1 and RR2 each denote alkyl, alkenyl, alkoxy, alkoxyalkyl, or alkoxycarbonyloxy having up to 18, preferably up to 8, carbon atoms, or one of these radicals alternatively denotes CN, NC, NO2, NCS, CF3, SF5, OCF3, F, Cl, or Br.\n[0440]\nIn most of these compounds, RR1 and RR2 are different from one another, one of these radicals usually being an alkyl or alkoxy group. Other variants of the proposed substituents are also common. Many such substances or also mixtures thereof are commercially available. All these substances can be prepared by methods known from the literature.\n[0441]\nIt goes without saying for the person skilled in the art that the VA, IPS, or FFS mixture according to the invention may also comprise compounds in which, for example, H, N, O, C, and F have been replaced by the corresponding isotopes.\n[0442]\nThe LC medium has preferably a nematic LC phase.\n[0443]\nIn a preferred embodiment, the LC medium further comprises one or more, very preferably two or more, polymerizable compounds, preferably selected from polymerizable mesogenic compounds, also known as “reactive mesogens” or RMs, very preferably from formula M, as described above.\n[0444]\nIn another preferred embodiment, the LC medium further does not contain any other polymerizable compounds or reactive mesogens other than those of formula I.\n[0445]\nIn the polymerizable compounds, the polymerizable group P is a group which is suitable for a polymerization reaction, such as, for example, free-radical or ionic chain polymerization, polyaddition or polycondensation, or for a polymer-analogous reaction, for example addition or condensation onto a main polymer chain. Particular preference is given to groups for chain polymerization, in par",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 51
+  },
+  {
+    "patent_id": "EP4733370A1",
+    "url": "https://patents.google.com/patent/EP4733370A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, preferably having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, such as for example in energy efficient LC displays, in particular displays of the PS-VA type.",
+    "dates": {
+      "filing_date": "2025-10-20"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 4,
+    "positive_dielectric_count": 0,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "formula V i",
+      "compound of formula IV",
+      "formula I ",
+      "formula X ",
+      "formula VIII ",
+      "formula VIII i",
+      "formula III ",
+      "formula IX i",
+      "formula IV i"
+    ],
+    "examples": "example during storage or transport. Suitable types and amounts of stabilisers are known to the person skilled in the art and are described in the literature. Particularly suitable are, for example, the commercially available stabilisers from the Irganox® series (Ciba AG), such as, for example, Irganox® 1076. If stabilisers are employed, their proportion, based on the total amount of RMs or the polymerisable component (component P), is preferably 10-500,000 ppm, particularly preferably 50-50,000 ppm.\n[0205]\nThe polymerisable compounds of formula P in particular show good UV absorption in, and are therefore especially suitable for, a process of preparing a PSA display including one or more of the following features:\nthe polymerisable medium is exposed to UV light in the display in a 2-step process, including a first UV exposure step (\"UV-1 step\") to generate the tilt angle, and a second UV exposure step (\"UV-2 step\") to finish polymerization,\nthe polymerisable medium is exposed to UV light in the display generated by an energysaving UV lamp (also known as \"green UV lamps\"). These lamps are characterized by a relative low intensity (1/100-1/10 of a conventional UV1 lamp) in their absorption spectra from 300-380nm, and are preferably used in the UV2 step, but are optionally also used in the UV1 step when avoiding high intensity is necessary for the process.\nthe polymerisable medium is exposed to UV light in the display generated by a UV lamp with a radiation spectrum that is shifted to longer wavelengths, preferably 340nm or more, to avoid short UV light exposure in the PS-VA process.\n[0206]\nBoth using lower intensity and a UV shift to longer wavelengths protect the organic layer against damage that may be caused by the UV light.\n[0207]\nA preferred embodiment of the present invention relates to a process for preparing a PSA display as described above and below, comprising one or more of the following features:\nthe polymerisable LC medium is exposed to UV light in a 2-step process, including a first UV exposure step (\"UV-1 step\") to generate the tilt angle, and a second UV exposure step (\"UV-2 step\") to finish polymerization,\nthe polymerisable LC medium is exposed to UV light generated by a UV lamp having an intensity of from 0.5 mW/cm2 to 10 mW/cm2 in the wavelength range from 300-380nm, preferably used in the UV2 step, and optionally also in the UV1 step,\nthe polymerisable LC medium is exposed to UV light having a wavelength of 340 nm or more, and preferably 400 nm or less.\n[0208]\nThis preferred process can be carried out for example by using the desired UV lamps or by using a band pass filter and/or a cut-off filter, which are substantially transmissive for UV light with the respective desired wavelength(s) and are substantially blocking light with the respective undesired wavelengths. For example, when irradiation with UV light of wavelengths λ of 300-400nm is desired, UV exposure can be carried out using a wide band pass filter being substantial",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 79
+  },
+  {
+    "patent_id": "EP4621030A1",
+    "url": "https://patents.google.com/patent/EP4621030A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, such as for example in energy efficient LC displays, in particular displays based on the ECB, IPS or FFS effect.",
+    "dates": {
+      "filing_date": "2025-03-18"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 14,
+    "positive_dielectric_count": 5,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "formula V i",
+      "compound of formula IV",
+      "formula I ",
+      "formula X ",
+      "formula VIII ",
+      "formula VIII i",
+      "formula III ",
+      "formula IX i",
+      "formula IV i"
+    ],
+    "examples": "example during storage or transport. Suitable types and amounts of stabilisers are known to the person skilled in the art and are described in the literature. Particularly suitable are, for example, the commercially available stabilisers from the Irganox® series (Ciba AG), such as, for example, Irganox® 1076. If stabilisers are employed, their proportion, based on the total amount of RMs or the polymerisable component (component P), is preferably 10-500,000 ppm, particularly preferably 50-50,000 ppm.\n[0229]\nThe polymerisable compounds of formula P in particular show good UV absorption in, and are therefore especially suitable for, a process of preparing a PSA display including one or more of the following features:\nthe polymerisable medium is exposed to UV light in the display in a 2-step process, including a first UV exposure step (\"UV-1 step\") to generate the tilt angle, and a second UV exposure step (\"UV-2 step\") to finish polymerization,\nthe polymerisable medium is exposed to UV light in the display generated by an energy-saving UV lamp (also known as \"green UV lamps\"). These lamps are characterized by a relative low intensity (1/100-1/10 of a conventional UV1 lamp) in their absorption spectra from 300-380nm, and are preferably used in the UV2 step, but are optionally also used in the UV1 step when avoiding high intensity is necessary for the process.\nthe polymerisable medium is exposed to UV light in the display generated by a UV lamp with a radiation spectrum that is shifted to longer wavelengths, preferably 340nm or more, to avoid short UV light exposure in the PS-VA process.\n[0230]\nBoth using lower intensity and a UV shift to longer wavelengths protect the organic layer against damage that may be caused by the UV light.\n[0231]\nA preferred embodiment of the present invention relates to a process for preparing a PSA display as described above and below, comprising one or more of the following features:\nthe polymerisable LC medium is exposed to UV light in a 2-step process, including a first UV exposure step (\"UV-1 step\") to generate the tilt angle, and a second UV exposure step (\"UV-2 step\") to finish polymerization,\nthe polymerisable LC medium is exposed to UV light generated by a UV lamp having an intensity of from 0.5 mW/cm2 to 10 mW/cm2 in the wavelength range from 300-380nm, preferably used in the UV2 step, and optionally also in the UV1 step,\nthe polymerisable LC medium is exposed to UV light having a wavelength of 340 nm or more, and preferably 400 nm or less.\n[0232]\nThis preferred process can be carried out for example by using the desired UV lamps or by using a band pass filter and/or a cut-off filter, which are substantially transmissive for UV light with the respective desired wavelength(s) and are substantially blocking light with the respective undesired wavelengths. For example, when irradiation with UV light of wavelengths λ of 300-400nm is desired, UV exposure can be carried out using a wide band pass filter being substantia",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 85
+  },
+  {
+    "patent_id": "EP4582510A1",
+    "url": "https://patents.google.com/patent/EP4582510A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to a liquid-crystal (LC) medium or LC material based on a mixture of polar compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode and/or the fringe-field switching mode, to an LC display of the vertically aligned mode and/or the fringe-field switching mode comprising the LC medium, especially an energy-saving LC display and to a process of manufacturing the LC display.",
+    "dates": {
+      "filing_date": "2024-12-11"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 17,
+    "positive_dielectric_count": 6,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "compound of formula IV",
+      "formula I ",
+      "formula V\ni",
+      "formula VII",
+      "formula III ",
+      "formula I\ni",
+      "formula III",
+      "formula II ",
+      "formula VI"
+    ],
+    "examples": "example in an amount of up to 45 % of the mixture as a whole, but preferably up to 35 %, in particular up to 10 %.\n[0207]\nThe other constituents are preferably selected from nematic or nematogenic substances, in particular known substances, from the classes of the azoxybenzenes, benzylideneanilines, biphenyls, terphenyls, phenyl or cyclohexyl benzoates, phenyl or cyclohexyl cyclohexanecarboxylates, phenylcyclohexanes, cyclohexylbiphenyls, cyclohexylcyclohexanes, cyclohexylnaphthalenes, 1,4-biscyclohexylbiphenyls or cyclohexylpyrimidines, phenyl- or cyclohexyldioxanes, optionally halogenated stilbenes, benzyl phenyl ethers, tolanes and substituted cinnamic acid esters.\n[0208]\nThe most important compounds which are suitable as constituents of liquid-crystal phases of this type can be characterised by the formula R\n\n        RR1-L-G-E-RR2     R\n\nin which L and E each denote a carbo- or heterocyclic ring system from the group formed by 1,4-disubstituted benzene and cyclohexane rings, 4,4'-disubstituted biphenyl, phenylcyclohexane and cyclohexylcyclohexane systems, 2,5-disubstituted pyrimidine and 1,3-dioxane rings, 2,6-disubstituted naphthalene, di- and tetrahydronaphthalene, quinazoline and tetrahydroquinazoline,\nG denotes\t-CH=CH-\t-N(O)=N-\n\t-CH=CQ-\t-CH=N(O)-\n\t-C---C-\t-CH2-CH2-\n\t-CO-O-\t-CH2-O-\n\t-CO-S-\t-CH2-S-\n\t-CH=N-\t-COO-Phe-COO-\n\t-CF2O-\t-CF=CF-\n\t-OCF2-\t-OCH2-\n\t-(CH2)4-\t-(CH2)3O-\nor a C-C single bond, Q denotes halogen, preferably chlorine, or -CN, and RR1 and RR2 each denote alkyl, alkenyl, alkoxy, alkoxyalkyl or alkoxycarbonyloxy having up to 18, preferably up to 8, carbon atoms, or one of these radicals alternatively denotes CN, NC, NO2, NCS, CF3, SF5, OCF3, F, Cl or Br.\n[0209]\nIn most of these compounds, RR1 and RR2 are different from one another, one of these radicals usually being an alkyl or alkoxy group. Other variants of the proposed substituents are also common. Many such substances or also mixtures thereof are commercially available. All these substances can be prepared by methods known from the literature.\n[0210]\nIt goes without saying for the person skilled in the art that the VA, IPS or FFS mixture according to the invention may also comprise compounds in which, for example, H, N, O, CI and F have been replaced by the corresponding isotopes.\n[0211]\nThe LC medium has preferably a nematic LC phase.\n[0212]\nThe the LC medium may also comprise one or more stabilisers in order to prevent undesired spontaneous polymerization of the RMs, for example during storage or transport. Suitable types and amounts of stabilisers are known to the person skilled in the art and are described in the literature. Particularly suitable are, for example, the commercially available stabilisers from the Irganox® series (Ciba AG), such as, for example, Irganox® 1076. If stabilisers are employed, their proportion, based on the total amount of RMs or the polymerizable component (component A), is preferably 10-50,000 ppm, particularly preferably 50-5,000 ppm.\n[0213]\nI",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 85
+  },
+  {
+    "patent_id": "EP4610332A1",
+    "url": "https://patents.google.com/patent/EP4610332A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to a liquid-crystal (LC) medium (as a subcategory of liquid crystal material), based on a mixture of polar compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode, to an LC display of the vertically aligned mode comprising the LC medium, especially an energy-saving LC display and to a process of manufacturing the LC display.",
+    "dates": {
+      "filing_date": "2025-02-25"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 17,
+    "positive_dielectric_count": 6,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "compound of formula I",
+      "formula III",
+      "formula II",
+      "formula IV",
+      "formula V i",
+      "compound of formula IV",
+      "formula I ",
+      "formula II ",
+      "formula IV "
+    ],
+    "examples": "example in an amount of up to 45 % of the mixture as a whole, but preferably up to 35 %, in particular up to 10 %.\n[0220]\nThe other constituents are preferably selected from nematic or nematogenic substances, in particular known substances, from the classes of the azoxybenzenes, benzylideneanilines, biphenyls, terphenyls, phenyl or cyclohexyl benzoates, phenyl or cyclohexyl cyclohexanecarboxylates, phenylcyclohexanes, cyclohexylbiphenyls, cyclohexylcyclohexanes, cyclohexylnaphthalenes, 1,4-biscyclohexylbiphenyls or cyclohexylpyrimidines, phenyl- or cyclohexyldioxanes, optionally halogenated stilbenes, benzyl phenyl ethers, tolanes and substituted cinnamic acid esters.\n[0221]\nThe most important compounds which are suitable as constituents of liquid-crystal phases of this type can be characterised by the formula R\n\n        RR1-L-G-E-RR2     R\n\nin which L and E each denote a carbo- or heterocyclic ring system from the group formed by 1,4-disubstituted benzene and cyclohexane rings, 4,4'-disubstituted biphenyl, phenylcyclohexane and cyclohexylcyclohexane systems, 2,5-disubstituted pyrimidine and 1,3-dioxane rings, 2,6-disubstituted naphthalene, di- and tetrahydronaphthalene, quinazoline and tetrahydroquinazoline,\nG denotes\t-CH=CH-\t-N(O)=N-\n\t-CH=CQ-\t-CH=N(O)-\n\t-C≡C-\t-CH2-CH2-\n\t-CO-O-\t-CH2-O-\n\t-CO-S-\t-CH2-S-\n\t-CH=N-\t-COO-Phe-COO-\n\t-CF2O-\t-CF=CF-\n\t-OCF2-\t-OCH2-\n\t-(CH2)4-\t-(CH2)3O-\nor a C-C single bond, Q denotes halogen, preferably chlorine, or -CN, and RR1 and RR2 each denote alkyl, alkenyl, alkoxy, alkoxyalkyl or alkoxycarbonyloxy having up to 18, preferably up to 8, carbon atoms, or one of these radicals alternatively denotes CN, NC, NO2, NCS, CF3, SF5, OCF3, F, Cl or Br.\n[0222]\nIn most of these compounds, RR1 and RR2 are different from one another, one of these radicals usually being an alkyl or alkoxy group. Other variants of the proposed substituents are also common. Many such substances or also mixtures thereof are commercially available. All these substances can be prepared by methods known from the literature.\n[0223]\nIt goes without saying for the person skilled in the art that the VA, IPS or FFS mixture according to the invention may also comprise compounds in which, for example, H, N, O, Cl and F have been replaced by the corresponding isotopes.\n[0224]\nThe LC medium has preferably a nematic LC phase.\n[0225]\nIn a preferred embodiment the LC medium further comprises one or more, very preferably one, two or three, polymerizable compounds, preferably selected from polymerizable mesogenic compounds, also known as \"reactive mesogens\" or RMs, very preferably from formula M as described above.\n[0226]\nIn the polymerizable compounds, the polymerizable group P is a group which is suitable for a polymerization reaction, such as, for example, free-radical or ionic chain polymerization, polyaddition or polycondensation, or for a polymer-analogous reaction, for example addition or condensation onto a main polymer chain. Particular preference is given to gro",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 69
+  },
+  {
+    "patent_id": "WO2026052594A1",
+    "url": "https://patents.google.com/patent/WO2026052594A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to an energy-efficient light valve comprising an LC material which is switchable between an optically transparent state and an opaque state and to the use of the light valve in spatial light modulators for handling occlusion in near-eye displays.",
+    "dates": {
+      "filing_date": "2025-09-02"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. The light valve according to one or more of claims 1 to 10, wherein the liquidcrystalline medium comprises at least three different dichroic dyes.",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 5,
+    "positive_dielectric_count": 4,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "formula XIX",
+      "formula I ",
+      "formula III ",
+      "formula XXII",
+      "formula III",
+      "formula XII",
+      "formula II ",
+      "formula II",
+      "formula XVIII"
+    ],
+    "examples": "example EP 1 378 557 A1.\nSuitable LC mixtures having positive dielectric anisotropy which are suitable for LCDs\n15 and especially for IPS displays are known, for example, from JP 07-181 439 (A), EP 0 667 555, EP 0 673 986, DE 195 09 410, DE 195 28 106, DE 195 28 107, WO 96/23 851 , WO 96/28 521 and WO2012/079676.\nPreferred embodiments of the liquid-crystalline media having negative or positive\n20 dielectric anisotropy according to the invention are indicated below.\nThe LC host mixture preferably is a nematic LC mixture. In an embodiment the LC mixture does not have a chiral LC phase. In another embodiment the LC mixture exhibits a chiral LC phase.\nIn a particular embodiment the LC medium as used according to the invention has a positive dielectric anisotropy. In this case preference is given to liquid-crystalline mixtures having a dielectric anisotropy As in the range from 2.5 to 50.0, more preferably in the range from 5.0 to 25.0, and particularly preferably from 8.0 to 15.0.\n30\nAs denotes the dielectric anisotropy, wherein As = s - s±. The dielectric anisotropy As is determined at 20°C and 1 kHz.\nIn a preferred embodiment an LC medium having a negative dielectric anisotropy is provided. In this case preference is given to liquid-crystalline mixtures having a Foreignfiling text P24-159\n- 21 - dielectric anisotropy As in the range from -2.0 to -8.0, more preferably in the range from -3.0 to -6.0, and particularly preferably from -3.5 to -5.0.\nFavourably the medium according to the invention can have a suitably high optical anisotropy An, which is also known as the birefringence. The medium as described\n5 herein and as used in the switching layer and the light valve according to the invention preferably exhibits an optical anisotropy An, determined at 20°C and 589 nm, of 0.040 or more, more preferably of 0.075 or more, still more preferably of 0.010 or more, and in particular of 0.15 or more.\nAbove and below, An denotes the optical anisotropy, wherein An = ne - n0, and the optical anisotropy An is determined at 20°C and a wavelength of 589.3 nm.\nIt is preferred that the medium as used according to the invention comprises one or more mesogenic compounds selected from the compounds of formulae I and II\n15 wherein\nR1 and R2 denote, independently of one another, a group selected from F, Cl, CF3, OCF3, and straight-chain or branched alkyl or alkoxy having 1 to 15 carbon atoms or straight-chain or\n30 branched alkenyl having 2 to 15 carbon atoms which is unsubstituted, monosubstituted by CN or CF3 or mono- or polysubstituted by halogen and wherein one or more CH2 groups may be, in each case independently of one another, replaced by Foreignfiling text P24-159\n- 22 - or -C=C- in such a manner that oxygen atoms are not linked directly to one another,\n5 A11 denotes n denotes 0 or 1, and\nA21, A31 and A41 denote, independently of one another,\n20 wherein L is on each occurrence, identically or differently, halogen selected from F, Cl and Br, and\nR3 and R4 denot",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 170
+  },
+  {
+    "patent_id": "WO2025261973A1",
+    "url": "https://patents.google.com/patent/WO2025261973A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to a liquid crystal material comprising a thiophene derivative of formula S as specified in claim 1, to a thiophene compound and to high- frequency components comprising said media, especially microwave components for high-frequency devices, such as devices for shifting the phase of microwaves, tunable filters, tunable metamaterial structures, and electronic beam steering antennas, e.g., phased array antennas.",
+    "dates": {
+      "filing_date": "2025-06-16"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. A l",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 52,
+    "positive_dielectric_count": 1,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "formula I ",
+      "formula X ",
+      "formula VII",
+      "formula VIII ",
+      "formula III ",
+      "formula IV i",
+      "formula III",
+      "formula VII ",
+      "formula XII"
+    ],
+    "examples": "Examples are also compounds listed in Table F below. Chiral compounds preferably used according to the present invention are selected from 15 the group consisting of the formulae shown below. Particular preference is given to chiral dopants selected from the group consisting of compounds of the following formulae A-I to A-III and A-Ch: 20 25 30 35 P24-121 AT - 126 - 5 in which Ra11, Ra12 and Rb12, independently of one another, denote alkyl having 1 to 15 C atoms, in which, in addition, one or more non-adjacent CH2 groups may each be replaced, independently of one another, by -C(Rz)=C(Rz)-, -C^C-, -O-, 10 -S-, -CO-, -CO-O-, -O-CO- or -O-CO-O- in such a way that O and/or S atoms are not linked directly to one another, and in which, in addition, one or more H atoms may each be replaced by F, Cl, Br, I or CN, preferably alkyl, more preferably n-alkyl, with the proviso that Ra12 is different from Rb12, 15 Ra21 and Ra22, independently of one another, denote alkyl having 1 to 15 C atoms, in which, in addition, one or more non-adjacent CH2 groups may each be replaced, independently of one another, by -C(Rz)=C(Rz)-, -C^C-, -O-, - S-, -CO-, -CO-O-, -O-CO- or -O-CO-O- in such a way that O and/or S atoms are not linked directly to one another, and in which, in addition, 20 one or more H atoms may be replaced by F, Cl, Br, I or CN, preferably both are alkyl, more preferably n-alkyl, Ra31, Ra32and Rb32, independently of one another, denote straight-chain or branched alkyl having 1 to 15 C atoms, in which, in addition, one or more non- adjacent CH2 groups may each be replaced, independently of one 25 another, by -C(Rz)=C(Rz)-, -C^C-, -O-, -S-, -CO-, -CO-O-, -O-CO- or -O-CO-O- in such a way that O and/or S atoms are not linked directly to one another, and in which, in addition, one or more H atoms may be replaced by F, Cl, Br, I or CN, preferably alkyl, more preferably n-alkyl, with the proviso that Ra32 is 30 different from Rb32; Rz denotes H, CH3, F, Cl, or CN, preferably H or F, R8 has one of the meanings of Ra11 given above, preferably alkyl, more preferably n-alkyl having 1 to 15 C atoms, Z8 denotes- C(O)O-, CH2O, CF2O or a single bond, preferably -C(O)O-, 35 P24-121 AT - 127 - A11 is defined as A12 below, or alternatively denotes 5 10 A12 15 20 , 25 in which L12 on each occurrence, independently of one another, denotes halogen, CN, or alkyl, alkenyl, alkoxy or alkenyloxy having up to 12 C atoms and in which one or more H atoms are optionally replaced with halogen, preferably methyl, ethyl, Cl or F, 30 particularly preferably F, denotes 35 P24-121 AT - 128 - 5 A22 has the meanings given for A12 10 A31 has the meanings given for A11, or alternatively denotes 15 A32 has the meanings given for A12. n2 on each occurrence, identically or differently, is 0, 1 or 2, and n3 is 1, 2 or 3, and r is 0, 1, 2, 3 or 4. 20 Particular preference is given to dopants selected from the group consisting of the compounds of the following formulae: 25 30 35 P24-121 AT - 129 - 5 ",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 91
+  },
+  {
+    "patent_id": "WO2026077921A1",
+    "url": "https://patents.google.com/patent/WO2026077921A1/en",
+    "title": "Patents",
+    "abstract": "The new LC media exhibit a ferroelectric nematic (NF) phase at ambient temperature. They comprise at least one or more compounds of formula I having two rings, I in which the variable groups have the meanings indicated in the text and in the claims. The liquid crystal materials are useful for electro-optics, electronics, electro-mechanic and other applications for materials with very high dielectric permittivity.",
+    "dates": {
+      "filing_date": "2025-10-07"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. Electro-optical liquid-crystal device comprising a liquid crystalline medium according to at least one of claims 1 to 8.",
+    "is_negative_dielectric": false,
+    "negative_dielectric_count": 0,
+    "positive_dielectric_count": 1,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "formula II",
+      "formula III",
+      "compound of formula ",
+      "compound of formula 111",
+      "formula IV",
+      "formula I ",
+      "formula II ",
+      "formula I",
+      "formula III "
+    ],
+    "examples": "example by distillation, after thorough mixing. It is furthermore possible to prepare the mixtures in other P24-174-SEC\n- 33 - conventional manners, for example by using premixes, for example homologue mixtures, or using so-called “multi-bottle” systems.\nThe liquid-crystal mixtures may also comprise further additives known to the person skilled in the art and described in the literature. For example, 0 to 15%,\n5 preferably 0 to 10%, of pleochroic dyes, chiral dopants, stabilisers or nanoparticles can be added. The individual compounds added are employed in concentrations of 0.01 to 6%, preferably 0.05 to 3%. However, the concentration data of the other constituents of the liquid-crystal mixtures, i.e. the liquidcrystalline or mesogenic compounds, are given here without taking into account the concentration of these additives.\nThe liquid-crystal mixtures according to the invention enable a significant broadening of the available parameter latitude.\nThe invention also relates to electro-optical devices, preferably displays (in\n15 particular TFT displays having two plane-parallel outer plates, which, together with a frame, form a cell, integrated non-linear elements for switching individual pixels on the outer plates, and a ferroelectric nematic liquid-crystal material having positive dielectric anisotropy and high specific resistance located in the cell) which contain media of this type, and to the use of these media for electro-\n20 optical purposes.\nThe expression \"alkyl\" encompasses unbranched and branched alkyl groups having 1 to 12 carbon atoms, preferably 1 to 10 carbon atoms, in particular and preferably the unbranched groups methyl, ethyl, n-propyl, n-butyl, n-pentyl, n- hexyl and n-heptyl and further, alternatively, the groups n-butyl, n-pentyl, n-hexyl\n25 and n-heptyl substituted by one methyl, ethyl or propyl. Groups having 1-5 carbon atoms are generally preferred.\nThe expression \"alkenyl\" encompasses unbranched and branched alkenyl groups having up to 12 carbon atoms, in particular the unbranched groups. Particularly preferred alkenyl groups are C2-C7-1 E-alkenyl, C4-C7-3E-alkenyl, C5-C7-4-alkenyl, C6-C7-5-alkenyl and C7-6-alkenyl, in particular C2-C7-1 E-alkenyl, C4-C7-3E-alkenyl and C5-C7-4-alkenyl. Examples of preferred alkenyl groups are vinyl, 1 E-propenyl, 1 E-butenyl, 1 E-pentenyl, 1 E-hexenyl, 1 E-heptenyl, 3-butenyl, 3E-pentenyl, 3E-hexenyl, 3E-heptenyl, 4-pentenyl, 4Z-hexenyl, 4E-hexenyl, 4Z-heptenyl,\n35 5-hexenyl, 6-heptenyl and the like. Groups having 2 to 5 carbon atoms are generally preferred. P24-174-SEC\n- 34 -\nThe expression \"halogenated alkyl radical\" preferably encompasses mono- or polyfluorinated and/or -chlorinated radicals. Perhalogenated radicals are included. Particular preference is given to fluorinated alkyl radicals, in particular CF3, CH2CF3, CH2CHF2, CHF2, CH2F, CHFCF3 and CF2CHFCF3. The expression\n5 \"halogenated alkenyl radical\" and related expressions are explained correspondingly.\nThe construction of a matr",
+    "phys_params": {},
+    "relevant": false,
+    "lc_count": 81
+  },
+  {
+    "patent_id": "WO2025196107A1",
+    "url": "https://patents.google.com/patent/WO2025196107A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to an indene derivative of formula D as specified in claim 1, to a liquid crystal medium comprising a compound of formula D and to high- frequency components comprising these media, especially microwave components for high-frequency devices, such as devices for shifting the phase of microwaves, tunable filters, tunable metamaterial structures, and electronic beam steering antennas, e.g. phased array antennas.",
+    "dates": {
+      "filing_date": "2025-03-19"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. A c",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 12,
+    "positive_dielectric_count": 1,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "formula I ",
+      "formula X ",
+      "formula VII",
+      "formula VIII ",
+      "formula III ",
+      "formula III i",
+      "formula X i",
+      "formula III",
+      "formula VII "
+    ],
+    "examples": "Examples are also compounds listed in Table F below. Chiral compounds preferably used according to the present invention are selected from the group consisting of the formulae shown below. Particular preference is given to chiral dopants selected from the group consisting of compounds of the following formulae A-I to A-III and A-Ch: in which Ra11, Ra12 and Rb12, independently of one another, denote alkyl having 1 to 15 C atoms, in which, in addition, one or more non-adjacent CH2 groups may each be replaced, independently of one another, by -C(Rz)=C(Rz)-, -C^C-, -O-, -S-, -CO-, -CO-O-, -O-CO- or -O-CO-O- in such a way that O and/or S atoms are not linked directly to one another, and in which, in addition, P24-041 AT one or more H atoms may each be replaced by F, Cl, Br, I or CN, preferably alkyl, more preferably n-alkyl, with the proviso that Ra12 is different from Rb12, Ra21 and Ra22, independently of one another, denote alkyl having 1 to 15 C atoms, in which, in addition, one or more non-adjacent CH2 groups may each be replaced, independently of one another, by -C(Rz)=C(Rz)-, -C^C-, -O-, - S-, -CO-, -CO-O-, -O-CO- or -O-CO-O- in such a way that O and/or S atoms are not linked directly to one another, and in which, in addition, one or more H atoms may be replaced by F, Cl, Br, I or CN, preferably both are alkyl, more preferably n-alkyl, Ra31, Ra32and Rb32, independently of one another, denote straight-chain or branched alkyl having 1 to 15 C atoms, in which, in addition, one or more non- adjacent CH2 groups may each be replaced, independently of one another, by -C(Rz)=C(Rz)-, -C^C-, -O-, -S-, -CO-, -CO-O-, -O-CO- or -O-CO-O- in such a way that O and/or S atoms are not linked directly to one another, and in which, in addition, one or more H atoms may be replaced by F, Cl, Br, I or CN, preferably alkyl, more preferably n-alkyl, with the proviso that Ra32 is different from Rb32; Rz denotes H, CH3, F, Cl, or CN, preferably H or F, R8 has one of the meanings of Ra11 given above, preferably alkyl, more preferably n-alkyl having 1 to 15 C atoms, Z8 denotes- C(O)O-, CH2O, CF2O or a single bond, preferably -C(O)O-, A11 is defined as A12 below, or alternatively denotes P24-041 AT A12 denotes in which L12 on each occurrence, independently of one another, denotes halogen, CN, or alkyl, alkenyl, alkoxy or alkenyloxy having up to 12 C atoms and in which one or more H atoms are optionally replaced with halogen, preferably methyl, ethyl, Cl or F, particularly preferably F, A21 denotes A22 has the meanings given for A12 P24-041 AT A31 has the meanings given for A11, or alternatively denotes A32 has the meanings given for A12. n2 on each occurrence, identically or differently, is 0, 1 or 2, and n3 is 1, 2 or 3, and r is 0, 1, 2, 3 or 4. Particular preference is given to dopants selected from the group consisting of the compounds of the following formulae: P24-041 AT in which m is, on each occurrence, identically or differently, an integer from 1 to 9 and n is, on ",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 101
+  },
+  {
+    "patent_id": "WO2025190813A1",
+    "url": "https://patents.google.com/patent/WO2025190813A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, such as for example in LC displays, in particular energy efficient displays based on the ECB, IPS or FFS effect.",
+    "dates": {
+      "filing_date": "2025-03-07"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. A liquid crystal medium comprising a) one or more compounds of formula I in which\nR11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy each having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy each having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals -CO-O- or -O-CO- in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen,\nL11 and L12, independently, denote F or Cl,\nY1 denotes H or methyl, and\nZ1 denotes a single bond, -CH2CH2-, -CH=CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-, -OCO-, -C2F4-, -CF=CF- or -CH=CHCH2O-, and b) one or more compounds selected from the group of compounds of the formulae HA, IIB, IIC and HD, in which\nR21A R21 B R21C R21 D R22A R22B R22C and R22D, identically or differently, denote H, a straight chain alkyl or alkoxy radical having 1 to 15 C atoms, or a branched alkyl or alkoxy radical having 3 to 15 C atoms, where one or more CH2 groups in these radicals -CO-O- or -O-CO- in such a way that O atoms are not linked directly to one another, and in which, in addition, one or more H atoms may be replaced by halogen,\nL21 and L22 each, independently of one another, denote F, Cl, CF3 or CHF2,\nY2 denotes H, F, Cl, CF3, CHF2 or CH3,\nZ2, Z2B and Z2Deach, independently of one another, denote a single bond, -CH2CH2-, -CH=CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-,\n-OCO-, -CF=CF- or -CH=CHCH2O-, p denotes 0, 1 or 2, and q denotes 0 or 1.",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 11,
+    "positive_dielectric_count": 4,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula V",
+      "formula V i",
+      "formula VII 1",
+      "formula I ",
+      "formula X\n",
+      "formula X ",
+      "formula VIII ",
+      "formula VIII i",
+      "formula III ",
+      "formula IX i"
+    ],
+    "examples": "example during storage or transport. Suitable types and amounts of stabilisers are known to the person skilled in the art and are described in the literature. Particularly suitable are, for example, the commercially available stabilisers from the Irganox® series (Ciba AG), such as, for example, Irganox® 1076. If stabilisers are employed, their proportion, based on the total amount of RMs or the polymerisable component (component P), is preferably 10-500,000 ppm, particularly preferably 50-50,000 ppm.\nThe polymerisable compounds of formula P in particular show good UV absorption in, and are therefore especially suitable for, a process of preparing a PSA display including one or more of the following features:\n- the polymerisable medium is exposed to UV light in the display in a 2-step process, including a first UV exposure step (\"UV-1 step\") to generate the tilt angle, and a second UV exposure step (\"UV-2 step\") to finish polymerization,\n- the polymerisable medium is exposed to UV light in the display generated by an energy- saving UV lamp (also known as “green UV lamps”). These lamps are characterized by a relative low intensity (1/100-1/10 of a conventional UV1 lamp) in their absorption spectra from 300-380nm, and are preferably used in the UV2 step, but are optionally also used in the UV1 step when avoiding high intensity is necessary for the process. - the polymerisable medium is exposed to UV light in the display generated by a UV lamp with a radiation spectrum that is shifted to longer wavelengths, preferably 340nm or more, to avoid short UV light exposure in the PS-VA process.\nBoth using lower intensity and a UV shift to longer wavelengths protect the organic layer against damage that may be caused by the UV light.\nA preferred embodiment of the present invention relates to a process for preparing a PSA display as described above and below, comprising one or more of the following features:\n- the polymerisable LC medium is exposed to UV light in a 2-step process, including a first UV exposure step (\"UV-1 step\") to generate the tilt angle, and a second UV exposure step (\"UV-2 step\") to finish polymerization,\n- the polymerisable LC medium is exposed to UV light generated by a UV lamp having an intensity of from 0.5 mW/cm2 to 10 mW/cm2 in the wavelength range from 300-380nm, preferably used in the UV2 step, and optionally also in the UV1 step,\n- the polymerisable LC medium is exposed to UV light having a wavelength of 340 nm or more, and preferably 400 nm or less.\nThis preferred process can be carried out for example by using the desired UV lamps or by using a band pass filter and/or a cut-off filter, which are substantially transmissive for UV light with the respective desired wavelength(s) and are substantially blocking light with the respective undesired wavelengths. For example, when irradiation with UV light of wavelengths X of 300-400nm is desired, UV exposure can be carried out using a wide band pass filter being substantially transmissiv",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 112
+  },
+  {
+    "patent_id": "WO2025219502A1",
+    "url": "https://patents.google.com/patent/WO2025219502A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to liquid-crystalline (LC) materials and to energy efficient liquid-crystal displays (LCDs) containing these materials, especially to gaming displays and AR/VR headsets addressed by an active matrix and in particular to LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB- FFS, positive VA or positive PS-VA type.",
+    "dates": {
+      "filing_date": "2025-04-17"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "",
+    "is_negative_dielectric": false,
+    "negative_dielectric_count": 0,
+    "positive_dielectric_count": 5,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "Formula II i",
+      "Formula XV i",
+      "Formula I 25",
+      "Formula XVI",
+      "Formula XXX",
+      "compound of Formula II",
+      "Formula XIV",
+      "compound of Formula ",
+      "Formula III i",
+      "Formula XXIII"
+    ],
+    "examples": "example by mixing one or more compounds of Claim 1 with one or more compounds of Formulae LP2 and II-XXXII or with further LC com- pounds and/or additives. In general, the desired amount of the components used in lesser amount is dissolved in the components making up the principal constituent, 10 advantageously at elevated temperature. It is also possible to mix solutions of the components in an organic solvent, for example in acetone, chloroform or methanol, and to remove the solvent again, for example by distillation, after thorough mixing. The LC media may also comprise further additives known to the person skilled in the 15 art and described in the literature, such as, for example, polymerisation initiators, inhibitors, surface-active substances, light stabilisers, antioxidants, e.g. BHT, TEMPOL, microparticles, free-radical scavengers, nanoparticles, etc. For example, 0 to 15% of pleochroic dyes or chiral dopants or initiators like Irgacure® 651 or Irgacure® 907 can be added. Suitable stabilisers and dopants are mentioned below in Tables F and G. In 20 a preferred embodiment, the LC medium comprises one or more stabilisers selected from Table G. Preferably, the proportion of stabilisers, like those of Formula ST and H, as described above or listed in Table G, in the LC medium is from 10 to 2000 ppm, very preferably from 30 to 1000 ppm. 25 Furthermore, it is possible to add to the LC media, for example, 0 to 15% by weight of pleochroic dyes, furthermore nanoparticles, conductive salts, preferably ethyldimethyldodecylammonium 4-hexoxybenzoate, tetrabutylammonium tetraphenylborate or complex salts of crown ethers (cf., for example, Haller et al., Mol. 30 Cryst. Liq. Cryst.24, 249-258 (1973)), for improving the conductivity, or substances for modifying the dielectric anisotropy, the viscosity and/or the alignment of the nematic phases. Substances of this type are described, for example, in DE-A 2209127, 2240864, 2321632, 2338281, 2450088, 2637430 and 2853728. 35 For the present invention and in the following examples, the structures of the LC compounds are indicated by means of acronyms, with the transformation into chemical formulae taking place in accordance with Tables A to C below. All substituents Foreignfiling_text P24-078 - 131 - Cm H 2m+1 , C n H 2n+1 , and C l H 2l+1 or C m H 2m-1 , C n H 2n-1 and C l H 2l-1 are straight- chain alkyl groups or alkylene groups, in each case having n, m and l C atoms respectively. Preferably, n, m and l are independently of each other 1, 2, 3, 4, 5, 6, or 7. Table A shows the codes for the ring elements of the nuclei of the compound, Table B 5 lists the bridging units, and Table C lists the meanings of the symbols for the left- and right-hand end groups of the molecules. The acronyms are composed of the codes for the ring elements with optional linking groups, followed by a first hyphen and the codes for the left-hand end group, and a second hyphen and the codes for the right-hand end group. Table D shows",
+    "phys_params": {},
+    "relevant": false,
+    "lc_count": 65
+  },
+  {
+    "patent_id": "WO2026068740A1",
+    "url": "https://patents.google.com/patent/WO2026068740A1/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to liquid-crystalline (LC) media or LC materials and to energy saving liquid-crystal displays (LCDs) containing these media, especially to gaming displays and AR/VR headsets addressed by an active matrix and in particular to LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB- FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.",
+    "dates": {
+      "filing_date": "2025-09-26"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. Liquid-crystalline medium, characterised in that it comprises one or more\n5 compounds of Formula S in which the individual substituents, on each occurrence identically or differently, and each, independently of one another, have the following meanings:\n15\n20\n25\nR1 and R2 each, independently of one another, denote a H atom, an alkyl or an alkoxy group having 1 to 12 C atoms or an alkenyl or an alkenyloxy group having 2 to 12 C atoms in which one or more non-adjacent CH2 groups are optionally substituted by -C=C-, -CF2O-, -OCF2-, -CH=CH-,\n, -CO-O- or -O-CO- in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by a halogen atom or a cycloalkyl or a cycloalkoxy group having 3 to 12 C\n35 Foreignfiling text P24-166-SEC-WO01\n282 atoms, in which one or more H atoms may be replaced by a halogen atom; to 1. each, independently of one another, denote H, F or Cl;\n5 to yS each, independently of one another, denote a H atom, an alkyl group having 1 to 3 C atoms or an alkenyl group having 2 to 3 C atoms in which one or more non-adjacent CH2 groups are optionally substituted by -C=C-, -CF2O-, -OCF2-, -CH=CH-, -O-, -CO-O- or -O-CO- in such a way that O atoms are not linked directly to one another, preferably H or CH3;\nZ1 denotes -CF2O-, -OCF2-, -CH2O-, -OCH2-, -CO-O-, -O-CO-, -C2H4-,\n15\n-C2F4-, -CF2CH2-, -CH2CF2-, -CFHCFH-, -CFHCH2-, -CH2CFH-, -CF2CFH-, -CFHCF2-, -CH=CH-, -CF=CH-, -CH=CF-, -CF=CF-, -C=C- or a single bond; k denotes 0, 1 , 2 or 3, preferably 1.\n20",
+    "is_negative_dielectric": false,
+    "negative_dielectric_count": 0,
+    "positive_dielectric_count": 4,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "Formula XIII ",
+      "Formula II i",
+      "Formula XV i",
+      "Formula XVI I",
+      "Formula XXI ",
+      "Formula XXXI",
+      "Formula XI 1",
+      "Formula XVI",
+      "Formula XI ",
+      "Formula XXX"
+    ],
+    "examples": "example by mixing compounds of Claim 1 with one or more compounds of the Formulae I l-XXXI I or with further LC compounds and/or\n15 additives. In general, the desired amount of the components used in lesser amount is dissolved in the components making up the principal constituent, advantageously at elevated temperature. It is also possible to mix solutions of the components in an organic solvent, for example in acetone, chloroform or methanol, and to remove the solvent again, for example by distillation, after thorough mixing.\n20\nThe LC media may also comprise further additives known to the person skilled in the art and described in the literature, such as, for example, polymerisation initiators, inhibitors, surface-active substances, microparticles, free-radical scavengers, nanoparticles, etc. For example, 0 to 15% of pleochroic dyes or chiral dopants or\n25 initiators like Irgacure® 651 or Irgacure® 907 can be added. Suitable stabilisers and dopants are mentioned below in Tables F and G. In a preferred embodiment, the LC medium comprises one or more stabilisers selected from Table G. Preferably, the proportion of antioxidants and light stabilisers, like those of the Formula ST and H, as described above or listed in Table G, in the LC medium is from 10 to 2000 ppm, very preferably from 30 to 1000 ppm.\nFurthermore, it is possible to add to the LC media, for example, 0 to 15% by weight of pleochroic dyes, furthermore nanoparticles, conductive salts, preferably ethyldimethyldodecylammonium 4-hexoxybenzoate, tetrabutylammonium\n35 tetraphenylborate or complex salts of crown ethers {cf., for example, Haller et al., Foreignfiling text P24-166-SEC-WO01\n208\nMol. Cryst. Liq. Cryst. 24, 249-258 (1973)), for improving the conductivity, or substances for modifying the dielectric anisotropy, the viscosity and/or the alignment of the nematic phases. Substances of this type are described, for example, in DE-A 22 09 127, 22 40 864, 2321 632, 23 38281, 24 50 088, 26 37430 and 28 53 728.\n5\nFor the present invention and in the following examples, the structures of the LC compounds are indicated by means of acronyms, with the transformation into chemical formulae taking place in accordance with Tables A to C below. All substituents CmH2m+i , CnH2n+i , and C|H2|+1 or CmH2m-1’ CnH2n-1 and C|H2|-1 are straight-chain alkyl groups or alkylene groups, in each case having n, m and I C atoms respectively. Preferably, n, m and I are independently of each other 1, 2, 3, 4, 5, 6, or 7. Table A shows the codes for the ring elements of the nuclei of the compound, Table B lists the bridging units, and Table C lists the meanings of the symbols for the left- and right-hand end groups of the molecules. The acronyms are\n15 composed of the codes for the ring elements with optional linking groups, followed by a first hyphen and the codes for the left-hand end group, and a second hyphen and the codes for the right-hand end group. Table D shows illustrative structures of compounds togethe",
+    "phys_params": {},
+    "relevant": false,
+    "lc_count": 61
+  },
+  {
+    "patent_id": "WO2025214945A1",
+    "url": "https://patents.google.com/patent/WO2025214945A1/en",
+    "title": "Patents",
+    "abstract": "The invention relates to polymerizable liquid crystal formulations (as a subcategory of liquid crystal material), especially to polymerizable ink formulations for inkjet printing, which are preferably PFAS-free (for enabling the reduction of perfluorocarbons and providing an environment friendly material), and which are comprising one or more polymerizable mesogenic compounds, also known as reactive mesogens (RMs), and one or more organic solvents selected from the group of aromatic ester and aromatic or aliphatic diester solvents, to polymers and polymer films obtained from such formulations, and to the use of the formulations, polymers and polymer films in optical or electrooptical components or devices, especially for digital optics or augmented reality or virtual reality (AR/VR) applications like polarizers, optical compensators, reflective films, diffraction or surface gratings, Bragg polarization gratings (Bragg PG), polarization volume gratings (PVG), polarization volume holograms (PVH), Pancharatnam Berry (PB) gratings, nonmechanical beam steering elements, optical waveguides, optical couplers, optical combiners, polarization beam splitters, partial mirrors, lenses or PB lenses.",
+    "dates": {
+      "filing_date": "2025-04-07"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. A f",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 2,
+    "positive_dielectric_count": 0,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula I"
+    ],
+    "examples": "Example 1. Fig. 2 (x100 magnification) shows a microscopic image between crossed polarizers of a polymer film prepared from an inkjet-printed RM formulation according to the invention as described in Example 2. 10 Definitions of Terms Throughout the description and claims of this specification, the words “comprise” and “contain” and variations of the words, for example “comprising” and “comprises”, 15 mean “including but not limited to”, and are not intended to (and do not) exclude other components. Unless the context clearly indicates otherwise, as used herein plural forms of the terms herein are to be construed as including the singular form and vice versa. 20 The term \"film\" as used herein includes rigid or flexible, self-supporting or free- standing films with mechanical stability, as well as coatings or layers on a supporting substrate or between two substrates. 25 As used herein, the terms \"reactive mesogen\" and \"RM\" will be understood to mean a compound containing a mesogenic or liquid crystalline skeleton, and one or more functional groups attached thereto, optionally via spacer groups, which are suitable for polymerization and are also referred to as \"polymerizable group\" or \"P\". 30 Unless stated otherwise, the term \"polymerizable compound\" as used herein will be understood to mean a polymerizable monomeric compound. Polymerizable compounds or RMs with one polymerizable group are also referred to as \"monoreactive\" compounds, polymerizable compounds or RMs with two 35 polymerizable groups as \"direactive\" compounds, and polymerizable compounds or RMs with more than two polymerizable groups as \"multireactive\" compounds. Compounds without a polymerizable group are also referred to as \"non-reactive\" compounds. P24068 De - 7 - The terms \"liquid crystal\", \"mesogen\" and \"mesogenic compound\" as used herein 5 mean a compound that under suitable conditions of temperature, pressure and concentration can exist as a mesophase or in particular as a LC phase. The term “clearing point” means the temperature at which the transition between the mesophase with the highest temperature range and the isotropic phase occurs. 10 The term \"mesogenic group\" as used herein is known to the person skilled in the art and described in the literature, and means a group which, due to the anisotropy of its attracting and repelling interactions, essentially contributes to causing a liquid- crystal (LC) phase in low-molecular-weight or polymeric substances. Compounds 15 containing mesogenic groups (mesogenic compounds) do not necessarily have to have an LC phase themselves. It is also possible for mesogenic compounds to exhibit LC phase behaviour only after mixing with other compounds and/or after polymerization. Typical mesogenic groups are, for example, rigid rod- or disc- shaped units. An overview of the terms and definitions used in connection with 20 mesogenic or LC compounds is given in Pure Appl. Chem.2001, 73(5), 888 and C. Tschierske, G. Pelzl, S. Diele, Angew. Che",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 60
+  },
+  {
+    "patent_id": "WO2025252654A1",
+    "url": "https://patents.google.com/patent/WO2025252654A1/en",
+    "title": "Patents",
+    "abstract": "The invention relates to polymerizable liquid crystal compositions (as a subcategory of liquid crystal materials) comprising an alignment additive, which are preferably PFAS-free (for enabling the reduction of perfluorocarbons and providing an environment friendly material), to formulations, polymers and polymer films obtained from such compositions, and to the use of the compositions, formulations, polymers and polymer films in optical or electrooptical components or devices, especially for digital optics or augmented reality or virtual reality (AR/VR) applications like polarizers, optical compensators, reflective films, diffraction or surface gratings, Bragg polarization gratings (Bragg PG), polarization volume gratings (PVG), polarization volume holograms (PVH), Pancharatnam Berry (PB) gratings, nonmechanical beam steering elements, optical waveguides, optical couplers, optical combiners, polarization beam splitters, partial mirrors, lenses or PB lenses.",
+    "dates": {
+      "filing_date": "2025-06-02"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. A h",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 2,
+    "positive_dielectric_count": 0,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "compound of formula I",
+      "formula I i",
+      "formula I ",
+      "formula I"
+    ],
+    "examples": "example, by doping a host mixture comprising one or more RMs with a chiral compound having a high twisting power. 35 The pitch p (in nm) of the induced cholesteric helix, hereinafter also referred to as “chiral pitch” or “helical pitch” is then given by the concentration c (in %) and the helical twisting power HTP (in nm-1) of the chiral compound in accordance with the following equation: P24108 De - 10 - p = (HTP c)-1 5 A low value of the pitch is hereinafter also referred to as “short pitch”, and a high value of the pitch is hereinafter also referred to as “long pitch”. Also, a short pitch corresponds to a highly twisted structure, i.e., a higher twist angle, and a long pitch corresponds to a slowly twisted structure, i.e., a lower twist angle, around 10 the helix axis within a given distance. The twist angle, θ through a thickness, ( d 3, 6 i 0s defined by the following equation: ^^ = ∗ ^^) ^^ 15 where p is the pitch as defined a In case more than one chiral compound is used, the total HTP of the chiral compounds having the same configuration or twist sense (HTPtotal) holds then approximately the following equation: 20 HTPtotal = ∑i ci HTPi wherein ci is the concentration of each individual chiral compound and HTPi is the helical twisting power of each individual chiral compound. 25 The HTP of all chiral compounds within a mixture of different configurations or different twist sense (IHTP^I) holds then approximately the following equation: IHTP^ I = (∑s cs HTPs) – ((∑rcr HTPr) 30 wherein cs is the concentration of each individual chiral compound with S configuration, HTPs is the helical twisting power of each individual chiral compound having S configuration and wherein cr is the concentration of each individual chiral compound with R configuration and HTPR is the helical twisting 35 power of each individual chiral compound having R configuration. The birefringence ^n is defined as follows ^n = ne -no P24108 De - 11 - wherein ne is the extraordinary refractive index and no is the ordinary refractive 5 index, and the effective average refractive index nav. is given by the following equation: nav. = ((2no2 + ne2)/3) ½ 10 The average refractive index nav. and the ordinary refractive index no can be measured using an Abbe refractometer. ^n can then be calculated from the above equations. The central wavelength ^ and bandwidth ^^ of a reflectance band of cholesteric 15 RM or LC material or a cholesteric polymer film are given by the pitch p of the cholesteric helix, the average refractive index nav. and the birefringence ^n of the cholesteric liquid crystal in accordance with the following equations: ^ = nav. . p 20 ^^^^^^n . p The term “visible light” means electromagnetic radiation with a wavelength in a range from about 400 nm to about 740 nm. “Ultraviolet (UV) light” means 25 electromagnetic radiation with a wavelength in a range from about 200 nm to about 450 nm. According to the present application, the term \"linearly polarised light\" means l",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 60
+  },
+  {
+    "patent_id": "WO2025238119A2",
+    "url": "https://patents.google.com/patent/WO2025238119A2/en",
+    "title": "Patents",
+    "abstract": "The present invention relates to crystalline solids comprising organic molecules and to the use of the crystalline materials in optical films and electro-optical devices.",
+    "dates": {
+      "filing_date": "2025-05-15"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "claim1": "1. A crystalline material, wherein the material is a solid comprising an organic compound and having a density of less than 1.75 g cm-3, and wherein the material has a refractive index of 1.8 or more.",
+    "is_negative_dielectric": false,
+    "negative_dielectric_count": 0,
+    "positive_dielectric_count": 0,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "compound of formula i"
+    ],
+    "examples": "example 10 nm to 100 pm, preferably from 50 nm to 50 pm.\nIn respect to further process or processing steps, in an embodiment the crystal or respectively the optical film can be subjected to a coating step.\nAdditionally or alternatively, the crystal or respectively the optical film can in a particular embodiment be subjected to an annealing step.\nIn the present invention favourable crystalline organic materials can be obtained, wherein the materials in particular are solids comprising crystallized organic molecules. In a preferred embodiment the crystallized organic molecules comprise one or more rings selected from aromatic, heteroaromatic, alicyclic and heterocyclic groups, preferably selected from aromatic and heteroaromatic groups.\nIn comparison to e.g. glass, calcite and other inorganic crystals, or ceramic materials, light-weight crystals can be obtained which in addition can be monocrystalline and exhibit high optical quality and which may be obtained in different crystal shapes using a wide range of materials, wherein the properties may be tailored to specific applications.\nThe crystalline materials, in particular the single crystals, can favourably have a density of less than 1.75 g cm-3, preferably less than 1.50 g cm-3, more preferably less than 1.25 g cm-3, and in particular less than 1.15 g cm-3, in particular determined at 22°C.\nThe crystalline materials, in particular the single crystals, can favourably be transparent, in particular transparent and colourless. In particular, it is preferred that light in the visible spectrum, which herein is taken to mean the wavelength range from 380 nm to 780 nm, is not absorbed or is only absorbed to a negligible extent by the crystalline materials. This means that the organic crystals preferably have low or even no discernible absorption in the visible spectrum of light.\nIn an embodiment the crystalline materials, in particular the single crystals, have an absorption edge of 2.85 eV or more, preferably 3.25 eV or more.\nThe term absorption edge refers to a discontinuity in the absorption spectrum of the crystalline substance, where in particular the wavelength or the energy of the absorbed photon corresponds to an electronic transition.\nIn an embodiment the term transparent solid herein refers to a solid which has a transmission of visible light, in particular at 589 nm, of at least 40 %, preferably of at least 50%, more preferably of at least 60%, preferably measured using a UV/Vis/NIR spectrometer to record transmission spectra.\nIn an embodiment the absorption coefficients of the crystals at 589 nm, preferably determined from the transmission measurements, are preferably below 10 cm-1, and in particular in the range from 1 cm-1 to 5 cm-1 or even lower. In an embodiment the internal transmittance of the material taking into account radiation loss by absorption is at least 80% over the visible spectrum of light, more preferably at least 90% and in particular at least 95%.\nIt is preferred that the",
+    "phys_params": {},
+    "relevant": false,
+    "lc_count": 12
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "patent_id": "US20250368897A1",
+    "url": "https://patents.google.com/patent/US20250368897A1/en",
+    "title": "US20250368897A1 - Liquid-Crystal Medium Comprising Polymerizable Compounds",
+    "abstract": "A liquid crystal (LC) medium comprising one or more polymerizable compounds, its use for optical, electro-optical, and electronic purposes, in particular in LC displays, especially in LC displays of the PSA (polymer sustained alignment) or SA (self-aligning) mode. Also, an LC display of the PSA or SA mode comprising the LC medium, and a process of manufacturing the LC display using the LC medium, especially an energy-saving LC display and energy-saving LC display production process.\nClassifications\n C09K19/04 Liquid crystal materials characterised by the chemical structure of the liquid crystal components, e.g. by a specific unit\nView 38 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nUS20250368897A1\n\nUnited States\n\n Find Prior Art \n Similar\nInventorChia-sheng HsiehI-Hua HuangI-Wen ChenKuang-Ting ChouSven Christian LautRocco FortteCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  EP JP KR CN US\nApplication US19/220,524 events \n2025-05-28\nApplication filed by Merck Patent GmbH\n2025-12-04\nPublication of US20250368897A1\nStatus\nPending\nInfoPatent citations (19) Legal events Similar documents Priority and Related ApplicationsExternal linksUSPTOUSPTO PatentCenterUSPTO AssignmentEspacenetGlobal DossierDiscuss",
+    "dates": {
+      "filing_date": "2025-05-28",
+      "publication_date": "2025-12-04"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/04"
+    ],
+    "claim1": "1. A liquid crystal (LC) medium comprising one or more polymerizable compounds of formula I and one or more compounds of formula II: wherein individual radicals, independently of each other, and on each occurrence, identically or differently, have the following meanings: P denotes a polymerizable group; Sp denotes a spacer group or a single bond; L denotes P, P-Sp-, OH, CH2OH, F, Cl, Br, I, —CN, —NO2, —NCO, —NCS, —OCN, —SCN, —C(═O)N(Rx)2, —C(═O)Y1, —C(═O)Rx, —N(Rx)2, an optionally substituted silyl, an optionally substituted aryl having 6 to 20 C atoms, a straight-chain alkyl, alkoxy, alkylcarbonyl, alkoxycarbonyl, alkylcarbonyloxy, or alkoxycarbonyloxy group having 1 to 25 C atoms, or a branched alkyl, alkoxy, alkylcarbonyl, alkoxycarbonyl, alkylcarbonyloxy, or alkoxycarbonyloxy group having 3 to 25 C atoms, in which, in addition, one or more H atoms are optionally replaced by F, Cl, P, P-Sp-, or LA; LA denotes an alkyl group with 1 to 6 C atoms; r1, r2, r3 denote 0, 1, 2, 3, or 4; wherein the compounds of formula I contain at least one group L that denotes LA; R21, R22 denote H, a straight-chain alkyl or alkoxy group having 1 to 20 C atoms, or a branched or cyclic alkyl or alkoxy group having 3 to 20 C atoms, wherein one or more non-adjacent CH2-groups are optionally replaced by —O—, —S—, —CO—, —CO—O—, —O—CO—, —O—CO—O—, CR0═CR00—, —C═C—, in such a manner that O or S atoms are not directly connected with each other, and wherein one or more H atoms are each optionally replaced by F, Cl, CN, or CF3; R0, R00 denote H or an alkyl group having 1 to 12 C atoms; A1, A2 denote a group selected from the following formulae: Z1, Z2 denote —CH2CH2—, —CH═CH—, —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CO—O—, —O—CO—, —C2F4—, —CF═CF—, —CH═CH—CH2O—, or a single bond; L1, L2, L3, L4 denote F, Cl, OCF3, CF3, CH3, CH2F, or CHF2; Y denotes H, F, Cl, CF3, CHF2, or CH3; Lc denotes CH3 or OCH3; a1 denotes 0, 1, or 2; and a2 denotes 0 or 1.",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 7,
+    "positive_dielectric_count": 1,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula IX",
+      "formula II",
+      "formula VII",
+      "formula III",
+      "compound of formula I",
+      "compound of formula IV",
+      "formula I1",
+      "formula V",
+      "formula X",
+      "formula I",
+      "compound of formula VI",
+      "formula VI"
+    ],
+    "examples": "Example 1\n[0730]\nThe nematic LC host mixture N1 is formulated as follows:\n\t\n\tBCH-32\t6.5%\tCl. p. [° C.]:\t74.7\n\tCC-3-V1\t8.0%\tΔn [589 nm, 20° C.]:\t0.1039\n\tCCH-23\t17.0%\tΔε [1 kHz, 20° C.]:\t−3.0\n\tCCH-34\t6.5%\tε∥ [1 kHz, 20° C.]:\t3.4\n\tCCY-3-O1\t3.5%\tγ1 [mPa · s, 20° C.]:\t106\n\tCCY-3-O2\t12.5%\tK3/K1 [pN, 20° C.]:\t1.07\n\tCPY-2-O2\t5.5\tV0 [V, 20° C.]:\t2.43\n\tCPY-3-O2\t10.0%\n\tCY-3-O2\t15.5%\n\tPCH-301\t4.5%\n\tPP-1-2V1\t5.0%\n\tPY-3-O2\t5.5%\n\t\n[0731]\nPolymerizable LC mixture P1 is formulated by adding 0.35% of polymerizable compound I1 to the nematic LC host mixture N1.\n[0732]\nFor comparison purpose, the polymerizable LC mixture PC1 is formulated by adding 0.3% of polymerizable compound RM-1 (formula IBD1) to the nematic LC host mixture N1.\nResidual RM\n[0733]\nThe residual content of unpolymerized monomer in the mixture is determined after UV photopolymerization. The smaller the residual monomer content after a given time interval, the faster the polymerization. For this purpose, the polymerizable mixtures are filled in test cells and polymerized by UV exposure for varying time intervals at RT using a fluorescent UV C-type lamp with an intensity of 0.5 mW/cm2 or UV B-type lamp with intensity 1.8 mW/cm2. The UV intensity is both checked by UV detector with 313 nm. After photopolymerization for a certain time interval the test cells are opened, and the mixture is dissolved and rinsed out of the test cell with methyl ethyl ketone and analyzed by Ultra Performance Liquid Chromatography (UPLC).\n[0734]\nThe results are shown in Table 1",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 51
+  },
+  {
+    "patent_id": "EP4733370A1",
+    "url": "https://patents.google.com/patent/EP4733370A1/en",
+    "title": "EP4733370A1 - Liquid-crystal medium",
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, preferably having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, such as for example in energy efficient LC displays, in particular displays of the PS-VA type.\nClassifications\n C09K19/3098 Unsaturated non-aromatic rings, e.g. cyclohexene rings\nView 9 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4733370A1\n\nEuropean Patent Office\n\n Find Prior Art \n Similar\nOther languagesGermanFrenchInventorI-Hua HuangI-Wen ChenShou-Yin TsaiMin Tzu CHUANGJer-Lin ChenCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  EP CN\nApplication EP25209712.6A events \n2025-10-20\nApplication filed by Merck Patent GmbH\n2026-04-29\nPublication of EP4733370A1\nStatus\nPending\nInfoSimilar documents Priority and Related ApplicationsExternal linksEspacenetEPO GPIEP RegisterGlobal DossierDiscuss",
+    "dates": {
+      "filing_date": "2025-10-20",
+      "publication_date": "2026-04-29"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 6,
+    "positive_dielectric_count": 0,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula Vi",
+      "formula IX",
+      "formula XI",
+      "formula II",
+      "formula III",
+      "compound of formula IV",
+      "formula V",
+      "formula XII",
+      "formula X",
+      "formula I",
+      "formula I3",
+      "formula VI"
+    ],
+    "examples": "Table 1 by adding a reactive mesogen (RM) selected from the group of compounds of the formulae RM-1, RM-17, RM-35, RM-64 and RM-171, in the amount given in Table 1",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 79
+  },
+  {
+    "patent_id": "EP4621030A1",
+    "url": "https://patents.google.com/patent/EP4621030A1/en",
+    "title": "EP4621030A1 - Liquid-crystal medium",
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, such as for example in energy efficient LC displays, in particular displays based on the ECB, IPS or FFS effect.\nClassifications\n C09K19/42 Mixtures of liquid crystal compounds covered by two or more of the preceding groups C09K19/06 - C09K19/40\nView 37 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4621030A1\n\nEuropean Patent Office\n\n Find Prior Art \n Similar\nOther languagesGermanFrenchInventorChang-Suk ChoiJing WangCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  JP US EP KR TW CN\nApplication EP25164592.5A events \n2025-03-18\nApplication filed by Merck Patent GmbH\n2025-09-24\nPublication of EP4621030A1\nStatus\nPending\nInfoPatent citations (12) Non-patent citations (6) Legal events Similar documents Priority and Related ApplicationsExternal linksEspacenetEPO GPIEP RegisterGlobal DossierDiscuss",
+    "dates": {
+      "filing_date": "2025-03-18",
+      "publication_date": "2025-09-24"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/40",
+      "C09K19/42",
+      "C09K19/06"
+    ],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 14,
+    "positive_dielectric_count": 5,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula IX",
+      "formula II",
+      "formula III",
+      "compound of formula IV",
+      "formula V",
+      "formula X",
+      "formula I",
+      "formula I3",
+      "formula VI",
+      "formula VIII",
+      "formula IV"
+    ],
+    "examples": "table 1 and table 2",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 85
+  },
+  {
+    "patent_id": "EP4582510A1",
+    "url": "https://patents.google.com/patent/EP4582510A1/en",
+    "title": "EP4582510A1 - Liquid-crystal medium",
+    "abstract": "The present invention relates to a liquid-crystal (LC) medium or LC material based on a mixture of polar compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode and/or the fringe-field switching mode, to an LC display of the vertically aligned mode and/or the fringe-field switching mode comprising the LC medium, especially an energy-saving LC display and to a process of manufacturing the LC display.\nClassifications\n C09K19/3491 Non-steroidal liquid crystal compounds containing at least one heterocyclic ring having sulfur as hetero atom\nView 21 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4582510A1\n\nEuropean Patent Office\n\n Download PDF \n Find Prior Art \n Similar\nOther languagesGermanFrenchInventorHarald HirschmannSabine SchoenCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2024  EP JP 2025  CN KR US TW\nApplication EP24219143.5A events \n2024-12-11\nApplication filed by Merck Patent GmbH\n2025-07-09\nPublication of EP4582510A1\nStatus\nPending\nInfoPatent citations (15) Non-patent citations (8) Legal events Similar documents Priority and Related ApplicationsExternal linksEspacenetEPO GPIEP RegisterGlobal DossierDiscuss",
+    "dates": {
+      "filing_date": "2024-12-11",
+      "publication_date": "2025-07-09"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 13,
+    "positive_dielectric_count": 6,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula II",
+      "formula VII",
+      "formula III",
+      "compound of formula IV",
+      "formula V",
+      "formula I",
+      "formula VI",
+      "formula IV"
+    ],
+    "examples": "",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 85
+  },
+  {
+    "patent_id": "EP4610332A1",
+    "url": "https://patents.google.com/patent/EP4610332A1/en",
+    "title": "EP4610332A1 - Liquid-crystal medium",
+    "abstract": "The present invention relates to a liquid-crystal (LC) medium (as a subcategory of liquid crystal material), based on a mixture of polar compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode, to an LC display of the vertically aligned mode comprising the LC medium, especially an energy-saving LC display and to a process of manufacturing the LC display.\nClassifications\n G02F1/1333 Constructional arrangements; Manufacturing methods\nView 24 more classifications\nLandscapes\nChemical & Material Sciences\nPhysics & Mathematics\nShow more\nEP4610332A1\n\nEuropean Patent Office\n\n Find Prior Art \n Similar\nOther languagesGermanFrenchInventorMin Tzu CHUANGI-Wen ChenI-Hua HuangJer-Lin ChenSven Christian LautCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  US EP JP TW KR CN\nApplication EP25160036.7A events \n2025-02-25\nApplication filed by Merck Patent GmbH\n2025-09-03\nPublication of EP4610332A1\nStatus\nPending\nInfoPatent citations (20) Non-patent citations (8) Legal events Similar documents Priority and Related ApplicationsExternal linksEspacenetEPO GPIEP RegisterGlobal DossierDiscuss",
+    "dates": {
+      "filing_date": "2025-02-25",
+      "publication_date": "2025-09-03"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 13,
+    "positive_dielectric_count": 6,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula II",
+      "formula VII",
+      "formula III",
+      "compound of formula I",
+      "compound of formula IV",
+      "formula V",
+      "formula I",
+      "formula VI",
+      "formula IV"
+    ],
+    "examples": "",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 69
+  },
+  {
+    "patent_id": "WO2026052594A1",
+    "url": "https://patents.google.com/patent/WO2026052594A1/en",
+    "title": "WO2026052594A1 - Liquid crystal-based light valve",
+    "abstract": "The present invention relates to an energy-efficient light valve comprising an LC material which is switchable between an optically transparent state and an opaque state and to the use of the light valve in spatial light modulators for handling occlusion in near-eye displays.\nClassifications\n C09K19/04 Liquid crystal materials characterised by the chemical structure of the liquid crystal components, e.g. by a specific unit\nView 15 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nWO2026052594A1\n\nWIPO (PCT)\n\n Find Prior Art \n Similar\nOther languagesFrenchInventorMark GoebelMeike KrumwiedeNils GreinertJulia SprangRachel TUFFINChristian SchoenefeldTim VosgroeneCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  WO\nApplication PCT/EP2025/074878 events \n2025-09-02\nApplication filed by Merck Patent GmbH\n2026-03-12\nPublication of WO2026052594A1\nStatus\nPending\n2027-03-05\nAnticipated expiration\nInfoPatent citations (62) Non-patent citations (9) Similar documents Priority and Related ApplicationsExternal linksEspacenetGlobal DossierPatentScopeDiscuss",
+    "dates": {
+      "filing_date": "2025-09-02",
+      "publication_date": "2026-03-12"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/04"
+    ],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 5,
+    "positive_dielectric_count": 4,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula XI",
+      "formula II",
+      "formula XIX",
+      "formula III",
+      "formula XII",
+      "formula V",
+      "formula XVIII",
+      "formula XXII",
+      "formula I",
+      "formula XV",
+      "formula IV"
+    ],
+    "examples": "",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 170
+  },
+  {
+    "patent_id": "WO2025261973A1",
+    "url": "https://patents.google.com/patent/WO2025261973A1/en",
+    "title": "WO2025261973A1 - Thiophene derivatives",
+    "abstract": "The present invention relates to a liquid crystal material comprising a thiophene derivative of formula S as specified in claim 1, to a thiophene compound and to high- frequency components comprising said media, especially microwave components for high-frequency devices, such as devices for shifting the phase of microwaves, tunable filters, tunable metamaterial structures, and electronic beam steering antennas, e.g., phased array antennas.\nClassifications\n C09K19/3491 Non-steroidal liquid crystal compounds containing at least one heterocyclic ring having sulfur as hetero atom\nView 7 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nWO2025261973A1\n\nWIPO (PCT)\n\n Find Prior Art \n Similar\nOther languagesFrenchInventorDagmar KlassCarsten FRITZSCHConstanze BrockeAmir Hossain ParhamCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  WO\nApplication PCT/EP2025/066746 events \n2025-06-16\nApplication filed by Merck Patent GmbH\n2025-12-26\nPublication of WO2025261973A1\nStatus\nPending\n2026-12-19\nAnticipated expiration\nInfoPatent citations (16) Non-patent citations (8) Legal events Similar documents Priority and Related ApplicationsExternal linksEspacenetGlobal DossierPatentScopeDiscuss",
+    "dates": {
+      "filing_date": "2025-06-16",
+      "publication_date": "2025-12-26"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 49,
+    "positive_dielectric_count": 1,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "compound of formula XII",
+      "formula IX",
+      "formula XIII",
+      "compound of formula III",
+      "formula XI",
+      "formula II",
+      "formula VII",
+      "formula III",
+      "formula XII",
+      "formula V",
+      "formula X",
+      "formula I"
+    ],
+    "examples": "",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 91
+  },
+  {
+    "patent_id": "WO2025196107A1",
+    "url": "https://patents.google.com/patent/WO2025196107A1/en",
+    "title": "WO2025196107A1 - Indene derivatives",
+    "abstract": "The present invention relates to an indene derivative of formula D as specified in claim 1, to a liquid crystal medium comprising a compound of formula D and to high- frequency components comprising these media, especially microwave components for high-frequency devices, such as devices for shifting the phase of microwaves, tunable filters, tunable metamaterial structures, and electronic beam steering antennas, e.g. phased array antennas.\nClassifications\n C09K19/32 Non-steroidal liquid crystal compounds containing condensed ring systems, i.e. fused, bridged or spiro ring systems\nView 6 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nWO2025196107A1\n\nWIPO (PCT)\n\n Find Prior Art \n Similar\nOther languagesFrenchInventorConstanze BrockeDagmar KlassMatthias JostCarl TurnerKarine ELLISCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  WO TW\nApplication PCT/EP2025/057471 events \n2025-03-19\nApplication filed by Merck Patent GmbH\n2025-09-25\nPublication of WO2025196107A1\nStatus\nPending\n2026-09-22\nAnticipated expiration\nInfoPatent citations (18) Non-patent citations (12) Cited by (1) Legal events Similar documents Priority and Related ApplicationsExternal linksEspacenetGlobal DossierPatentScopeDiscuss",
+    "dates": {
+      "filing_date": "2025-03-19",
+      "publication_date": "2025-09-25"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/32"
+    ],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 8,
+    "positive_dielectric_count": 1,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "compound of formula XII",
+      "formula IX",
+      "formula XIII",
+      "compound of formula III",
+      "formula XI",
+      "formula II",
+      "formula VII",
+      "formula III",
+      "formula XII",
+      "formula V",
+      "formula X",
+      "formula I"
+    ],
+    "examples": "",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 101
+  },
+  {
+    "patent_id": "WO2025190813A1",
+    "url": "https://patents.google.com/patent/WO2025190813A1/en",
+    "title": "WO2025190813A1 - Liquid-crystal medium",
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, such as for example in LC displays, in particular energy efficient displays based on the ECB, IPS or FFS effect.\nClassifications\n C09K19/04 Liquid crystal materials characterised by the chemical structure of the liquid crystal components, e.g. by a specific unit\nView 13 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nWO2025190813A1\n\nWIPO (PCT)\n\n Find Prior Art \n Similar\nOther languagesFrenchInventorSven Christian LautHee-Kyu LeeMinghui YangCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  WO TW\nApplication PCT/EP2025/056317 events \n2025-03-07\nApplication filed by Merck Patent GmbH\n2025-09-18\nPublication of WO2025190813A1\nStatus\nPending\n2026-09-11\nAnticipated expiration\nInfoPatent citations (49) Non-patent citations (9) Legal events Similar documents Priority and Related ApplicationsExternal linksEspacenetGlobal DossierPatentScopeDiscuss",
+    "dates": {
+      "filing_date": "2025-03-07",
+      "publication_date": "2025-09-18"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/04"
+    ],
+    "claim1": "1. A liquid crystal medium comprising a) one or more compounds of formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy each having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy each having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals -CO-O- or -O-CO- in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, L11 and L12, independently, denote F or Cl, Y1 denotes H or methyl, and Z1 denotes a single bond, -CH2CH2-, -CH=CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-, -OCO-, -C2F4-, -CF=CF- or -CH=CHCH2O-, and b) one or more compounds selected from the group of compounds of the formulae HA, IIB, IIC and HD, in which R21A R21 B R21C R21 D R22A R22B R22C and R22D, identically or differently, denote H, a straight chain alkyl or alkoxy radical having 1 to 15 C atoms, or a branched alkyl or alkoxy radical having 3 to 15 C atoms, where one or more CH2 groups in these radicals -CO-O- or -O-CO- in such a way that O atoms are not linked directly to one another, and in which, in addition, one or more H atoms may be replaced by halogen, L21 and L22 each, independently of one another, denote F, Cl, CF3 or CHF2, Y2 denotes H, F, Cl, CF3, CHF2 or CH3, Z2, Z2B and Z2Deach, independently of one another, denote a single bond, -CH2CH2-, -CH=CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-, -OCO-, -CF=CF- or -CH=CHCH2O-, p denotes 0, 1 or 2, and q denotes 0 or 1.",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 11,
+    "positive_dielectric_count": 4,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula\nIX",
+      "formula Vi",
+      "formula IX",
+      "formula II",
+      "formula\nII",
+      "formula III",
+      "formula VII",
+      "formula V",
+      "compound of formula\nIV",
+      "formula I",
+      "formula\nVi",
+      "formula X"
+    ],
+    "examples": "Table 1 by adding a reactive mesogen (RM) selected from the group of compounds of the formulae RM-1 , RM-17, RM-35, RM-64 and RM-171, in the amount given in Table 1",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 112
+  },
+  {
+    "patent_id": "WO2025214945A1",
+    "url": "https://patents.google.com/patent/WO2025214945A1/en",
+    "title": "WO2025214945A1 - Polymerizable liquid crystal formulations",
+    "abstract": "The invention relates to polymerizable liquid crystal formulations (as a subcategory of liquid crystal material), especially to polymerizable ink formulations for inkjet printing, which are preferably PFAS-free (for enabling the reduction of perfluorocarbons and providing an environment friendly material), and which are comprising one or more polymerizable mesogenic compounds, also known as reactive mesogens (RMs), and one or more organic solvents selected from the group of aromatic ester and aromatic or aliphatic diester solvents, to polymers and polymer films obtained from such formulations, and to the use of the formulations, polymers and polymer films in optical or electrooptical components or devices, especially for digital optics or augmented reality or virtual reality (AR/VR) applications like polarizers, optical compensators, reflective films, diffraction or surface gratings, Bragg polarization gratings (Bragg PG), polarization volume gratings (PVG), polarization volume holograms (PVH), Pancharatnam Berry (PB) gratings, nonmechanical beam steering elements, optical waveguides, optical couplers, optical combiners, polarization beam splitters, partial mirrors, lenses or PB lenses.\nClassifications\n C09K19/52 Liquid crystal materials characterised by components which are not liquid crystals, e.g. additives with special physical aspect: solvents, solid particles\nView 3 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nWO2025214945A1\n\nWIPO (PCT)\n\n Find Prior Art \n Similar\nOther languagesFrenchInventorOleksandra SHARGAIEVAThorsten SCHENKStephen MulcahyCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  WO\nApplication PCT/EP2025/059440 events \n2025-04-07\nApplication filed by Merck Patent GmbH\n2025-10-16\nPublication of WO2025214945A1\nStatus\nPending\n2026-10-11\nAnticipated expiration\nInfoPatent citations (10) Non-patent citations (8) Legal events Similar documents Priority and Related ApplicationsE",
+    "dates": {
+      "filing_date": "2025-04-07",
+      "publication_date": "2025-10-16"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/52"
+    ],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 2,
+    "positive_dielectric_count": 0,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "formula I"
+    ],
+    "examples": "Example 1 To test the solubility and inkjet printing performance, the RM mixture R1 is formulated as follows: 20 25 25 30 59 35 P24068 De - 143 - M10a 5 -1-6a 10 The RM mixture R1 is then dissolved in various organic solvents as shown in Table 1",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 60
+  },
+  {
+    "patent_id": "WO2025252654A1",
+    "url": "https://patents.google.com/patent/WO2025252654A1/en",
+    "title": "WO2025252654A1 - Polymerizable liquid crystal composition",
+    "abstract": "The invention relates to polymerizable liquid crystal compositions (as a subcategory of liquid crystal materials) comprising an alignment additive, which are preferably PFAS-free (for enabling the reduction of perfluorocarbons and providing an environment friendly material), to formulations, polymers and polymer films obtained from such compositions, and to the use of the compositions, formulations, polymers and polymer films in optical or electrooptical components or devices, especially for digital optics or augmented reality or virtual reality (AR/VR) applications like polarizers, optical compensators, reflective films, diffraction or surface gratings, Bragg polarization gratings (Bragg PG), polarization volume gratings (PVG), polarization volume holograms (PVH), Pancharatnam Berry (PB) gratings, nonmechanical beam steering elements, optical waveguides, optical couplers, optical combiners, polarization beam splitters, partial mirrors, lenses or PB lenses.\nClassifications\n C09K19/52 Liquid crystal materials characterised by components which are not liquid crystals, e.g. additives with special physical aspect: solvents, solid particles\nView 4 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nWO2025252654A1\n\nWIPO (PCT)\n\n Find Prior Art \n Similar\nOther languagesFrenchInventorStephen MulcahyJames AllenSarabjot KaurCurrent Assignee Merck Patent GmbH\nWorldwide applications\n2025  WO\nApplication PCT/EP2025/065165 events \n2025-06-02\nApplication filed by Merck Patent GmbH\n2025-12-11\nPublication of WO2025252654A1\nStatus\nPending\n2026-12-04\nAnticipated expiration\nInfoPatent citations (13) Non-patent citations (7) Legal events Similar documents Priority and Related ApplicationsExternal linksEspacenetGlobal DossierPatentScopeDiscuss",
+    "dates": {
+      "filing_date": "2025-06-02",
+      "publication_date": "2025-12-11"
+    },
+    "assignee": "Merck Patent GmbH",
+    "cpc_codes": [
+      "C09K19/52"
+    ],
+    "claim1": "",
+    "is_negative_dielectric": true,
+    "negative_dielectric_count": 2,
+    "positive_dielectric_count": 0,
+    "delta_eps_values": [],
+    "molecular_structures": [
+      "compound of formula I",
+      "formula I"
+    ],
+    "examples": "mixture 5 or formulation of the first layer. Preferably the helical pitch in the first layer is longer than the helical pitch in the second layer. The RM compositions and RM formulations and methods of the present invention do thus allow a simple way of preparing a multilayer of two or more chiral LC 10 polymer films, by using an achiral RM host mixture comprising, or consisting of, one or more compounds selected from formulae D, M, A and T. This achiral RM host mixture can be used for the preparation of each individual layer. Chiral RM mixtures for use in the first, second or further layers, respectively, are prepared by adding different amounts of the same chiral compound to the RM host mixture, 15 or by adding chiral compounds with differing HTP to the RM host mixture. The invention further relates to an optical, electrooptical or electronic device or a component comprising an RM composition or RM formulation or a polymer film as described above and below. 20 Preferred components include a PVH, diffraction grating, PBG or Bragg PG, lens, PB lens, optical waveguide, polarization beam splitter, quarter wave foil (QWF) or half wave foil (HWF), comprising a polymer film obtained from an RM formulation according to the present invention as described above and below. 25 The polymer film according to the present invention can be used in displays of the transmissive or reflective type. It can be used in conventional OLED displays or LCDs, in particular LCDs. 30 The present invention is described above and below with particular reference to the preferred embodiments. It should be understood that various changes and modifications might be made therein without departing from the spirit and scope of the invention. 35 Many of the compounds or mixtures thereof mentioned above and below are commercially available. All of these compounds are either known or can be prepared by methods which are known per se, as described in the literature (for example in the standard works such as Houben-Weyl, Methoden der P24108 De - 141 - Organischen Chemie [Methods of Organic Chemistry], Georg-Thieme-Verlag, Stuttgart), to be precise under reaction conditions which are known and suitable 5",
+    "phys_params": {},
+    "relevant": true,
+    "lc_count": 60
+  }
+]

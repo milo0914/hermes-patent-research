@@ -1,0 +1,2276 @@
+[
+  {
+    "patent_id": "US12528988B2",
+    "url": "https://patents.google.com/patent/US12528988B2/en",
+    "success": true,
+    "title": "Liquid crystal medium",
+    "dates": {
+      "filing_date": "2024-10-29",
+      "publication_date": "2025-05-15",
+      "grant_date": "2026-01-20"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/04"
+    ],
+    "abstract": "A compound of formula AN\na liquid crystal material comprising a compound of formula AN, and high-frequency components comprising these media, especially microwave components for high-frequency devices, such as devices for shifting the phase of microwaves, tuneable filters, tuneable metamaterial structures, and electronic beam steering antennas, e.g., phased array antennas.\nClassifications\n C09K19/04 Liquid crystal materials characterised by the chemical structure of the liquid crystal components, e.g. by a specific unit\nView 15 more classifications\nLandscapes\nChemical & Material Sciences\nOrganic Chemistry\nShow more\nUS12528988B2",
+    "claim1": "Comparative Mixture C2 PTU-5-AN 10.00 Cl. p. [° C.]: 142.5 PTU-3-S 14.38 τ [20° C., 19 GHz]: 0.310 PGU-3-S 12.58 εr,∥ [20° C., 19 GHz]: 3.54 PPTU-5-S 17.98 εr,⊥ [20° C., 19 GHz]: 2.44 CPU-2-S 31.46 tan δε r,∥ [20° C., 19 GHz]: 0.0061 CPU-4-S 13.48 tan δε r,⊥ [20° C., 19 GHz]: 0.0119 ST-3b-1 0.12 η [20° C., 19 GHz]: 26.1 Σ 100.0 Mixture Example M2 PTUI-5-AN 10.00 Cl. p. [° C.]: 147 PTU-3-S 14.38 τ [20° C., 19 GHz]: 0.315 PGU-3-S 12.58 εr,∥ [20° C., 19 GHz]: 3.54 PPTU-5-S 17.98 εr,⊥ [20° C., 19 GHz]: 2.42 CPU-2-S 31.46 tan δε r,∥ [20° C., 19 GHz]: 0.0057 CPU-4-S 13.48 tan δε r,⊥ [20° C., 19 GHz]: 0.0108 ST-3b-1 0.12 η [20° C., 19 GHz]: 29.3 Σ 100.0 Mixture Example M2 differs from Comparative Example C2 in that the compound PTU-5-AN is replaced with its isomer PTUI-5-AN according to the invention. This results in an improvement of all physical properties: an increased clearing temperature, a higher tunability, and a lower dielectric loss which gives an improved material quality of 29 compared to only 26 of Comparative Example C2. Mixture Example M3 PTUI-4-AN 12.0 Cl. p. [° C.]: 127 PU-3-AN 10.0 τ [20° C., 19 GHz]: 0.280 PU-5-AN 10.0 εr,∥ [20° C., 19 GHz]: 3.52 PTU-4-AN 6.0 εr,⊥ [20° C., 19 GHz]: 2.54 PTU-5-AN 10.0 tan δε r,∥ [20° C., 19 GHz]: 0.0046 PTP(2)IUI-5-AN 5.0 tan δε r,⊥ [20° C., 19 GHz]: 0.0143 PP(2)TU-5-AN 12.0 η [20° C., 19 GHz]: 19.6 P(2)TPU-5-AN 15.0 P(2)TPUI-5-AN 20.0 Σ 100.0 Mixture Example M4 ST-3b-1 0.12 Cl. p. [° C.]: 151 PTU-3-S 8.88 ε∥ [1 kHz, 20° C.]: 25.2 PTU-5-S 7.0 ε⊥ [1 kHz, 20° C.]: 4.1 PPTU-4-S 6.0 Δε [1 kHz, 20° C.]: 21.0 PPTU-5-S 15.0 K1 [pN, 20° C.]: 15.7 PPU-TO-S 5.0 K3 [pN, 20° C.]: 30.6 CPTU-5-S 8.0 K3/K1 [pN, 20° C.]: 1.94 PTUI-4-AN 10.0 V0 [V, 20° C.]: 0.91 PTP(2)IUI-5-AN 5.0 τ [20° C., 19 GHz]: 0.321 PP(2)TU-5-AN 10.0 εr,∥ [20° C., 19 GHz]: 3.65 P(2)TPU-5-AN 10.0 εr,⊥ [20° C., 19 GHz]: 2.48 P(2)TPUI-5-AN 15.0 tan δε r,∥ [20° C., 19 GHz]: 0.0043 Σ 100.0 tan δε r,⊥ [20° C., 19 GHz]: 0.0091 η [20° C., 19 GHz]: 35.4 Mixture Example M5 PPTU-4-S 6.0 Cl. p. [° C.]: 130.5 PPTU-5-S 12.0 ε∥ [1 kHz, 20° C.]: 36.3 PPU-TO-S 2.0 ε⊥ [1 kHz, 20° C.]: 5.0 CPTU-5-S 6.0 Δε [1 kHz, 20° C.]: 31.3 CPU(FF)-3-S 5.0 γ1 [mPa s, 20° C.]: 505 CPUI-4-S 5.0 K1 [pN, 20° C.]: 15.0 PTUI-2-S 5.0 K3 [pN, 20° C.]: 24.7 PUITP-4-S 7.0 K3/K1 [pN, 20° C.]: 1.65 PTUP-4-S 7.0 V0 [V, 20° C.]: 0.73 PTUI-4-AN 10.0 τ [20° C., 19 GHz]: 0.302 PU-3-AN 10.0 εr,∥ [20° C., 19 GHz]: 3.58 PU-5-AN 10.0 εr,⊥ [20° C., 19 GHz]: 2.50 PTU-4-AN 5.0 tan δε r,∥ [20° C., 19 GHz]: 0.0063 PTU-5-AN 10.0 tan δε r,⊥ [20° C., 19 GHz]: 0.0148 Σ 100.0 η [20° C., 19 GHz]: 20.5 Mixture Example M6 PTP(2)TP-6-3 20.0 Cl. p. [° C.]: 118.5 Mixture Example M5 80.0 ε∥ [1 kHz, 20° C.]: 28.9 Σ 100.0 ε⊥ [1 kHz, 20° C.]: 4.6 Δε [1 kHz, 20° C.]: 24.3 K1 [pN, 20° C.]: 14.8 K3 [pN, 20° C.]: 21.9 K3/K1 [pN, 20° C.]: 1.48 V0 [V, 20° C.]: 0.82 τ [20° C., 19 GHz]: 0.282 εr,∥ [20° C., 19 GHz]: 3.50 εr,⊥ [20° C., 19 GHz]: 2.51 tan δε r,∥ [20° C., 19 GHz]: 0.0059 tan δε r,⊥ [20° C., 19 GHz]: 0.0131 η [20° C., 19 GHz]: 21.6 Claims (16) Hide Dependent The invention claimed is: 1. A compound having a formula selected from the group consisting of formulae AN-1-1 to AN-4-8: in which RA denotes H, straight-chain alkyl having 1 to 12 C atoms, or straight-chain alkenyl or straight chain alkynyl each having 2 to 12 C atoms, or branched alkyl having 3 to 12 C atoms or branched alkenyl having 3 to 12 C atoms or branched alkynyl having 4 to 12 C atoms, where one or more CH2-groups may be replaced by and where one or more non-adjacent CH2-groups may be replaced by O, and where in all of these groups one or more H atoms may be replaced by F.",
+    "claim1_length": 3633,
+    "negative_dielectric_count": 62,
+    "positive_dielectric_count": 2,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "16.7",
+      "17.7",
+      "10.0",
+      "10.7"
+    ],
+    "contrast_snippets": [
+      "The response times are given as rise time (τon) for the time for the change of the relative tuning, respectively of the relative contrast",
+      "the electro-optical response, from 100% back to 10% (t100−t10) and as the total response time (τtotal=τon+τoff), respectively."
+    ],
+    "contrast_keyword_count": 2,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "PTUI-4-AN\t10.00\tCl. p. [° C.]:\t146.5\nPTU-3-S\t14.38\tτ [20° C., 19 GHz]:\t0.308\nPGU-3-S\t12.58\tεr,∥ [20° C., 19 GHz]:\t3.56\nPPTU-5-S\t17.98\tεr,⊥ [20° C., 19 GHZ]:\t2.46\nCPU-2-S\t31.46\ttan δε r,∥ [20° C., 19 GHz]:\t0.0060\nCPU-4-S\t13.48\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0110\nST-3b-1\t0.12\tη [20° C., 19 GHz]:\t28.0\nΣ\t100.00"
+      },
+      {
+        "name": "M2",
+        "content": "PTUI-5-AN\t10.00\tCl. p. [° C.]:\t147\nPTU-3-S\t14.38\tτ [20° C., 19 GHz]:\t0.315\nPGU-3-S\t12.58\tεr,∥ [20° C., 19 GHz]:\t3.54\nPPTU-5-S\t17.98\tεr,⊥ [20° C., 19 GHz]:\t2.42\nCPU-2-S\t31.46\ttan δε r,∥ [20° C., 19 GHz]:\t0.0057\nCPU-4-S\t13.48\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0108\nST-3b-1\t0.12\tη [20° C., 19 GHz]:\t29.3\nΣ\t100.0"
+      },
+      {
+        "name": "M3",
+        "content": "PTUI-4-AN\t12.0\tCl. p. [° C.]:\t127\nPU-3-AN\t10.0\tτ [20° C., 19 GHz]:\t0.280\nPU-5-AN\t10.0\tεr,∥ [20° C., 19 GHz]:\t3.52\nPTU-4-AN\t6.0\tεr,⊥ [20° C., 19 GHz]:\t2.54\nPTU-5-AN\t10.0\ttan δε r,∥ [20° C., 19 GHz]:\t0.0046\nPTP(2)IUI-5-AN\t5.0\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0143\nPP(2)TU-5-AN\t12.0\tη [20° C., 19 GHz]:\t19.6\nP(2)TPU-5-AN\t15.0\t\t\nP(2)TPUI-5-AN\t20.0\t\t\nΣ\t100.0"
+      },
+      {
+        "name": "M4",
+        "content": "ST-3b-1\t0.12\tCl. p. [° C.]:\t151\nPTU-3-S\t8.88\tε∥ [1 kHz, 20° C.]:\t25.2\nPTU-5-S\t7.0\tε⊥ [1 kHz, 20° C.]:\t4.1\nPPTU-4-S\t6.0\tΔε [1 kHz, 20° C.]:\t21.0\nPPTU-5-S\t15.0\tK1 [pN, 20° C.]:\t15.7\nPPU-TO-S\t5.0\tK3 [pN, 20° C.]:\t30.6\nCPTU-5-S\t8.0\tK3/K1 [pN, 20° C.]:\t1.94\nPTUI-4-AN\t10.0\tV0 [V, 20° C.]:\t0.91\nPTP(2)IUI-5-AN\t5.0\tτ [20° C., 19 GHz]:\t0.321\nPP(2)TU-5-AN\t10.0\tεr,∥ [20° C., 19 GHz]:\t3.65\nP(2)TPU-5-AN\t10.0\tεr,⊥ [20° C., 19 GHz]:\t2.48\nP(2)TPUI-5-AN\t15.0\ttan δε r,∥ [20° C., 19 GHz]:\t0.0043\nΣ\t100.0\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0091\n\t\tη [20° C., 19 GHz]:\t35.4"
+      },
+      {
+        "name": "M5",
+        "content": "PPTU-4-S\t6.0\tCl. p. [° C.]:\t130.5\nPPTU-5-S\t12.0\tε∥ [1 kHz, 20° C.]:\t36.3\nPPU-TO-S\t2.0\tε⊥ [1 kHz, 20° C.]:\t5.0\nCPTU-5-S\t6.0\tΔε [1 kHz, 20° C.]:\t31.3\nCPU(FF)-3-S\t5.0\tγ1 [mPa s, 20° C.]:\t505\nCPUI-4-S\t5.0\tK1 [pN, 20° C.]:\t15.0\nPTUI-2-S\t5.0\tK3 [pN, 20° C.]:\t24.7\nPUITP-4-S\t7.0\tK3/K1 [pN, 20° C.]:\t1.65\nPTUP-4-S\t7.0\tV0 [V, 20° C.]:\t0.73\nPTUI-4-AN\t10.0\tτ [20° C., 19 GHz]:\t0.302\nPU-3-AN\t10.0\tεr,∥ [20° C., 19 GHz]:\t3.58\nPU-5-AN\t10.0\tεr,⊥ [20° C., 19 GHz]:\t2.50\nPTU-4-AN\t5.0\ttan δε r,∥ [20° C., 19 GHz]:\t0.0063\nPTU-5-AN\t10.0\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0148\nΣ\t100.0\tη [20° C., 19 GHz]:\t20.5"
+      },
+      {
+        "name": "M6",
+        "content": "PTP(2)TP-6-3\t20.0\tCl. p. [° C.]:\t118.5\nMixture Example M5\t80.0\tε∥ [1 kHz, 20° C.]:\t28.9\nΣ\t100.0\tε⊥ [1 kHz, 20° C.]:\t4.6\n\t\tΔε [1 kHz, 20° C.]:\t24.3\n\t\tK1 [pN, 20° C.]:\t14.8\n\t\tK3 [pN, 20° C.]:\t21.9\n\t\tK3/K1 [pN, 20° C.]:\t1.48\n\t\tV0 [V, 20° C.]:\t0.82\n\t\tτ [20° C., 19 GHz]:\t0.282\n\t\tεr,∥ [20° C., 19 GHz]:\t3.50\n\t\tεr,⊥ [20° C., 19 GHz]:\t2.51\n\t\ttan δε r,∥ [20° C., 19 GHz]:\t0.0059\n\t\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0131\n\t\tη [20° C., 19 GHz]:\t21.6"
+      }
+    ],
+    "phys_params": {
+      "delta_epsilon": "2",
+      "epsilon_parallel": "2",
+      "epsilon_perpendicular": "2",
+      "gamma1": "2",
+      "K1": "2",
+      "K3": "2",
+      "V0": "2"
+    },
+    "molecular_structures": [
+      "ST-22",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "ST-18",
+      "PGU-2-S",
+      "PGU-3-S",
+      "PGU-4-S",
+      "CPU-2-S",
+      "CPU-3-S",
+      "CPU-4-S",
+      "PGPU-5-S",
+      "PPTU-5-S",
+      "PPTU-4-S",
+      "CPTU-5-S",
+      "CPU(FF)-3-S",
+      "CPUI-4-S"
+    ],
+    "text_length": 176279
+  },
+  {
+    "patent_id": "US20250207032A1",
+    "url": "https://patents.google.com/patent/US20250207032A1/en",
+    "success": true,
+    "title": "Liquid crystal medium",
+    "dates": {
+      "filing_date": "2024-12-16",
+      "publication_date": "2025-06-26",
+      "grant_date": "2026-04-28"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/44",
+      "C09K19/40",
+      "C09K19/06"
+    ],
+    "abstract": "Liquid-crystalline (LC) media having positive dielectric anisotropy and liquid-crystal displays (LCDs) containing these media, especially displays addressed by an active matrix and in particular LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.\nClassifications\n C09K19/44 Mixtures of liquid crystal compounds covered by two or more of the preceding groups C09K19/06 - C09K19/40 containing compounds with benzene rings directly linked\nView 27 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nUS20250207032A1",
+    "claim1": "A liquid crystal medium comprising a) one or more compounds of formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, L11 and L12 independently denote H, F, Cl, CH3, CF3 or CHF2; and b) one or more compounds selected from the group of compounds of formulae II and/or III in which R2 and R3, independently of one another, denote a straight-chain or branched alkyl or alkoxy radical that is unsubstituted or halogenated and has 1 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —C≡C—, —CF2O—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, independently of one another denote L21, L22, L31 and L32 independently of each other, denote H or F, Y2 and Y3 identically or differently, denote H or CH3, X2 and X3 independently of each other, denote halogen, halogenated alkyl or halogenated alkoxy with 1 to 3 C-atoms or halogenated alkenyl or halogenated alkenyloxy with 2 or 3 C-atoms, Z3 denotes —CH2CH2—, —CF2CF2—, —COO—, trans- —CH═CH—, trans-CF═CF—, —CH2O— or a single bond, and l, m, n and o are, independently of each other, 0 or 1.",
+    "claim1_length": 1641,
+    "negative_dielectric_count": 22,
+    "positive_dielectric_count": 14,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "se thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good low-temp",
+      "the use thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good lo",
+      "esser extent, and in particular to provide a medium that enables a display with improved contrast preferably without deterioration of other display parameters.",
+      "The decrease in the voltage holding ratio (ΔVHR) usually caused by the exposure, for example by UV irradiation or by LCD backlighting, is determined in accordanc",
+      "Another disadvantage is that the reliability (VHR) of HB-FFS mixtures can be worse compared to conventional FFS mixtures.",
+      "a low pretilt angle which is stable after UV exposure, a high reliability, high VHR value after UV exposure, and a high birefringence. By appropriate selection of the polymerisable compounds, it is possi",
+      "g to the invention at the same time as constantly high clearing points and high VHR values.",
+      "Unless indicated otherwise, the VHR is determined at 20° C. (VHR20) and after 5 minutes in an oven at 100° C. (VHR100) in a commercially available instrument Model LCM-1 (00004) from T",
+      "The decrease in the voltage holding ratio (ΔVHR) usually caused by the exposure, for example by UV irradiation or by LCD backlighting, is determined in accordance with",
+      "aracteristics Measurement System Model 6254 from Toyo Corporation, Japan, using VHR test cells with AL16301 Polyimide (JSR Corp., Japan) having a 3.2 μm cell gap. The measurement is performed after 5 min",
+      "er average elastic constant (Kav) but this normally has the drawback of reduced response time.",
+      "ty γ1 and the elastic constant K22 for twist deformation, which leads to higher response times. Since K22 is approximately proportional to the elastic constant K11 for splay deformation (the value of K22 is typica",
+      "of the HB-FFS, FFS and IPS mode, with high brightness and transmission and fast response times. In addition, a higher average elastic constant (Kav) can be achieved while keeping all other relevant physical proper",
+      "selected from formula M and Table E, leads to advantageous properties like fast response times. Such a liquid-crystalline medium is especially suitable for use in PSA displays where it shows low image sticking, a",
+      "ys. In particular, the liquid-crystalline media exhibit significantly shortened response times, in particular also the grey-shade response times, in PSA displays compared with the media from the prior art."
+    ],
+    "contrast_keyword_count": 19,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "APUQU-3-F\t3.0\tcl. p. [° C.]:\t104.3\n\tCC-3-2V1\t2.0\tΔn [589 nm, 20° C.]:\t0.0925\n\tCC-3-V\t37.75\tΔε [1 kHz, 20° C.]:\t3.2\n\tCC-3-V1\t6.0\tγ1 [mPa s, 20° C.]:\t87\n\tCCP-V-1\t5.0\tK1 [pN, 20° C.]:\t18.2\n\tCCP-V2-1\t12.0\tK3 [pN, 20° C.]:\t20.7\n\tCCVC-3-V\t1.75\tLTS bulk [h, −40° C.]:\t1000\n\tCDUQU-3-F\t8.0\n\tCLP-V-1\t8.0\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t5.0\n\tDGUQU-4-F\t1.5\n\tLB(S)-3-OT\t2.0\n\tCP-3-O2\t1.0\n\tPP-1-2V1\t4.0\n\tΣ\t100.0\n\t\n[0431]\nIn the following table, key parameters of the mixtures C1 and M1 are summarized.\n\t\n\tΔε\tΔn\tKav [pN]\tγ1 [mPas]\tγ1/K1 [mPas/pN]\n\t\n\nC1\t3.1\t0.0920\t16.0\t89\t5.0\nM1\t3.2\t0.0925\t16.0\t87\t4.8\n\n[0432]\nIt is surprisingly found that the replacement of the compounds CCPC-3-3 of Comparative Mixture C1 with the compound CLPC-2-3 of the formula I in Mixture Example 1, a favorably lower rotational viscosity (γ1) and at"
+      },
+      {
+        "name": "M2",
+        "content": "CC-3-V\t34.0\tcl. p. [° C.]:\t107\n\tCC-3-V1\t6.5\tΔn [589 nm, 20° C.]:\t0.1215\n\tCCP-V-1\t15.0\tΔε [1 kHz, 20° C.]:\t3.8\n\tCCP-V2-1\t4.0\tγ1 [mPa s, 20° C.]:\t84\n\tCCVC-3-V\t3.0\tK1 [pN, 20° C.]:\t17.7\n\tCDUQU-3-F\t3.7\tK3 [pN, 20° C.]:\t18.5\n\tCLP-V-1\t4.5\n\tCLPC-3-2\t3.0\n\tCPGP-4-3\t1.0\n\tDGUQU-4-F\t4.0\n\tPGP-2-2V\t5.0\n\tPGUQU-3-F\t4.3\n\tPP-1-2V1\t1.5\n\tPPGU-3-F\t0.5\n\tPUS-3-2\t10.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M3",
+        "content": "CGPC-5-3\t1.0\tcl. p. [° C.]:\t119.6\n\tCC-3-V\t27.75\tΔn [589 nm, 20° C.]:\t0.1302\n\tCC-3-V1\t6.25\tΔε [1 kHz, 20° C.]:\t4.2\n\tCCP-V-1\t15.0\tγ1 [mPa s, 20° C.]:\t103\n\tCCP-V2-1\t10.0\tK1 [pN, 20° C.]:\t19.1\n\tCCVC-3-V\t4.25\tK3 [pN, 20° C.]:\t19.6\n\tCDUQU-3-F\t2.25\tLTS bulk [h, −40° C.]:\t1000\n\tCLPC-3-2\t3.0\n\tCPGP-4-3\t2.5\n\tDGUQU-4-F\t4.0\n\tCP-3-O2\t0.5\n\tPGP-2-2V\t4.0\n\tPGUQU-3-F\t4.5\n\tPGUQU-4-F\t2.0\n\tPPGU-3-F\t0.5\n\tPUS-3-2\t12.5\n\tΣ\t100.0"
+      },
+      {
+        "name": "M4",
+        "content": "CC-3-V\t33.0\tcl. p. [° C.]:\t103.8\n\tCC-3-V1\t6.0\tΔn [589 nm, 20° C.]:\t0.1140\n\tCC-4-V1\t4.0\tΔε [1 kHz, 20° C.]:\t4.0\n\tCCGU-3-F\t0.75\tγ1 [mPa s, 20° C.]:\t87\n\tCCP-V-1\t13.5\tK1 [pN, 20° C.]:\t17.4\n\tCCP-V2-1\t4.0\tK3 [pN, 20° C.]:\t18.6\n\tCDUQU-3-F\t3.0\n\tCLP-V-1\t5.0\n\tCLPC-3-2\t4.0\n\tDGUQU-4-F\t2.75\n\tLB(S)-3-OT\t5.0\n\tCP-3-O2\t1.0\n\tPGP-2-2V\t7.5\n\tPGUQU-3-F\t4.0\n\tPGUQU-4-F\t3.0\n\tPP-1-2V1\t3.0\n\tPPGU-3-F\t0.5\n\tΣ\t100.0"
+      },
+      {
+        "name": "M5",
+        "content": "APUQU-3-F\t3.0\tcl. p. [° C.]:\t104.5\n\tCC-3-2V1\t2.0\tΔn [589 nm, 20° C.]:\t0.0924\n\tCC-3-V\t37.75\tΔε [1 kHz, 20° C.]:\t3.2\n\tCC-3-V1\t6.0\tγ1 [mPa s, 20° C.]:\t86\n\tCCP-V-1\t5.0\tK1 [pN, 20° C.]:\t18.0\n\tCCP-V2-1\t12.0\tK3 [pN, 20° C.]:\t20.2\n\tCCC-3-V\t1.75\n\tCDUQU-3-F\t8.0\n\tCLP-V-1\t8.0\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t5.0\n\tDGUQU-4-F\t1.5\n\tLB(S)-3-OT\t2.0\n\tCP-3-O2\t1.0\n\tPP-1-2V1\t4.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M6",
+        "content": "APUQU-3-F\t3.0\tcl. p. [° C.]:\t101\n\tCC-3-2V1\t3.5\tΔn [589 nm, 20° C.]:\t0.0899\n\tCC-3-V\t37.75\tΔε [1 kHz, 20° C.]:\t3.2\n\tCC-3-V1\t6.0\tγ1 [mPa s, 20° C.]:\t84\n\tCCP-V-1\t5.0\tK1 [pN, 20° C.]:\t17.8\n\tCCP-V2-1\t13.0\tK3 [pN, 20° C.]:\t20.5\n\tCCVC-3-V\t1.75\n\tCDUQU-3-F\t8.0\n\tCLP-V-1\t8.0\n\tCLPC-3-2\t3.0\n\tCLOY-3-O2\t2.5\n\tDGUQU-4-F\t1.5\n\tLB(S)-3-OT\t2.0\n\tCP-3-O2\t1.0\n\tPP-1-2V1\t4.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M7",
+        "content": "[0433]\nMixture M28 consists of 99.975% of Mixture M1 and 250 ppm of the stabiliser ST-3c\nMixture M8\n[0434]"
+      },
+      {
+        "name": "M9",
+        "content": "CGPC-5-3\t1.0\tcl. p. [° C.]:\t119\n\tCC-3-V\t27.75\tΔn [589 nm, 20° C.]:\t0.1288\n\tCC-3-V1\t6.25\tΔε [1 kHz, 20° C.]:\t4.2\n\tCCP-V-1\t15.0\tγ1 [mPa s, 20° C.]:\t106\n\tCCP-V2-1\t10.0\tK1 [pN, 20° C.]:\t19.0\n\tCCVC-3-V\t4.25\tK3 [pN, 20° C.]:\t20.0\n\tCDUQU-3-F\t2.25\tLTS bulk [h, −40° C.]:\t1000\n\tCLPC-3-2\t3.0\n\tCPGP-4-3\t2.5\n\tDGUQU-4-F\t4.0\n\tCP-3-O2\t0.5\n\tPGP-2-2V\t4.0\n\tPGIGI-3-F\t2.5\n\tPGUQU-3-F\t4.5\n\tPGUQU-4-F\t2.0\n\tPPGU-3-F\t0.5\n\tPUS-3-2\t10.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M10",
+        "content": "CC-3-V\t33.0\tcl. p. [° C.]:\t101\n\tCC-3-V1\t6.0\tΔn [589 nm, 20° C.]:\t0.1125\n\tCC-4-V1\t4.0\tΔε [1 kHz, 20° C.]:\t3.9\n\tCCGU-3-F\t0.75\tγ1 [mPa s, 20° C.]:\t84\n\tCCP-V-1\t13.5\n\tCCP-V2-1\t4.0\n\tCDUQU-3-F\t3.0\n\tCLP-V-1\t5.0\n\tCLPC-3-2\t4.0\n\tDGUQU-4-F\t2.75\n\tLB(S)-3-OT\t3.0\n\tB(S)-5-F\t2.0\n\tCP-3-O2\t1.0\n\tPGP-2-2V\t7.5\n\tPGUQU-3-F\t4.0\n\tPGUQU-4-F\t3.0\n\tPP-1-2V1\t3.0\n\tPPGU-3-F\t0.5\n\tΣ\t100.0"
+      },
+      {
+        "name": "M11",
+        "content": "APUQU-3-F\t3.5\tcl. p. [° C.]:\t104\n\tCC-3-2V1\t2.0\tΔn [589 nm, 20° C.]:\t0.0920\n\tCC-3-V\t37.75\tΔε [1 kHz, 20° C.]:\t3.2\n\tCC-3-V1\t6.0\tγ1 [mPa s, 20° C.]:\t85\n\tCCP-V-1\t6.0\n\tCCP-V2-1\t12.0\n\tCCVC-3-V\t1.75\n\tCDUQU-3-F\t8.0\n\tCLP-V-1\t8.0\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t4.0\n\tDGUQU-4-F\t1.5\n\tB(P)-4O-O4\t1.5\n\tCP-3-O2\t1.0\n\tPP-1-2V1\t4.0\n\tΣ\t100.0"
+      }
+    ],
+    "phys_params": {
+      "delta_n": "5",
+      "delta_epsilon": "3",
+      "gamma1": "5",
+      "K1": "5",
+      "K3": "5"
+    },
+    "molecular_structures": [
+      "CLP-3-3",
+      "B-1-1",
+      "B-1-11",
+      "B-1-6",
+      "B-2-1",
+      "B-2-10",
+      "B-2-6",
+      "B-3-1",
+      "B-3-10",
+      "ST-49",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "ST-19",
+      "LB(S)-3",
+      "CC-4-V1",
+      "CCP-3-1",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14",
+      "RM-15",
+      "RM-16",
+      "RM-17",
+      "RM-18",
+      "RM-19",
+      "RM-20",
+      "RM-21",
+      "RM-22"
+    ],
+    "text_length": 113579
+  },
+  {
+    "patent_id": "US12612551B2",
+    "url": "https://patents.google.com/patent/US12612551B2/en",
+    "success": true,
+    "title": "Liquid crystal medium",
+    "dates": {
+      "filing_date": "2024-12-16",
+      "publication_date": "2025-06-26",
+      "grant_date": "2026-04-28"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3003"
+    ],
+    "abstract": "Liquid-crystalline (LC) media having positive dielectric anisotropy and liquid-crystal displays (LCDs) containing these media, especially displays addressed by an active matrix and in particular LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.\nClassifications\n C09K19/3003 Compounds containing at least two rings in which the different rings are directly linked (covalent bond)\nView 12 more classifications\nUS12612551B2",
+    "claim1": "A liquid crystal medium comprising a) one or more compounds of formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, L11 and L12 independently denote H, F, Cl, CH3, CF3 or CHF2; and b) one or more compounds selected from the group of compounds of formulae II and/or III in which R2 and R3, independently of one another, denote a straight-chain alkyl or alkoxy radical that is unsubstituted or halogenated and has 1 to 15 C atoms, or a branched alkyl or alkoxy radical that is unsubstituted or halogenated and has 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —C≡C—, —CF2O—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, independently of one another denote L21, L22, L31 and L32 independently of each other, denote H or F, Y2 and Y3 identically or differently, denote H or CH3, X2 and X3 independently of each other, denote halogen, halogenated alkyl or halogenated alkoxy with 1 to 3 C-atoms or halogenated alkenyl or halogenated alkenyloxy with 2 or 3 C-atoms, Z3 denotes —CH2CH2—, —CF2CF2—, —COO—, trans-CH═CH—, trans-CF═CF—, —CH2O— or a single bond, and l, m, n and o are, independently of each other, 0 or 1.",
+    "claim1_length": 1727,
+    "negative_dielectric_count": 22,
+    "positive_dielectric_count": 14,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "se thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good low-temp",
+      "the use thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good lo",
+      "esser extent, and in particular to provide a medium that enables a display with improved contrast preferably without deterioration of other display parameters.",
+      "The decrease in the voltage holding ratio (ΔVHR) usually caused by the exposure, for example by UV irradiation or by LCD backlighting, is determined in accordanc",
+      "Another disadvantage is that the reliability (VHR) of HB-FFS mixtures can be worse compared to conventional FFS mixtures.",
+      "a low pretilt angle which is stable after UV exposure, a high reliability, high VHR value after UV exposure, and a high birefringence. By appropriate selection of the polymerisable compounds, it is possi",
+      "g to the invention at the same time as constantly high clearing points and high VHR values.",
+      "Unless indicated otherwise, the VHR is determined at 20° C. (VHR20) and after 5 minutes in an oven at 100° C. (VHR100) in a commercially available instrument Model LCM-1 (00004) from T",
+      "The decrease in the voltage holding ratio (ΔVHR) usually caused by the exposure, for example by UV irradiation or by LCD backlighting, is determined in accordance with",
+      "aracteristics Measurement System Model 6254 from Toyo Corporation, Japan, using VHR test cells with AL16301 Polyimide (JSR Corp., Japan) having a 3.2 μm cell gap. The measurement is performed after 5 min",
+      "er average elastic constant (Kav) but this normally has the drawback of reduced response time.",
+      "ty γ1 and the elastic constant K22 for twist deformation, which leads to higher response times. Since K22 is approximately proportional to the elastic constant K11 for splay deformation (the value of K22 is typica",
+      "of the HB-FFS, FFS and IPS mode, with high brightness and transmission and fast response times. In addition, a higher average elastic constant (Kav) can be achieved while keeping all other relevant physical proper",
+      "selected from formula M and Table E, leads to advantageous properties like fast response times. Such a liquid-crystalline medium is especially suitable for use in PSA displays where it shows low image sticking, a",
+      "ys. In particular, the liquid-crystalline media exhibit significantly shortened response times, in particular also the grey-shade response times, in PSA displays compared with the media from the prior art."
+    ],
+    "contrast_keyword_count": 19,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "APUQU-3-F\t3.0\tcl. p. [° C.]:\t104.3\n\tCC-3-2V1\t2.0\tΔn [589 nm, 20° C.]:\t0.0925\n\tCC-3-V\t37.75\tΔε [1 kHz, 20° C.]:\t3.2\n\tCC-3-V1\t6.0\tγ1 [mPa s, 20° C.]:\t87\n\tCCP-V-1\t5.0\tK1 [pN, 20° C.]:\t18.2\n\tCCP-V2-1\t12.0\tK3 [pN, 20° C.]:\t20.7\n\tCCVC-3-V\t1.75\tLTS bulk [h, −40° C.]:\t1000\n\tCDUQU-3-F\t8.0\n\tCLP-V-1\t8.0\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t5.0\n\tDGUQU-4-F\t1.5\n\tLB(S)-3-OT\t2.0\n\tCP-3-O2\t1.0\n\tPP-1-2V1\t4.0\n\tΣ\t100.0\n\t\nIn the following table, key parameters of the mixtures C1 and M1 are summarized.\n\t\n\tΔε\tΔn\tKav [pN]\tγ1 [mPas]\tγ1/K1 [mPas/pN]\n\t\n\nC1\t3.1\t0.0920\t16.0\t89\t5.0\nM1\t3.2\t0.0925\t16.0\t87\t4.8\n\nIt is surprisingly found that the replacement of the compounds CCPC-3-3 of Comparative Mixture C1 with the compound CLPC-2-3 of the formula I in Mixture Example 1, a favorably lower rotational viscosity (γ1) and at the same time"
+      },
+      {
+        "name": "M2",
+        "content": "CC-3-V\t34.0\tcl. p. [° C.]:\t107\n\tCC-3-V1\t6.5\tΔn [589 nm, 20° C.]:\t0.1215\n\tCCP-V-1\t15.0\tΔε [1 kHz, 20° C.]:\t3.8\n\tCCP-V2-1\t4.0\tγ1 [mPa s, 20° C.]:\t84\n\tCCVC-3-V\t3.0\tK1 [pN, 20° C.]:\t17.7\n\tCDUQU-3-F\t3.7\tK3 [pN, 20° C.]:\t18.5\n\tCLP-V-1\t4.5\n\tCLPC-3-2\t3.0\n\tCPGP-4-3\t1.0\n\tDGUQU-4-F\t4.0\n\tPGP-2-2V\t5.0\n\tPGUQU-3-F\t4.3\n\tPP-1-2V1\t1.5\n\tPPGU-3-F\t0.5\n\tPUS-3-2\t10.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M3",
+        "content": "CGPC-5-3\t1.0\tcl. p. [° C.]:\t119.6\n\tCC-3-V\t27.75\tΔn [589 nm, 20° C.]:\t0.1302\n\tCC-3-V1\t6.25\tΔε [1 kHz, 20° C.]:\t4.2\n\tCCP-V-1\t15.0\tγ1 [mPa s, 20° C.]:\t103\n\tCCP-V2-1\t10.0\tK1 [pN, 20° C.]:\t19.1\n\tCCVC-3-V\t4.25\tK3 [pN, 20° C.]:\t19.6\n\tCDUQU-3-F\t2.25\tLTS bulk [h, −40° C.]:\t1000\n\tCLPC-3-2\t3.0\n\tCPGP-4-3\t2.5\n\tDGUQU-4-F\t4.0\n\tCP-3-O2\t0.5\n\tPGP-2-2V\t4.0\n\tPGUQU-3-F\t4.5\n\tPGUQU-4-F\t2.0\n\tPPGU-3-F\t0.5\n\tPUS-3-2\t12.5\n\tΣ\t100.0"
+      },
+      {
+        "name": "M4",
+        "content": "CC-3-V\t33.0\tcl. p. [° C.]:\t103.8\n\tCC-3-V1\t6.0\tΔn [589 nm, 20° C.]:\t0.1140\n\tCC-4-V1\t4.0\tΔε [1 kHz, 20° C.]:\t4.0\n\tCCGU-3-F\t0.75\tγ1 [mPa s, 20° C.]:\t87\n\tCCP-V-1\t13.5\tK1 [pN, 20° C.]:\t17.4\n\tCCP-V2-1\t4.0\tK3 [pN, 20° C.]:\t18.6\n\tCDUQU-3-F\t3.0\n\tCLP-V-1\t5.0\n\tCLPC-3-2\t4.0\n\tDGUQU-4-F\t2.75\n\tLB(S)-3-OT\t5.0\n\tCP-3-O2\t1.0\n\tPGP-2-2V\t7.5\n\tPGUQU-3-F\t4.0\n\tPGUQU-4-F\t3.0\n\tPP-1-2V1\t3.0\n\tPPGU-3-F\t0.5\n\tΣ\t100.0"
+      },
+      {
+        "name": "M5",
+        "content": "APUQU-3-F\t3.0\tcl. p. [° C.]:\t104.5\n\tCC-3-2V1\t2.0\tΔn [589 nm, 20° C.]:\t0.0924\n\tCC-3-V\t37.75\tΔε [1 kHz, 20° C.]:\t3.2\n\tCC-3-V1\t6.0\tγ1 [mPa s, 20° C.]:\t86\n\tCCP-V-1\t5.0\tK1 [pN, 20° C.]:\t18.0\n\tCCP-V2-1\t12.0\tK3 [pN, 20° C.]:\t20.2\n\tCCC-3-V\t1.75\n\tCDUQU-3-F\t8.0\n\tCLP-V-1\t8.0\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t5.0\n\tDGUQU-4-F\t1.5\n\tLB(S)-3-OT\t2.0\n\tCP-3-O2\t1.0\n\tPP-1-2V1\t4.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M6",
+        "content": "APUQU-3-F\t3.0\tcl. p. [° C.]:\t101\n\tCC-3-2V1\t3.5\tΔn [589 nm, 20° C.]:\t0.0899\n\tCC-3-V\t37.75\tΔε [1 kHz, 20° C.]:\t3.2\n\tCC-3-V1\t6.0\tγ1 [mPa s, 20° C.]:\t84\n\tCCP-V-1\t5.0\tK1 [pN, 20° C.]:\t17.8\n\tCCP-V2-1\t13.0\tK3 [pN, 20° C.]:\t20.5\n\tCCVC-3-V\t1.75\n\tCDUQU-3-F\t8.0\n\tCLP-V-1\t8.0\n\tCLPC-3-2\t3.0\n\tCLOY-3-O2\t2.5\n\tDGUQU-4-F\t1.5\n\tLB(S)-3-OT\t2.0\n\tCP-3-O2\t1.0\n\tPP-1-2V1\t4.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M7",
+        "content": "Mixture M28 consists of 99.975% of Mixture M1 and 250 ppm of the stabiliser ST-3c\nMixture M8\nMixture M29 consists of 99.975% of Mixture M2, 150 ppm of Stabiliser ST-3d and 100 ppm of stabiliser ST-19a"
+      },
+      {
+        "name": "M9",
+        "content": "CGPC-5-3\t1.0\tcl. p. [° C.]:\t119\n\tCC-3-V\t27.75\tΔn [589 nm, 20° C.]:\t0.1288\n\tCC-3-V1\t6.25\tΔε [1 kHz, 20° C.]:\t4.2\n\tCCP-V-1\t15.0\tγ1 [mPa s, 20° C.]:\t106\n\tCCP-V2-1\t10.0\tK1 [pN, 20° C.]:\t19.0\n\tCCVC-3-V\t4.25\tK3 [pN, 20° C.]:\t20.0\n\tCDUQU-3-F\t2.25\tLTS bulk [h, −40° C.]:\t1000\n\tCLPC-3-2\t3.0\n\tCPGP-4-3\t2.5\n\tDGUQU-4-F\t4.0\n\tCP-3-O2\t0.5\n\tPGP-2-2V\t4.0\n\tPGIGI-3-F\t2.5\n\tPGUQU-3-F\t4.5\n\tPGUQU-4-F\t2.0\n\tPPGU-3-F\t0.5\n\tPUS-3-2\t10.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M10",
+        "content": "CC-3-V\t33.0\tcl. p. [° C.]:\t101\n\tCC-3-V1\t6.0\tΔn [589 nm, 20° C.]:\t0.1125\n\tCC-4-V1\t4.0\tΔε [1 kHz, 20° C.]:\t3.9\n\tCCGU-3-F\t0.75\tγ1 [mPa s, 20° C.]:\t84\n\tCCP-V-1\t13.5\n\tCCP-V2-1\t4.0\n\tCDUQU-3-F\t3.0\n\tCLP-V-1\t5.0\n\tCLPC-3-2\t4.0\n\tDGUQU-4-F\t2.75\n\tLB(S)-3-OT\t3.0\n\tB(S)-5-F\t2.0\n\tCP-3-O2\t1.0\n\tPGP-2-2V\t7.5\n\tPGUQU-3-F\t4.0\n\tPGUQU-4-F\t3.0\n\tPP-1-2V1\t3.0\n\tPPGU-3-F\t0.5\n\tΣ\t100.0"
+      },
+      {
+        "name": "M11",
+        "content": "APUQU-3-F\t3.5\tcl. p. [° C.]:\t104\n\tCC-3-2V1\t2.0\tΔn [589 nm, 20° C.]:\t0.0920\n\tCC-3-V\t37.75\tΔε [1 kHz, 20° C.]:\t3.2\n\tCC-3-V1\t6.0\tγ1 [mPa s, 20° C.]:\t85\n\tCCP-V-1\t6.0\n\tCCP-V2-1\t12.0\n\tCCVC-3-V\t1.75\n\tCDUQU-3-F\t8.0\n\tCLP-V-1\t8.0\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t4.0\n\tDGUQU-4-F\t1.5\n\tB(P)-4O-O4\t1.5\n\tCP-3-O2\t1.0\n\tPP-1-2V1\t4.0\n\tΣ\t100.0"
+      }
+    ],
+    "phys_params": {
+      "delta_n": "5",
+      "delta_epsilon": "3",
+      "gamma1": "5",
+      "K1": "5",
+      "K3": "5"
+    },
+    "molecular_structures": [
+      "CLP-3-3",
+      "B-1-1",
+      "B-1-11",
+      "B-1-6",
+      "B-2-1",
+      "B-2-10",
+      "B-2-6",
+      "B-3-1",
+      "B-3-10",
+      "ST-49",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "ST-19",
+      "LB(S)-3",
+      "CC-4-V1",
+      "CCP-3-1",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14",
+      "RM-15",
+      "RM-16",
+      "RM-17",
+      "RM-18",
+      "RM-19",
+      "RM-20",
+      "RM-21",
+      "RM-22"
+    ],
+    "text_length": 112747
+  },
+  {
+    "patent_id": "US20250361444A1",
+    "url": "https://patents.google.com/patent/US20250361444A1/en",
+    "success": true,
+    "title": "Liquid Crystal Medium",
+    "dates": {
+      "filing_date": "2025-04-28",
+      "publication_date": "2025-11-27"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "abstract": "Liquid-crystalline (LC) media having positive dielectric anisotropy and liquid-crystal displays (LCDs) containing these media. Also, displays addressed by an active matrix and LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer-stabilized SA-HB-FFS, polymer-stabilized SA-XB-FFS, positive VA, or positive PS-VA type.\nClassifications\n C09K19/3098 Unsaturated non-aromatic rings, e.g. cyclohexene rings\nView 23 more classifications\nLandscapes\nChemical & Material Sciences\nOrganic Chemistry\nShow more\nUS20250361444A1",
+    "claim1": "A compound of formula I: in which R11 and R12 identically or differently, denote H, a straight-chain alkyl or alkoxy group having 1 to 15 C atoms, a straight-chain alkenyl or alkenyloxy group having 2 to 15 C atoms, or a branched alkyl, alkoxy, alkenyl, or alkenyloxy group having 3 to 15 C atoms, wherein one or more CH2 groups are optionally replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms are optionally replaced by halogen; and L11, L12, L13, and L14 identically or differently, denote H, F, Cl, CH3, CF3, or CHF2, wherein at least one of L11, L12, L13, or L14 denotes F, Cl, CH3, CF3, or CHF2.",
+    "claim1_length": 748,
+    "negative_dielectric_count": 49,
+    "positive_dielectric_count": 14,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "2.9",
+      "2."
+    ],
+    "contrast_snippets": [
+      "se thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good low-temp",
+      "the use thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good lo",
+      "esser extent, and in particular to provide a medium that enables a display with improved contrast, preferably without deterioration of other display parameters.",
+      "Another disadvantage is that the reliability (VHR) of HB-FFS mixtures can be inferior compared to conventional FFS mixtures.",
+      "a low pretilt angle which is stable after UV exposure, a high reliability, high VHR value after UV exposure, and a high birefringence. By appropriate selection of the polymerizable compounds, it is possi",
+      "g to the invention at the same time as constantly high clearing points and high VHR values.",
+      "Unless indicated otherwise, the VHR is determined at 20° C. (VHR20) and after 5 minutes in an oven at 100° C. (VHR100) in a commercially available instrument Model LCM-1 (O0004) from T",
+      "aracteristics Measurement System Model 6254 from Toyo Corporation, Japan, using VHR test cells with AL16301 Polyimide (JSR Corp., Japan) having a 3.2-μm cell gap. The measurement is performed after 5 min",
+      "ing mixtures with a higher KAvg., but this normally has the drawback of reduced response time.",
+      "ity γ1 and the elastic constant K2 for twist deformation, which leads to higher response times. Since K2 is approximately proportional to the elastic constant K1 for splay deformation (the value of K2 is typically",
+      "ally of the IPS and FFS mode, with high brightness, high transmission, and fast response times. In addition, a higher average elastic constant (Kav) can be achieved while keeping all other relevant physical proper",
+      "selected from formula M and Table E, leads to advantageous properties like fast response times. Such a liquid-crystalline medium is especially suitable for use in PSA displays where it shows low image sticking, a",
+      "ys. In particular, the liquid-crystalline media exhibit significantly shortened response times, in particular also the grey-shade response times, in PSA displays compared with the media from the prior art.",
+      "ferably ≤150 mPa·s, to be achieved, enabling excellent MLC displays having fast response times. The rotational viscosities are determined at 20° C.",
+      "FS mode in contrast to the traditional FFS technology is that it enables higher transmittance, which allows operation of the panel with less energy consumption."
+    ],
+    "contrast_keyword_count": 16,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "CGPC-5-3\t1.0\tcl. p. [° C.]:\t120.6\n\tCC-3-V\t26.5\tΔn [589 nm, 20° C.]:\t0.1291\n\tCC-3-V1\t6.0\tΔε [1 kHz, 20° C.]:\t4.1\n\tCCP-V-1\t15.0\tγ1 [mPa · s, 20° C.]:\t103\n\tCCP-V2-1\t10.0\tK1 [pN, 20° C.]:\t19.4\n\tCCVC-3-V\t8.5\tK3 [pN, 20° C.]:\t20.4\n\tCDUQU-3-F\t2.0\n\tCLGIP-3-2\t2.5\n\tDGUQU-4-F\t4.0\n\tCP-3-O2\t0.5\n\tPGP-2-2V\t4.0\n\tPGUQU-3-F\t4.5\n\tPGUQU-4-F\t2.0\n\tPPGU-3-F\t0.5\n\tPUS-3-2\t13.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M2",
+        "content": "CGPC-5-3\t0.5\tcl. p. [° C.]:\t123.8\n\tCC-3-V\t26.0\tΔn [589 nm, 20° C.]:\t0.1297\n\tCC-3-V1\t6.0\tΔε [1 kHz, 20° C.]:\t4.3\n\tCCP-V-1\t15.0\tγ1 [mPa · s, 20° C.]:\t107\n\tCCP-V2-1\t10.0\tK1 [pN, 20° C.]:\t19.9\n\tCCVC-3-V\t8.5\tK3 [pN, 20° C.]:\t20.6\n\tCDUQU-3-F\t2.0\n\tCLGIP-3-2\t5.0\n\tDGUQU-4-F\t4.0\n\tCP-3-O2\t0.5\n\tPGUQU-3-F\t5.0\n\tPGUQU-4-F\t2.0\n\tPPGU-3-F\t0.5\n\tPUS-3-2\t15.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M3",
+        "content": "PUQU-3-F\t12.0\tcl. p. [° C.]:\t101.9\n\tAPUQU-3-F\t2.0\tΔn [589 nm, 20° C.]:\t0.1032\n\tCDUQU-3-F\t4.0\tΔε [1 kHz, 20° C.]:\t8.2\n\tCDU-3-F\t4.0\tγ1 [mPa · s, 20° C.]:\t111\n\tCPG-3-F\t6.0\tK1 [pN, 20° C.]:\t13.8\n\tCPG-5-F\t4.0\tK3 [pN, 20° C.]:\t18.6\n\tCCQU-3-F\t8.0\n\tCCG-V-F\t10.0\n\tCC-3-V\t21.5\n\tCCP-V-1\t12.0\n\tCCP-V2-1\t8.0\n\tCCP-3-1\t4.0\n\tCLGIP-3-2\t4.0\n\tPPGU-3-F\t0.5\n\tΣ\t100.0"
+      },
+      {
+        "name": "M4",
+        "content": "APUQU-2-F\t4.0\tcl. p. [° C.]:\t122.6\n\tAPUQU-3-F\t4.0\tΔn [589 nm, 20° C.]:\t0.1206\n\tCC-3-V\t34.5\tΔε [1 kHz, 20° C.]:\t6.6\n\tCCP-V-1\t12.0\tγ1 [mPa · s, 20° C.]:\t121\n\tCCP-V2-1\t7.0\tK1 [pN, 20° C.]:\t17.8\n\tCCZPC-3-3\t3.0\tK3 [pN, 20° C.]:\t20.1\n\tCCZPC-3-5\t3.0\n\tCCVC-3-V\t3.5\n\tCDUQU-3-F\t2.0\n\tCLGIP-3-2\t5.0\n\tDPGU-4-F\t2.0\n\tPGP-2-2V\t9.0\n\tPGUQU-3-F\t5.5\n\tPPGU-3-F\t0.5\n\tPUQU-3-F\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M5",
+        "content": "APUQU-2-F\t3.0\tcl. p. [° C.]:\t101.2\n\tAPUQU-3-F\t2.5\tΔn [589 nm, 20° C.]:\t0.1046\n\tCC-3-2V1\t3.0\tΔε [1 kHz, 20° C.]:\t4.1\n\tCC-3-V\t37.0\tγ1 [mPa · s, 20° C.]:\t78\n\tCC-3-V1\t5.0\tK1 [pN, 20° C.]:\t16.1\n\tCCP-V-1\t13.0\tK3 [pN, 20° C.]:\t18.5\n\tCCP-V2-1\t7.5\t\t.\n\tCCVC-3-V\t5.0\n\tCDUQU-3-F\t2.0\n\tCLGIP-3-2\t4.0\n\tDGUQU-4-F\t2.0\n\tPGP-2-3\t5.0\n\tPGP-2-4\t4.5\n\tPPGU-3-F\t0.5\n\tPUQU-3-F\t6.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M6",
+        "content": "B(S)-2O-O4\t2.5\tcl. p. [° C.]:\t109.5\n\tB(S)-2O-O5\t2.5\tΔn [589 nm, 20° C.]:\t0.1181\n\tCPP-3-2\t5.0\tΔε [1 kHz, 20° C.]:\t4.20\n\tCC-3-V\t32.5\tγ1 [mPa · s, 20° C.]:\t98.7\n\tCC-3-V1\t5.0\n\tCCGU-3-F\t3.5\n\tCCP-3-1\t2.0\n\tCCP-V-1\t14.0\n\tCCP-V2-1\t5.0\n\tCCVC-3-V\t4.0\n\tCLGIP-3-2\t2.0\n\tDGUQU-4-F\t2.5\n\tPGP-2-2V\t5.0\n\tPGUQU-3-F\t3.0\n\tPGUQU-4-F\t5.0\n\tPPGU-3-F\t0.5\n\tPUQU-3-F\t3.0\n\tLB(S)-3-OT\t3.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M7",
+        "content": "B(S)-2O-O5\t4.0\tcl. p. [° C.]:\t110\n\tCPP-3-2\t4.0\tΔn [589 nm, 20° C.]:\t0.1299\n\tCC-3-V\t35.0\tΔε [1 kHz, 20° C.]:\t3.79\n\tCCP-V-1\t13.5\tγ1 [mPa · s, 20° C.]:\t105.2\n\tCCP-V2-1\t2.0\n\tCCVC-3-V\t5.0\n\tCDUQU-3-F\t1.5\n\tDGUQU-4-F\t4.0\n\tDLGU-3-F\t3.0\n\tLB(S)-3-OT\t4.0\n\tPGP-1-2V\t3.0\n\tPGP-2-2V\t7.0\n\tPPGU-3-F\t0.5\n\tPUQU-3-F\t4.5\n\tPUS-3-2\t4.0\n\tCLGIP-3-2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M8",
+        "content": "PUQU-3-F\t6.0\tcl. p. [° C.]:\t120.0\n\tPGUQU-3-F\t4.0\tΔn [589 nm, 20° C.]:\t0.1191\n\tAPUQU-2-F\t4.0\tΔε [1 kHz, 20° C.]:\t6.13\n\tAPUQU-3-F\t4.0\tγ1 [mPa · s, 20° C.]:\t127.3\n\tCDUQU-3-F\t2.0\n\tDPGU-4-F\t2.0\n\tCC-3-V\t33.0\n\tCCP-V-1\t12.0\n\tCCP-V2-1\t9.5\n\tPGP-2-2V\t6.0\n\tCCVC-3-V\t3.0\n\tCCZPC-3-3\t2.5\n\tCCZPC-3-5\t2.5\n\tCLGIP-3-2\t5.0\n\tPPGU-3-F\t0.5\n\tB(S)-2O-O4\t2.0\n\tB(S)-2O-O5\t2.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M9",
+        "content": "B(P)-2O-O3\t4.0\tcl. p. [° C.]:\t115.5\n\tCPP-3-2\t4.0\tΔn [589 nm, 20° C.]:\t0.1302\n\tCC-3-V\t35.0\tΔε [1 kHz, 20° C.]:\t4.09\n\tCCP-V-1\t13.5\tγ1 [mPa · s, 20° C.]:\t101\n\tCCP-V2-1\t2.0\n\tCCVC-3-V\t5.0\n\tCDUQU-3-F\t1.5\n\tDGUQU-4-F\t4.0\n\tDLGU-3-F\t3.0\n\tLB(S)-3-OT\t4.0\n\tPGP-1-2V\t3.0\n\tPGP-2-2V\t7.0\n\tPPGU-3-F\t0.5\n\tPUQU-3-F\t4.5\n\tPUS-3-2\t4.0\n\tCLGIP-3-2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M10",
+        "content": "B(S)-4O-O1(c5-3en)\t4.0\tcl. p. [° C.]:\t109\nCPP-3-2\t4.0\tΔn [589 nm, 20° C.]:\t0.1293\nCC-3-V\t35.0\tΔε [1 kHz, 20° C.]:\t3.68\nCCP-V-1\t13.5\tγ1 [mPa · s, 20° C.]:\t111\nCCP-V2-1\t2.0\nCCVC-3-V\t5.0\nCDUQU-3-F\t1.5\nDGUQU-4-F\t4.0\nDLGU-3-F\t3.0\nLB(S)-3-OT\t4.0\nPGP-1-2V\t3.0\nPGP-2-2V\t7.0\nPPGU-3-F\t0.5\nPUQU-3-F\t4.5\nPUS-3-2\t4.0\nCLGIP-3-2\t5.0\nΣ\t100.0"
+      }
+    ],
+    "phys_params": {
+      "delta_n": "6",
+      "delta_epsilon": "2",
+      "gamma1": "6",
+      "K1": "6",
+      "K3": "6"
+    },
+    "molecular_structures": [
+      "B-1-1",
+      "B-1-10",
+      "B-1-6",
+      "B-2-1",
+      "B-2-10",
+      "B-2-6",
+      "B-3-1",
+      "B-3-10",
+      "B-5-1",
+      "ST-23",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "ST-19",
+      "LB(S)-3",
+      "CC-4-V1",
+      "CCP-3-1",
+      "CC-3-V",
+      "CC-3-V1",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14",
+      "RM-15",
+      "RM-16",
+      "RM-17",
+      "RM-18",
+      "RM-19",
+      "RM-20"
+    ],
+    "text_length": 129121
+  },
+  {
+    "patent_id": "US20250215323A1",
+    "url": "https://patents.google.com/patent/US20250215323A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2024-12-12",
+      "publication_date": "2025-07-03",
+      "grant_date": "2026-04-07"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "abstract": "A liquid-crystal (LC) material comprising one or more compounds of the formula I\nhaving negative dielectric anisotropy and the use thereof for optical, electro-optical and electronic purposes, such as for example in LC displays, in particular energy saving displays based on the ECB, IPS or FFS effect.\nClassifications\n C09K19/3098 Unsaturated non-aromatic rings, e.g. cyclohexene rings\nView 32 more classifications\nLandscapes\nChemical & Material Sciences\nOrganic Chemistry\nShow more\nUS20250215323A1",
+    "claim1": "Claims (15) Hide Dependent 1. A liquid crystal medium comprising one or more compounds of the formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, one of L11 and L12 denotes H, and the other one of L11 and L12 denotes H, F, Cl, CF3 or CHF2.",
+    "claim1_length": 731,
+    "negative_dielectric_count": 48,
+    "positive_dielectric_count": 8,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "0.5",
+      "2.3"
+    ],
+    "contrast_snippets": [
+      "Another important display trend is to achieve a high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially in IPS/FFS technology",
+      "acted by the scattering parameter and has therefore a significant impact on the contrast ratio. To improve the contrast ratio and to reduce the scattering parameter LC mixtures with high elastic constants are neces",
+      "gh elastic constants. Therefore, new materials need to be found to increase the contrast ratio of future displays even further.",
+      "improved contrast ratio of the display,",
+      "nd a low threshold voltage, a low pretilt angle, a multiplicity of grey shades, high contrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the pol",
+      "Another important display trend is to achieve a high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially",
+      "products. Alternatively, displays with higher brightness can be achieved having improved contrast especially under ambient light. Also, the popularity of 8K and gaming monitors leads to an increased need for LC displa",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other f",
+      "The liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "s often show a decrease of the reliability and stability, and a decrease of the VHR especially after exposure to UV radiation. Especially for use in PSA displays this is a considerable disadvantage becau",
+      "A display is usually carried out by exposure to UV radiation, which may cause a VHR drop in the LC medium.",
+      "ntrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the polymerisable compounds, have low melting points and a high solubility in the LC",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other factors",
+      ", a high VHR is a prerequisite for a high reliability of the LC medium."
+    ],
+    "contrast_keyword_count": 28,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t123.0\n\tB(S)-2O-O5\t3.0\tcl. p. [° C.]:\t0.1019\n\tB(S)-2O-O6\t4.0\tΔn [589 nm, 20° C.]:\t0.1030\n\tCC-3-V\t5.5\tΔε [1 kHz, 20° C.]:\t−3.7\n\tCC-3-V1\t9.5\tγ1 [mPa s, 20° C.]:\t202\n\tCC-4-V1\t8.0\tK1 [pN, 20° C.]:\t29.8\n\tCC-3-O3\t3.0\tK3 [pN, 20° C.]:\t29.7\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100\n\t\n[0536]\nIn the following table, key parameters of the mixtures C1 and M1 are summarized.\n\t\n\tΔε\tΔn\tKav [pN]\tγ1 [mPas]\tγ1/K1 [mPas/pN]\n\t\n\nC1\t−3.6\t0.1030\t23.9\t209\t7.3\nM1\t−3.7\t0.1019\t24.8\t202\t6.8\n\n[0537]\nIt is surprisingly found that by use of the compound of formula I in Mixture Example 1, despite the higher clearing temperature a favorably lower rotational viscosity (γ1) and at the same time a very lo"
+      },
+      {
+        "name": "M2",
+        "content": "B(S)-2O-O5\t5.0\tcl. p. [° C.]:\t108.5\nCC-3-V\t19.25\tΔn [589 nm, 20° C.]:\t0.0909\nCC-3-V1\t14.0\tΔε[1 kHz, 20° C.]:\t−2.4\nCC-4-V1\t12.0\tγ1 [mPa s, 20° C.]:\t134\nCC-3-O3\t3.25\tK1 [pN, 20° C.]:\t22.2\nCC-3-5\t5.0\tK3 [pN, 20° C.]:\t21.9\nCCP-3-1\t5.25\nCCY-3-O2\t9.0\nCLOY-3-O2\t6.25\nCLPC-3-2\t5.0\nCLY-3-O2\t9.0\nCOB(S)-2-O4\t6.0\nCP-3-O2\t1.0\nΣ\t100.0"
+      },
+      {
+        "name": "M3",
+        "content": "B(S)-2O-O4\t1.0\tcl. p. [° C.]:\t116.5\n\tCC-3-V\t14.75\tΔn [589 nm, 20° C.]:\t0.0893\n\tCC-3-V1\t12.5\tΔε [1 kHz, 20° C.]:\t−3.1\n\tCC-3-5\t12.0\tγ1 [mPa s, 20° C.]:\t224\n\tCCP-3-1\t10.5\tK1 [pN, 20° C.]:\t24.7\n\tCCY-3-O2\t11.0\tK3 [pN, 20° C.]:\t28.2\n\tCLOY-3-O2\t23.25\tLTS bulk [h, −20° C.]:\t1000\n\tCLPC-3-2\t5.0\n\tCLY-3-O2\t10.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M4",
+        "content": "B(S)-2O-O4\t1.0\tcl. p. [° C.]:\t116.5\n\tCC-3-V\t4.0\tΔn [589 nm, 20° C.]:\t0.0892\n\tCC-3-V1\t12.0\tΔε [1 kHz, 20° C.]:\t−3.2\n\tCC-4-V1\t10.0\tγ1 [mPa s, 20° C.]:\t235\n\tCC-3-O3\t2.5\tK1 [pN, 20° C.]:\t26.1\n\tCC-3-5\t12.0\tK3 [pN, 20° C.]:\t28.4\n\tCCP-3-1\t10.5\tLTS bulk [h, −20° C.]:\t288\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t23.5\n\tCLPC-3-2\t2.5\n\tCLY-3-O2\t11.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M5",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t123.0\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1015\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.7\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-4-3\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M6",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t122.5\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1021\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.7\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-V-1\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M7",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t124\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1021\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.7\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-O1\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M8",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t122.5\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1010\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−4.0\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCOY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M9",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t123.5\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1010\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.6\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCEY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M10",
+        "content": "B(P)-2O-O3\t4.0\tcl. p. [° C.]:\t125\n\tB(P)-2O-O4\t3.0\tΔn [589 nm, 20° C.]:\t0.1036\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.3\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      }
+    ],
+    "phys_params": {
+      "delta_n": "0",
+      "delta_epsilon": "2",
+      "gamma1": "1",
+      "K1": "1",
+      "K3": "1"
+    },
+    "molecular_structures": [
+      "CLP-3-3",
+      "ST-18",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "CCY-4-02",
+      "CCY-3-02",
+      "CCY-3-03",
+      "CCY-3-01",
+      "CCY-5-02",
+      "CLY-2-04",
+      "CLY-3-02",
+      "CLY-3-03",
+      "B(S)-20-04",
+      "B(S)-20-05",
+      "B(S)-20-06",
+      "CC-3-V1",
+      "CC-4-V1",
+      "CC-3-V",
+      "CC-4-V",
+      "CP-3-02",
+      "CCP-3-1",
+      "CPP-3-2",
+      "CCC-3-V",
+      "PPGU-3-F",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14"
+    ],
+    "text_length": 143540
+  },
+  {
+    "patent_id": "US20260015735A1",
+    "url": "https://patents.google.com/patent/US20260015735A1/en",
+    "success": true,
+    "title": "Formulation",
+    "dates": {
+      "filing_date": "2025-09-23",
+      "publication_date": "2026-01-15"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "abstract": "A method for preparing a composite comprising at least the following steps (a) to (c): (a) providing a formulation onto a surface of a substrate by a wet deposition process to obtain a partly or fully dried formulation;(b) applying a post bake to the formulation provided on the surface of the substrate to obtain a 1st composite; and(c) applying a post-treatment to the 1st composite to obtain a final composite or applying a post-treatment to the partly or fully dried formulation obtained in step (a).\nClassifications\n B29D11/0073 Optical laminates\nView 7 more classifications\nLandscapes\nChemical & Material Sciences\nEngineering & Computer Science\nShow more\nUS20260015735A1",
+    "claim1": "A method for preparing a composite comprising at least the following steps (a) to (c): (a) providing a formulation onto a surface of a substrate by a wet deposition process to obtain a partly or fully dried formulation; (b) applying a post bake to the formulation provided on the surface of the substrate to obtain a 1st composite; and (c) applying a post-treatment to the 1st composite to obtain a final composite or applying a post-treatment to the partly or fully dried formulation obtained in step (a); wherein said formulation provided in step (a) includes at least one material selected from the group consisting of metal sulfates, metal phosphates, metal oxy sulfates, metal oxy phosphates, metal oxy chlorides, hydrated metal sulfates, hydrated metal phosphates, hydrated metal oxy sulfates, hydrated metal oxy phosphates and hydrated metal oxy chlorides; and further includes a solvent or a solvent blend; wherein said post-treatment is a post-treatment with a solvent, a heat treatment or a combination of the post-treatment with a solvent and the heat treatment.",
+    "claim1_length": 1073,
+    "negative_dielectric_count": 0,
+    "positive_dielectric_count": 0,
+    "is_negative_dielectric": false,
+    "delta_eps_values": [],
+    "contrast_snippets": [],
+    "contrast_keyword_count": 0,
+    "mixture_examples": [],
+    "phys_params": {},
+    "molecular_structures": [],
+    "text_length": 74414
+  },
+  {
+    "patent_id": "EP4733370A1",
+    "url": "https://patents.google.com/patent/EP4733370A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2025-10-20",
+      "publication_date": "2026-04-29"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, preferably having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, such as for example in energy efficient LC displays, in particular displays of the PS-VA type.\nClassifications\n C09K19/3098 Unsaturated non-aromatic rings, e.g. cyclohexene rings\nView 9 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4733370A1",
+    "claim1": null,
+    "claim1_length": 0,
+    "negative_dielectric_count": 30,
+    "positive_dielectric_count": 1,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "improved contrast ratio of the display,",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other f",
+      "The liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "displays comprising them, which show very high specific resistance values, high VHR values, high reliability, low threshold voltages, short response times, high birefringence, good UV absorption especial",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other factors",
+      ", a high VHR is a prerequisite for a high reliability of the LC medium.",
+      "ay (LCD) panels having higher refresh rates and thus for LC media having faster response times. Many of these LCD panels are using polymer stabilized (PS) or polymer sustained alignment modes (PSA) modes, like the",
+      "One method to reduce the response times in LC media for the PSA mode is for example by using compounds with an alkenyl group as components of the LC host mixt",
+      "stance values, high VHR values, high reliability, low threshold voltages, short response times, high birefringence, good UV absorption especially at longer UV wavelengths, preferably in the range from 340 to 380 n",
+      "fast response time that enables LCDs with low power consumption to enlarge the battery lifetime for mobile devices,"
+    ],
+    "contrast_keyword_count": 11,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "[0266]\nCC-3-O1\t11.52\tT(N,I) [°C]:\t109\nCC-3-O3\t5.76\tΔn (589 nm, 20°C):\t0.1060\nCC-5-O1\t1.92\tne (20°C, 589.3 nm]:\t1.5909\nCCP-3-1\t6.72\tno (20°C, 589.3 nm]:\t1.4850\nCCZPC-3-3\t2.88\tΔε (1 kHz, 20°C):\t-3.4\nCCZPC-3-4\t2.88\tε∥ (1 kHz, 20°C):\t3.7\nCCY-3-O1\t5.28\tε⊥ (1 kHz, 20°C):\t7.1\nCCY-3-O2\t9.12\tγ1 [mPa·s], (20°C):\t238\nCCY-3-O3\t6.72\tK1 [pN], (20°C):\t17.2\nCCY-4-O2\t8.16\tK3 [pN], (20°C):\t20.7\nCPY-2-O2\t8.16\t\t\nCPY-3-O2\t6.72\t\t\nCY-3-O2\t9.12\t\t\nCP-3-O2\t11.04\t\t\nPYP-2-3\t4.00\t\t\nΣ\t100"
+      },
+      {
+        "name": "M2",
+        "content": "[0267]\nCC-3-O1\t11.04\tT(N,I) [°C]:\t109\nCC-3-O3\t5.52\tΔn (589 nm, 20°C):\t0.1101\nCC-5-O1\t1.84\tne (20°C, 589.3 nm]:\t1.5967\nCCP-3-1\t6.44\tno (20°C, 589.3 nm]:\t1.4866\nCCZPC-3-3\t2.76\tΔε (1 kHz, 20°C):\t-3.3\nCCZPC-3-4\t2.76\tε∥ (1 kHz, 20°C):\t3.8\nCCY-3-O1\t5.06\tε⊥ (1 kHz, 20°C):\t7.1\nCCY-3-O2\t8.74\tγ1 [mPa·s], (20°C):\t241\nCCY-3-O3\t6.44\tK1 [pN], (20°C):\t17.1\nCCY-4-O2\t7.82\tK3 [pN], (20°C):\t20.5\nCPY-2-O2\t7.82\t\t\nCPY-3-O2\t6.44\t\t\nCY-3-O2\t8.74\t\t\nCP-3-O2\t10.58\t\t\nPYP-2-3\t8.00\t\t\nΣ\t100.00"
+      },
+      {
+        "name": "M3",
+        "content": "[0268]\nCC-3-V1\t2.5\tT(N,I) [°C]:\t105.4\nCC-4-V1\t10.0\tΔn (589 nm, 20°C):\t0.1139\nCC-3-O1\t3.0\tne (20°C, 589.3 nm]:\t1.5994\nCC-3-4\t4.0\tno (20°C, 589.3 nm]:\t1.4855\nCC-3-5\t4.0\tΔε (1 kHz, 20°C):\t-3.5\nCCP-3-1\t6.0\tε∥ (1 kHz, 20°C):\t3.5\nCCP-3-3\t6.0\tε⊥ (1 kHz, 20°C):\t7\nCCY-3-O1\t4.0\tγ1 [mPa·s], (20°C):\t212\nCCY-3-O2\t4.0\tK1 [pN], (20°C):\t18.5\nCCY-3-O3\t4.0\tK3 [pN], (20°C):\t19.2\nCCY-4-O2\t4.0\t\t\nCCY-5-O2\t4.0\t\t\nCPY-2-O2\t10.0\t\t\nCPY-3-O2\t10.0\t\t\nCY-3-O2\t6.5\t\t\nCY-3-O4\t10.0\t\t\nPYP-2-3\t5.0\t\t\nPYP-2-4\t3.0\t\t\nΣ\t\t\t100.0"
+      },
+      {
+        "name": "M4",
+        "content": "[0269]\nCC-3-V1\t7.5\tT(N,I) [°C]:\t110\nCC-4-V1\t20.0\tΔn (589 nm, 20°C):\t0.1109\nCCP-V-1\t2.0\tne (20°C, 589.3 nm]:\t1.5942\nCCY-2-1\t9.0\tno (20°C, 589.3 nm]:\t1.4833\nCCY-3-O1\t4.0\tΔε (1 kHz, 20°C):\t-3.8\nCCY-3-O2\t7.0\tε∥ (1 kHz, 20°C):\t3.5\nCCY-3-O3\t9.0\tε⊥ (1 kHz, 20°C):\t7.3\nCCY-4-O2\t9.0\tγ1 [mPa·s], (20°C):\t221\nCPY-2-O2\t8.0\tK1 [pN], (20°C):\t19.3\nCPY-3-O2\t6.0\tK3 [pN], (20°C):\t20.1\nCY-3-O2\t6.0\t\t\nCY-5-O2\t5.0\t\t\nPGIY-2-O4\t2.5\t\t\nPYP-2-3\t5.0\t\t\nΣ\t100.0"
+      },
+      {
+        "name": "M5",
+        "content": "[0270]\nCC-3-V\t27.0\tT(N,I) [°C]:\t95.6\nCCP-V-1\t8.0\tΔn (589 nm, 20°C):\t0.1091\nCCY-2-1\t5.5\tne (20°C, 589.3 nm]:\t1.5963\nCCY-3-O1\t6.0\tno (20°C, 589.3 nm]:\t1.4872\nCCY-3-O2\t6.0\tΔε (1 kHz, 20°C):\t-3.5\nCCY-4-O2\t6.0\tε∥ (1 kHz, 20°C):\t3.5\nCPY-2-O2\t10.0\tε⊥ (1 kHz, 20°C):\t7\nCPY-3-O2\t10.0\tγ1 [mPa·s], (20°C):\t147\nCY-3-O2\t7.0\tK1 [pN], (20°C):\t15.1\nCY-5-O2\t7.0\tK3 [pN], (20°C):\t17.1\nPGIY-2-O4\t2.5\t\t\nPYP-2-3\t5.0\t\t\nΣ\t100.0"
+      },
+      {
+        "name": "M6",
+        "content": "[0271]\nCC-3-V1\t5.0\tT(N,I) [°C]:\t110\nCC-4-V1\t5.0\tΔn (589 nm, 20°C):\t0.1033\nCC-3-4\t4.0\tne (20°C, 589.3 nm]:\t1.5845\nCC-3-5\t4.0\tno (20°C, 589.3 nm]:\t1.4812\nCCOC-3-3\t3.0\tΔε (1 kHz, 20°C):\t-4.1\nCCP-3-1\t5.0\tε∥ (1 kHz, 20°C):\t3.5\nCCP-3-3\t5.0\tε⊥ (1 kHz, 20°C):\t7.6\nCCY-3-O1\t5.5\tγ1 [mPa·s], (20°C):\t250\nCCY-3-O2\t9.0\tK1 [pN], (20°C):\t19.6\nCCY-3-O3\t7.0\tK3 [pN], (20°C):\t21.5\nCCY-4-O2\t7.0\t\t\nCCY-5-O2\t4.0\t\t\nCPY-3-O2\t10\t\t\nCY-3-O4\t11.5\t\t\nCY-5-O2\t11.0\t\t\nPYP-2-3\t4.0\t\t\nΣ\t100.0"
+      },
+      {
+        "name": "M7",
+        "content": "[0272]\nCC-4-V1\t5.0\tT(N,I) [°C]:\t110.4\nCC-2-3\t8.0\tΔn (589 nm, 20°C):\t0.1051\nCC-3-4\t4.0\tne (20°C, 589.3 nm]:\t1.5888\nCCP-3-1\t7.0\tno (20°C, 589.3 nm]:\t1.4837\nCCP-3-3\t7.0\tΔε (1 kHz, 20°C):\t-4.1\nCCY-3-O1\t5.0\tε∥ (1 kHz, 20°C):\t3.4\nCCY-3-O2\t10.3\tε⊥ (1 kHz, 20°C):\t7.5\nCCY-3-O3\t6.0\tγ1 [mPa·s], (20°C):\t235\nCCY-4-O2\t6.0\tK1 [pN], (20°C):\t19.5\nCCY-5-O2\t5.0\tK3 [pN], (20°C):\t18.9\nCPY-2-O2\t10.0\t\t\nCPY-3-O2\t4.0\t\t\nCY-3-O4\t10.7\t\t\nCY-5-O2\t8.0\t\t\nPYP-2-3\t\t\t4.0\nΣ\t\t\t100.0"
+      },
+      {
+        "name": "M8",
+        "content": "[0273]\nCC-3-V1\t5.0\tT(N,I) [°C]:\t110.9\nCC-4-V1\t10.8\tΔn (589 nm, 20°C):\t0.1192\nCC-3-4\t4.0\tne (20°C, 589.3 nm]:\t1.6054\nCCP-3-1\t8.0\tno (20°C, 589.3 nm]:\t1.4862\nCCY-3-O1\t4.0\tΔε (1 kHz, 20°C):\t-4.2\nCCY-3-O2\t7.0\tε∥ (1 kHz, 20°C):\t3.5\nCCY-3-O3\t5.0\tε⊥ (1 kHz, 20°C):\t7.7\nCCY-4-O2\t5.0\tγ1 [mPa·s], (20°C):\t233\nCCY-5-O2\t5.0\tK1 [pN], (20°C):\t18.9\nCPY-2-O2\t9.0\tK3 [pN], (20°C):\t19.7\nCPY-3-O2\t10.6\t\t\nCY-3-O2\t11.0\t\t\nCY-3-O4\t6.3\t\t\nPYP-2-3\t6.3\t\t\nPYP-2-4\t3.0\t\t\nΣ\t100.0"
+      },
+      {
+        "name": "M9",
+        "content": "[0274]\nCC-3-V1\t3.0\tT(N,I) [°C]:\t109.7\nCC-4-V1\t10.0\tΔn (589 nm, 20°C):\t0.1110\nCC-3-4\t4.0\tne (20°C, 589.3 nm]:\t1.5950\nCC-3-5\t2.5\tno (20°C, 589.3 nm]:\t1.4840\nCCP-3-1\t6.5\tΔε (1 kHz, 20°C):\t-3.9\nCCP-3-3\t6.5\tε∥ (1 kHz, 20°C):\t3.7\nCCY-3-O1\t4.5\tε⊥ (1 kHz, 20°C):\t7.6\nCCY-3-O2\t5.5\tγ1 [mPa·s], (20°C):\t237.3\nCCY-3-O3\t5.0\tK1 [pN], (20°C):\t19.3\nCCY-4-O2\t5.0\tK3 [pN], (20°C):\t20.7\nCCY-5-O2\t5.0\t\t\nCPY-2-O2\t9.0\t\t\nCPY-3-O2\t\t\t10.0\nCY-3-O2\t\t\t9.5\nCY-3-O4\t\t\t10.0\nPYP-2-3\t\t\t3.5\nPPGU-3-F\t\t\t0.5\nΣ\t\t\t100.0\nHost Mixture H2\n[0275]\nCC-3-V1\t3.0\tT(N,I) [°C]:\t110\nCC-2-3\t4.0\tΔn (589 nm, 20°C):\t0.1068\nCC-3-4\t6.0\tne (20°C, 589.3 nm]:\t1.5896\nCC-3-5\t5.0\tno (20°C, 589.3 nm]:\t1.4827\nCCOC-3-3\t3.0\tΔε (1 kHz, 20°C):\t-4.1\nCCP-3-1\t5.0\tε∥ (1 kHz, 20°C):\t3.5\nCCP-3-3\t5.0\tε⊥ (1 kHz, 20°C):\t7.6\nCCY-3-O1\t5.0\tγ1 [mPa·s], (20°C):\t248\nCCY-3-O2\t9"
+      },
+      {
+        "name": "M10",
+        "content": "[0276]\nH2\t\t\t99.675\nRM-35\t\t\t0.300\nSA-32\t\t\t0.025\nΣ\t\t\t100.000\n[0277]\nUsing the Mixture Examples M1 to M10 and comparative Mixture C1, displays have been fabricated and the alignment of the liquid crystal medium has been investigated. The following results have been obtained:\nMixture\tAlignment\nC1\tX\nM1\tΔ\nM2\tO\nM3\tO\nM4\tO\nM5\tO\nM6\tΔ\nM7\tO\nM8\tO\nM9\tO\nM10\tO\nX: Not Good; Δ: Acceptable; O: Good\n[0278]\nReference mixture C1 has an unacceptable alignment and is therefore, unsuitable for applications in PS-VA displays. It has been found that the mixtures according to the present invention bring an improvement and surprisingly show an acceptable or good alignment."
+      }
+    ],
+    "phys_params": {
+      "gamma1": "234",
+      "K1": "17.4",
+      "K3": "20.2"
+    },
+    "molecular_structures": [
+      "CC-3-V1",
+      "CC-4-V1",
+      "CC-3-O1",
+      "CC-3-4",
+      "CC-3-5",
+      "CCP-3-1",
+      "CCP-3-3",
+      "CCY-3-O1",
+      "CCY-3-O2",
+      "CCY-3-O3",
+      "CCY-4-O2",
+      "CCY-5-O2",
+      "CPY-2-O2",
+      "CPY-3-O2",
+      "CY-3-O2",
+      "CY-3-O4",
+      "PYP-2-3",
+      "PYP-2-4",
+      "CLP-3-3",
+      "ST-23",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "CY-5-O2",
+      "CY-5-O4",
+      "CCY-2-1",
+      "PGIY-3-O2",
+      "PGP-2-3",
+      "PGP-2-4",
+      "PGP-2-5"
+    ],
+    "text_length": 140085
+  },
+  {
+    "patent_id": "EP4689796A1",
+    "url": "https://patents.google.com/patent/EP4689796A1/en",
+    "success": true,
+    "title": "Composition",
+    "dates": {
+      "filing_date": "2024-03-25",
+      "publication_date": "2026-02-11"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "abstract": "The present invention relates to a composition comprising a photosensitive composition comprising at least an alkaline soluble polymer.\nClassifications\n G02B5/0242 Diffusing elements; Afocal elements characterised by the diffusing properties the diffusion taking place within the volume of the element by means of dispersed particles\nView 6 more classifications\nLandscapes\nPhysics & Mathematics\nGeneral Physics & Mathematics\nShow more\nEP4689796A1",
+    "claim1": null,
+    "claim1_length": 0,
+    "negative_dielectric_count": 0,
+    "positive_dielectric_count": 0,
+    "is_negative_dielectric": false,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "improve the resolution by strengthening 30 the shaped pattern or increasing the contrast of development. The photo radical generator used in the present invention is a photo radical generator that emits a radica",
+      "proved scattering effect, increase haze value, preferably with keeping constant transmittance; providing a photosensitive composition which can realize improved brightness from the side angle of a cured film, impr",
+      "oved scattering effect, increase haze value, preferably with keeping constant 5 transmittance; providing a photosensitive composition which can realize improved brightness from the side angle of a cured film, impr",
+      "ter, the glass is cured at 160deg.C for 30min. in an oven. 10 T.T. means “total transmittance” in the wavelength range from 380 to 780nm According to the present invention, said Haze value is measured at room temp",
+      "and 700μm. Particularly it is 700μm. . Schematics of the integrating sphere for transmittance and haze measurement, the total transmittance (TT) TT = TP + TD, the haze (H) H =TD/TT. 20 The parallel transmittance (",
+      "nsity at a position opposite to that of the sample in the sphere, and the total transmittance (TT), including the diffracted light transmittance (TD) and TP, is obtained by measuring the light passing through the",
+      "ht scattering in the sample, i.e., 25 the haze (H), is defined as H =TD/TT. The transmittance and haze is measured. Particle size is obtained from catalog published by the material suppliers. RI (Refractive Index)",
+      "ve table, nanoparticle mixed formulation can provide higher haze value and high transmittance. And it is believed that it is effective for future display such as rollable, foldable and vendable flexible display. 2"
+    ],
+    "contrast_keyword_count": 8,
+    "mixture_examples": [],
+    "phys_params": {},
+    "molecular_structures": [],
+    "text_length": 84361
+  },
+  {
+    "patent_id": "US20250136868A1",
+    "url": "https://patents.google.com/patent/US20250136868A1/en",
+    "success": true,
+    "title": "Liquid-crystalline medium",
+    "dates": {
+      "filing_date": "2024-08-29",
+      "publication_date": "2025-05-01"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/40",
+      "C09K19/06",
+      "C09K19/42"
+    ],
+    "abstract": "Liquid-crystalline (LC) media or LC materials and energy saving liquid-crystal displays (LCDs) containing these media, especially gaming displays and AR/VR headsets addressed by an active matrix and in particular to LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.\nClassifications\n C09K19/42 Mixtures of liquid crystal compounds covered by two or more of the preceding groups C09K19/06 - C09K19/40\nView 33 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nUS20250136868A1",
+    "claim1": "A liquid-crystalline medium, comprising one or more compounds of Formula G and one or more compounds of Formula U in which the individual substituents have the following meanings: R1, R2 each, independently of one another, denote a H atom, a halogen R4 and R5 atom, —CN, —SCN, —NCS, an alkyl or an alkoxy group having 1 to 12 C atoms or an alkenyl or an alkenyloxy group having 2 to 12 C atoms in which one or more non-adjacent CH2 groups are optionally substituted by —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by a halogen atom or a cycloalkyl or a cycloalkoxy group having 3 to 12 C atoms, in which one or more H atoms may be replaced by a halogen atom; R3 and R6 each, independently of one another, denote a H atom, an alkyl group having 1 to 3 C atoms or an alkenyl group having 2 to 3 C atoms in which one or more non-adjacent CH2 groups are optionally substituted by —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another; A1 to A4 each, independently of one another, denote phenylene-1,4-diyl, in which, in addition, one or two CH groups may be replaced by N and one or more H atoms may be replaced by halogen, CN, CH3, CHF2, CH2F, CF3, OCH3, OCHF2 or OCF3, cyclohexane-1,4-diyl, in which, in addition, one or two non-adjacent CH2 groups may be replaced, independently of one another, by O and/or S and one or more H atoms may be replaced by F, cyclohexene-1,4-diyl, bicyclo[1.1.1]pentane-1,3-diyl, bicyclo[2.2.2]octane-1,4-diyl, spiro[3.3]heptane-2,6-diyl, tetrahydropyran-2,5-diyl or 1,3-dioxane-2,5-diyl; Z1 to Z4 each, independently of one another, denote —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CO—O—, —O—CO—, —C2H4—, —C2F4—, —CF2CH2—, —CH2CF2—, —CFHCFH—, —CFHCH2—, —CH2CFH—, —CF2CFH—, —CFHCF2—, —CH═CH—, —CF═CH—, —CH═CF—, —CF═CF—, —C≡C— or a single bond; and k, l, m, n each, independently of one another, denote 0, 1, 2 or 3.",
+    "claim1_length": 2025,
+    "negative_dielectric_count": 45,
+    "positive_dielectric_count": 8,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "se thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good low-temp",
+      "Until now, it was not possible to design suitable LC media having a high contrast ratio e.g. high elastic constants K1 and Kav, low temperature stability and low response times. Therefore, the overall pictur",
+      "rgy saving liquid-crystal displays (LCDs) containing these media, especially to high contrast gaming displays and AR/VR headsets addressed by an active matrix and in particular to LC displays of the TN, PS-TN, STN",
+      "the use thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good lo",
+      "Until now, it was not possible to design suitable LC media having a high contrast ratio e.g. high elastic constants K1 and Kav, low temperature stability and low response times. Therefore, the overall",
+      "t motion picture quality and an improved overall image quality, in particular a high contrast.",
+      "Measurements of the voltage holding ratio (HR) [S. Matsumoto et al., Liquid Crystals 5, 1320 (1989); K. Niwa et al., Proc. SID Conference, San Francisco, June 19",
+      "articularly efficient UV stabilisers in LC mixtures, in particular, in terms of VHR stability:",
+      "e compounds are highly suitable as stabilisers in LC mixtures and stabilise the VHR of the mixtures upon UV exposure.",
+      "a low pretilt angle which is stable after UV exposure, a high reliability, high VHR value after UV exposure, and a high birefringence. By appropriate selection of the polymerisable compounds it is possib",
+      "g to the invention at the same time as constantly high clearing points and high VHR values.",
+      "ition of 50 ppm of the compound of the Formula H-3-5 significantly improves the VHR100 after UV exposure compared to the non-stabilized mixture M1, without affecting the remaining physical properties of",
+      "on of 1 000 ppm of the compound of the Formula H-3-3 significantly improves the VHR100 after UV exposure compared to the non-stabilized mixture M2, without affecting the remaining physical properties of",
+      "dition of 1 000 ppm of the compound of Formula H-3-1 significantly improves the VHR100 after UV exposure compared to the non-stabilized mixture M3, without affecting the remaining physical properties of",
+      "ion of 500 ppm of the compound of the Formula ST-2-3 significantly improves the VHR100 after UV exposure compared to the non-stabilized mixture M4, without affecting the remaining physical properties of"
+    ],
+    "contrast_keyword_count": 61,
+    "mixture_examples": [
+      {
+        "name": "M13",
+        "content": "[0533]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\n\t\tConcentration,\t\nNr.\tCompound\twt.-%\tProperties\n\n 1\tCC-3-2V1\t4.0\tT(N, I) =\t85° C.\n 2\tCC-3-V\t34.5\tne [589 nm, 20° C.]: =\t1.6276\n 3\tCC-3-V1\t8.0\tno [589 nm, 20° C.]: =\t1.4930\n 4\tCPP-3-2V1\t3.5\tΔn [589 nm, 20° C.]: =\t0.1346\n 5\tCLP-3-T\t7.0\tε∥ [1 kHz, 20° C.]: =\t6.8\n 6\tCLP-V-1\t7.0\tε⊥ [1 kHz, 20° C.]: =\t2.7\n 7\tPGP-1-2V\t4.0\tΔε [1 kHz, 20° C.]: =\t4.1\n 8\tPGUQU-3-F\t4.0\tγ1 [mPa s, 20° C.]: =\t64\n 9\tPGUQU-4-F\t3.0\tK1 [pN, 20° C.]: =\t20.5\n10\tPGUQU-5-F\t3.0\tK3 [pN, 20° C.]: =\t17.4\n11\tPP-1-2V1\t10.0\t\n12\tPPGU-3-F\t0.5\t\n13\tPGS-3-T\t3.5\t\n14\tPUS-3-2\t8.0\n\nMixture Example S13 (Stabilised with Compound of Formula H-3-7)\n[0534]\nA nematic LC mixture according to the invention is formulated as follows:"
+      },
+      {
+        "name": "M14",
+        "content": "[0536]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\n\t\tConcentration,\t\nNr.\tCompound\twt .- %\tProperties\n\n 1\tCC-3-2V1\t4.0\tT(N, I) =\t86° C.\n 2\tCC-3-V\t34.5\tne [589 nm, 20° C.]: =\t1.6308\n 3\tCC-3-V1\t8.0\tno [589 nm, 20° C.]: =\t1.4945\n 4\tCPP-3-2V1\t3.5\tΔn [589 nm, 20° C.]: =\t0.1363\n 5\tCLP-3-T\t7.0\tε∥ [1 kHz, 20° C.]: =\t6.3\n 6\tCLP-V-1\t7.0\tε⊥ [1 kHz, 20° C.]: =\t2.6\n 7\tPGP-1-2V\t4.0\tΔε [1 kHz, 20° C.]: =\t3.7\n 8\tPGUQU-3-F\t4.0\tγ1 [mPa s, 20° C.]: =\t65\n 9\tPGUQU-4-F\t3.0\tK1 [pN, 20° C.]: =\t20.2\n10\tPGUQU-5-F\t3.0\tK3 [pN, 20° C.]: =\t17.2\n11\tPP-1-2V1\t10.0\t\n12\tPPGU-3-F\t0.5\t\n13\tPGS-2-1\t3.5\t\n14\tPUS-3-2\t8.0\n\nMixture Example S14 (Stabilised with Compound of Formula H-3-8)\n[0537]\nA nematic LC mixture according to the invention is formulated as follows:"
+      },
+      {
+        "name": "M15",
+        "content": "[0539]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\n\t\tConcentration,\t\nNr.\tCompound\twt.-%\tProperties\n\n 1\tCC-3-2V1\t4.0\tT(N, I) =\t85.5° C.\n 2\tCC-3-V\t34.5\tne [589 nm, 20° C.]: =\t1.6303\n 3\tCC-3-V1\t8.0\tno [589 nm, 20° C.]: =\t1.4946\n 4\tCPP-3-2V1\t3.5\tΔn [589 nm, 20° C.]: =\t0.1357\n 5\tCLP-3-T\t7.0\tε∥ [1 kHz, 20° C.]: =\t6.3\n 6\tCLP-V-1\t7.0\tε⊥ [1 kHz, 20° C.]: =\t2.6\n 7\tPGP-1-2V\t4.0\tΔε [1 kHz, 20° C.]: =\t3.7\n 8\tPGUQU-3-F\t4.0\tγ1 [mPa s, 20° C.]: =\t66\n 9\tPGUQU-4-F\t3.0\tK1 [pN, 20° C.]: =\t20.2\n10\tPGUQU-5-F\t3.0\tK3 [pN, 20° C.]: =\t17.1\n11\tPP-1-2V1\t10.0\t\n12\tPPGU-3-F\t0.5\t\n13\tPGS-2-2\t3.5\t\n14\tPUS-3-2\t8.0\n\nMixture Example S15 (Stabilised with Compound of Formula H-3-9)\n[0540]\nA nematic LC mixture according to the invention is formulated as follows:"
+      },
+      {
+        "name": "M16",
+        "content": "[0542]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\n\t\tConcentration,\t\nNr.\tCompound\twt.-%\tProperties\n\n 1\tCC-3-2V1\t4.0\tT(N, I) =\t85° C.\n 2\tCC-3-V\t34.5\tne [589 nm, 20° C.]: =\t1.6295\n 3\tCC-3-V1\t8.0\tno [589 nm, 20° C.]: =\t1.4940\n 4\tCPP-3-2V1\t3.5\tΔn [589 nm, 20° C.]: =\t0.1355\n 5\tCLP-3-T\t7.0\tε∥ [1 kHz, 20° C.]: =\t6.3\n 6\tCLP-V-1\t7.0\tε⊥ [1 kHz, 20° C.]: =\t2.6\n 7\tPGP-1-2V\t4.0\tΔε [1 kHz, 20° C.]: =\t3.7\n 8\tPGUQU-3-F\t4.0\tγ1 [mPa s, 20° C.]: =\t65\n 9\tPGUQU-4-F\t3.0\tK1 [pN, 20° C.]: =\t20.1\n10\tPGUQU-5-F\t3.0\tK3 [pN, 20° C.]: =\t85\n11\tPP-1-2V1\t10.0\t\n12\tPPGU-3-F\t0.5\t\n13\tPGS-2-3\t3.5\t\n14\tPUS-3-2\t8.0\n\nMixture Example S16 (Stabilised with Compound of Formula H-3-11)\n[0543]\nA nematic LC mixture according to the invention is formulated as follows:"
+      },
+      {
+        "name": "M17",
+        "content": "[0545]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\n\t\tConcentration,\t\nNr.\tCompound\twt.-%\tProperties\n\n 1\tCC-3-2V1\t4.0\tT(N, I) =\t86° C.\n 2\tCC-3-V\t34.5\tne [589 nm, 20° C.]: =\t1.6304\n 3\tCC-3-V1\t8.0\tno [589 nm, 20° C.]: =\t1.4942\n 4\tCPP-3-2V1\t3.5\tΔn [589 nm, 20° C.]: =\t0.1362\n 5\tCLP-3-T\t7.0\tε∥ [1 kHz, 20° C.]: =\t6.3\n 6\tCLP-V-1\t7.0\tε⊥ [1 kHz, 20° C.]: =\t2.6\n 7\tPGP-1-2V\t4.0\tΔε [1 kHz, 20° C.]: =\t3.7\n 8\tPGUQU-3-F\t4.0\tγ1 [mPa s, 20° C.]: =\t66\n 9\tPGUQU-4-F\t3.0\tK1 [pN, 20° C.]: =\t20.3\n10\tPGUQU-5-F\t3.0\tK3 [pN, 20° C.]: =\t17.4\n11\tPP-1-2V1\t10.0\t\n12\tPPGU-3-F\t0.5\t\n13\tPGS-3-1\t3.5\t\n14\tPUS-3-2\t8.0\n\nMixture Example S17 (Stabilised with Compound of Formula H-3-10)\n[0546]\nA nematic LC mixture according to the invention is formulated as follows:"
+      },
+      {
+        "name": "M18",
+        "content": "[0548]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\n\t\tConcentration,\t\nNr.\tCompound\twt.-%\tProperties\n\n 1\tCC-3-2V1\t4.0\tT(N, I) =\t85.5° C.\n 2\tCC-3-V\t34.5\tne [589 nm, 20° C.]: =\t1.6301\n 3\tCC-3-V1\t8.0\tno [589 nm, 20° C.]: =\t1.4940\n 4\tCPP-3-2V1\t3.5\tΔn [589 nm, 20° C.]: =\t0.1361\n 5\tCLP-3-T\t7.0\tε∥ [1 kHz, 20° C.]: =\t6.3\n 6\tCLP-V-1\t7.0\tε⊥ [1 kHz, 20° C.]: =\t2.6\n 7\tPGP-1-2V\t4.0\tΔε [1 kHz, 20° C.]: =\t3.7\n 8\tPGUQU-3-F\t4.0\tγ1 [mPa s, 20° C.]: =\t64\n 9\tPGUQU-4-F\t3.0\tK1 [pN, 20° C.]: =\t20.2\n10\tPGUQU-5-F\t3.0\tK3 [pN, 20° C.]: =\t16.9\n11\tPP-1-2V1\t10.0\t\n12\tPPGU-3-F\t0.5\t\n13\tPUS-3-2\t8.0\t\n14\tPGS-3-2\t3.5\n\nMixture Example S18 (Stabilised with Compound of Formula H-3-12)\n[0549]\nA nematic LC mixture according to the invention is formulated as follows:"
+      },
+      {
+        "name": "M19",
+        "content": "[0551]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\t\n\t\tConcentration,\t\t\nNr.\tCompound\twt.-%\tProperties\n\n1\tCC-3-V\t16.00\tT(N, I)\t=\t103.7°\tC.\n2\tCPGP-5-2\t2.50\tne [589 nm, 20° C.]:\t=\t1.6968\n3\tPCH-302\t10.00\tno [589 nm, 20° C.]:\t=\t1.4783\n4\tPGP-1-2V\t12.00\tΔn [589 nm, 20° C.]:\t=\t0.2185\n5\tPGP-2-2V\t15.00\tε|| [1 kHz, 20° C.]:\t=\t7.9\n6\tPGP-2-3\t5.00\tε⊥ [1 kHz, 20° C.]:\t=\t3.3\n7\tPGP-2-4\t3.50\tΔε [1 kHz, 20° C.]:\t=\t4.6\n8\tPGS-2-1\t8.00\tγ1 [mPa s, 20° C.]:\t=\t136\n9\tPGU-3-F\t2.50\tK1 [pN, 20° C.]:\t=\t20.9\n10\tPGUQU-3-F\t6.00\tK3 [pN, 20° C.]:\t=\t15.9\n11\tPGUQU-4-F\t5.00\tV0 (20° C.):\t=\t2.23\tV\n12\tPPGU-3-F\t1.00\t\t\t\n13\tPUS-3-2\t13.50\n\n\nMixture Example S19 (Stabilised with Compound of Formula ST-2-3)\n[0552]\nA nematic LC mixture according to the invention is formulated as follows:"
+      },
+      {
+        "name": "M20",
+        "content": "[0554]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\t\t\n\t\tConcentration,\t\t\t\nNr.\tCompound\twt.-%\tProperties\n\n1\tCC-3-2V1\t14.00\tT(N, I)\t=\t88.1° C.\n2\tCC-3-V\t32.00\tne [589 nm, 20° C.]:\t=\t1.5839\n3\tCC-3-V1\t10.00\tno [589 nm, 20° C.]:\t=\t1.4857\n4\tCCP-3-1\t10.50\tΔn [589 nm, 20° C.]:\t=\t0.0982\n5\tCLP-3-T\t8.00\tε|| [1 kHz, 20° C.]:\t=\t5.3\n6\tCLP-V-1\t4.00\tε⊥ [1 kHz, 20° C.]:\t=\t2.5\n7\tDLGU-3-F\t8.00\tΔε [1 kHz, 20° C.]:\t=\t2.8\n8\tPCH-302\t1.50\tγ1 [mPa s, 20° C.]:\t=\t80\n9\tPGS-2-1\t1.00\tK1 [pN, 20° C.]:\t=\t20.4\n10\tPP-1-2V1\t10.00\tK3 [pN, 20° C.]:\t=\t20.2\n11\tPUS-3-2\t1.00\t\t\t\n\nMixture Example S20 (Stabilised with Compound of Formula ST-2-3)\n[0555]\nA nematic LC mixture according to the invention is formulated as follows:"
+      },
+      {
+        "name": "M40",
+        "content": "[0614]\nA nematic LC mixture is formulated as follows:\n\nComposition\t\n\t\tConcentration,\t\nNr.\tCompound\twt. - %\tProperties\n\n1\tCC-3-2V1\t4\tT(N, I) = 85.5° C.\n2\tCC-3-V\t34.5\tne [589 nm, 20° C.]: = 1.6291\n3\tCC-3-V1\t8\tno [589 nm, 20° C.]: = 1.4939\n4\tCPP-3-2V1\t3.5\tΔn [589 nm, 20° C.]: = 0.1352\n5\tCLP-3-T\t7\tε|| [1 kHz, 20° C.]: = 6.5\n6\tCLP-V-1\t7\tε⊥ [1 kHz, 20° C.]: = 2.6\n7\tPGP-1-2V\t4\tΔε [1 kHz, 20° C.]: = 3.8\n8\tPGUQU-3-F\t4\tγ1 [mPa s, 20° C.]: = 67\n9\tPGUQU-4-F\t3\tK1 [pN, 20° C.]: = 19.9\n10\tPGUQU-5-F\t3\tK3 [pN, 20° C.]: = 17.3\n11\tPP-1-2V1\t10\t\n12\tPPGU-3-F\t0.5\t\n13\tPGS-3-F\t3.5\t\n14\tPUS-3-2\t8\n\nMixture Example S40 (Stabilised with Compounds of Formulae H-3-1 and ST-1-3)\n[0615]\nA nematic LC mixture according to the invention is formulated as follows:"
+      }
+    ],
+    "phys_params": {
+      "delta_n": "7",
+      "delta_epsilon": "7",
+      "epsilon_parallel": "7",
+      "epsilon_perpendicular": "7",
+      "gamma1": "7",
+      "K1": "7",
+      "K3": "7"
+    },
+    "molecular_structures": [
+      "CC-3-V",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14",
+      "RM-15",
+      "RM-16",
+      "RM-17",
+      "RM-18",
+      "RM-19",
+      "RM-20",
+      "RM-21",
+      "RM-22",
+      "RM-23",
+      "RM-24",
+      "RM-25",
+      "RM-26",
+      "RM-27",
+      "RM-28",
+      "RM-29",
+      "RM-30",
+      "RM-31",
+      "RM-32",
+      "RM-33",
+      "RM-34",
+      "RM-35",
+      "RM-36",
+      "RM-37",
+      "RM-38"
+    ],
+    "text_length": 176532
+  },
+  {
+    "patent_id": "US20250284151A1",
+    "url": "https://patents.google.com/patent/US20250284151A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2025-03-11",
+      "publication_date": "2025-09-11"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "abstract": "A liquid-crystal (LC) medium or liquid-crystal (LC) materials based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode and/or the fringe-field switching mode, an LC display of the vertically aligned mode and/or the fringe-field switching mode comprising the LC medium, especially an energy-efficient LC display, and a process of manufacturing the LC display.\nClassifications\n C09K19/3491 Non-steroidal liquid crystal compounds containing at least one heterocyclic ring having sulfur as hetero atom\nView 31 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nUS20250284151A1",
+    "claim1": "A liquid crystal medium comprising one or more compounds of formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, n denotes 0, 1, or 2, and each independently denote a group selected from the following formulae: wherein at least one of Z11 and Z12 each independently denote a single bond, —CH2CH2—, —CH2—, —OCH2—, —CH2O—, —O—, —CO—O—, —O—CO—, —CF2O—, —OCF2—, —CH═CH—, —CF═CF—, or —C≡C—, and in a case where n is 2, the two may be the same as or different from each other, and in a case where n is 2, the two Z11 may be the same as or different from each other.",
+    "claim1_length": 1048,
+    "negative_dielectric_count": 244,
+    "positive_dielectric_count": 8,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "Another important display trend is to achieve high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially in IPS/FFS technology",
+      "ngly impacted by the scattering parameter and has therefore a big impact on the contrast ratio. To improve the contrast ratio and to reduce the scattering parameter LC mixtures with high elastic constants are neces",
+      "gh elastic constants. Therefore, new materials need to be found to increase the contrast ratio of future displays even further.",
+      "The contrast ratio is defined as the ratio of the luminance of the brightest shade (white) to that of the darkest shade (black) that the s",
+      ", the transmittance (white level) to the scattering parameter (dark level). The contrast ratio can be significantly improved by the lower scattering parameter (high Kavg and low Δn). Therefore, a LC mixture having",
+      "high Kavg and low Δn is very effective to achieve a high contrast ratio display. A further object of the present invention is to provide LC mixtures with a very high clearing point, a favoura",
+      "hich in combination with the high average elastic constant contribute to a high contrast ratio,",
+      "Another important display trend is to achieve high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially",
+      "en at low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast and a broad viewing angle, and reduced image sticking.",
+      "refore, a LC mixture having high Kavg and low Δn is very effective to achieve a high contrast ratio display. A further object of the present invention is to provide LC mixtures with a very high clearing point, a f",
+      "ce, which in combination with the high average elastic constant contribute to a high contrast ratio,",
+      "products. Alternatively, displays with higher brightness can be achieved having improved contrast especially under ambient light. Also, the popularity of 8K and gaming monitors leads to an increased need for LC displa",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other f",
+      "The liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa."
+    ],
+    "contrast_keyword_count": 31,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t119.8\n\tB(S)-2O-O5\t1.5\tΔn [589 nm, 20° C.]:\t0.0904\n\tCCD-3-3\t7.0\tε∥ [1 kHz, 20° C.]:\t3.2\n\tCC-3-V\t6.0\tε⊥ [1 kHz, 20° C.]:\t6.0\n\tCC-3-V1\t12.0\tΔε [1 kHz, 20° C.]:\t−2.8\n\tCC-4-V1\t10.0\tγ1 [mPa · s, 20° C.]:\t196\n\tCC-3-O3\t2.0\tK1 [pN, 20° C.]:\t27.9\n\tCC-3-5\t12.0\tK3 [pN, 20° C.]:\t27.0\n\tCCP-3-1\t10.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t12.1\n\tCLY-3-O2\t10.0\n\tCLY-5-O2\t2.4\n\tΣ\t100.0\n\t\n[0550]\nTo the mixture M1 are added 400 ppm of the stabiliser ST-3b-1."
+      },
+      {
+        "name": "M2",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t104.6\n\tB(S)-2O-O5\t5.0\tΔn [589 nm, 20° C.]:\t0.0916\n\tB(S)-2O-O6\t1.0\tε∥ [1 kHz, 20° C.]:\t3.2\n\tCCD-3-3\t5.0\tε⊥ [1 kHz, 20° C.]:\t6.1\n\tCC-3-V\t7.0\tΔε [1 kHz, 20° C.]:\t−2.9\n\tCC-3-V1\t12.0\tγ1 [mPa · s, 20° C.]:\t165\n\tCC-3-2V1\t14.0\n\tCC-3-5\t12.0\n\tCCP-3-1\t15.0\n\tCLOY-3-O2\t25.0\n\tΣ\t100.0\n\t\n[0551]\nTo the mixture M2 are added 400 ppm of the stabiliser ST-3b-1."
+      },
+      {
+        "name": "M3",
+        "content": "B(S)-2O-O5\t5.0\tcl. p. [° C.]:\t103.5\n\tCC-3-V\t12.0\tne [589 nm, 20° C.]:\t1.5650\n\tCC-3-V1\t14.0\tno [589 nm, 20° C.]:\t1.4800\n\tCC-4-V1\t12.0\tΔn [589 nm, 20° C.]:\t0.0850\n\tCCD-5-2\t3.0\tε∥ [1 kHz, 20° C.]:\t3.0\n\tCC-3-O3\t8.0\tε⊥ [1 kHz, 20° C.]:\t5.3\n\tCC-3-5\t5.0\tΔε [1 kHz, 20° C.]:\t−2.3\n\tCCP-3-1\t9.0\tγ1 [mPa · s, 20° C.]:\t139\n\tCCP-3-3\t0.75\tK1 [pN, 20° C.]:\t22.8\n\tCCY-3-O2\t9.0\tK3 [pN, 20° C.]:\t23.3\n\tCLOY-3-O2\t12.25\n\tCLY-3-O2\t9.0\n\tCP-3-O2\t1.0\n\tΣ\t100.0\n\t\n[0552]\nTo the mixture M3 are added 150 ppm of the stabiliser ST-3a-1."
+      },
+      {
+        "name": "M4",
+        "content": "B(S)-2O-O5\t5.0\tcl. p. [° C.]:\t104\n\tCC-3-V\t12.75\tne [589 nm, 20° C.]:\t1.5629\n\tCC-3-V1\t14.0\tno [589 nm, 20° C.]:\t1.4792\n\tCC-4-V1\t12.0\tΔn [589 nm, 20° C.]:\t0.0837\n\tCCD-3-3\t5.0\tε∥ [1 kHz, 20° C.]:\t3.1\n\tCC-3-O3\t8.0\tε⊥ [1 kHz, 20° C.]:\t5.4\n\tCC-3-5\t5.0\tΔε [1 kHz, 20° C.]:\t−2.3\n\tCCP-3-1\t7.25\tγ1 [mPa · s, 20° C.]:\t138\n\tCCY-3-O2\t9.0\tK1 [pN, 20° C.]:\t23.1\n\tCLOY-3-O2\t12.0\tK3 [pN, 20° C.]:\t23.6\n\tCLY-3-O2\t9.0\n\tCP-3-O2\t1.0\n\tΣ\t100.0\n\t\n[0553]\nTo the mixture M4 are added 50 ppm of the stabiliser S-2-1-1."
+      },
+      {
+        "name": "M5",
+        "content": "B(S)-2O-O5\t5.0\tcl.p. [° C.]:       \t102\nCC-3-V\t13.75\tne [589 nm, 20° C.]:\t1.5619\nCC-3-V1\t14.0\tno [589 nm, 20° C.]:\t1.4788\nCC-4-V1\t12.0\tΔn [589 nm, 20° C.]: \t0.0831\nCCD-5-2\t5.0\tε∥ [1 kHz, 20° C.]: \t3.2\nCC-3-O3\t8.0\tε⊥ [1 kHz, 20° C.]:  \t5.6\nCC-3-5\t5.0\tΔε [1 kHz, 20° C.]:  \t−2.4\nCCP-3-1\t5.5\tγ1 [mPa · s, 20° C.]:\t138\nCCY-3-O2\t10.0\tK1 [pN, 20° C.]:   \t23.0\nCLOY-3-O2\t11.75\tK3 [pN, 20° C.]:   \t23.3\nCLY-3-O2\t9.0\nCP-3-O2\t1.0\nΣ\t100.0\n\n[0554]\nTo the mixture M5 are added 100 ppm of the stabiliser ST-8-1."
+      },
+      {
+        "name": "M6",
+        "content": "B(S)-2O-O5\t5.0\tcl.p. [° C.]:       \t104.5\nCC-3-V\t14.5\tne [589 nm, 20° C.]:\t1.5677\nCC-3-V1\t14.0\tno [589 nm, 20° C.]:\t1.4803\nCC-4-V1\t12.0\tΔn [589 nm, 20° C.]: \t0.0874\nCCD-5-2\t5.0\tε∥ [1 kHz, 20° C.]: \t3.1\nCC-3-O3\t8.0\tε⊥ [1 kHz, 20° C.]:  \t5.6\nCC-3-5\t5.0\tΔε [1 kHz, 20° C.]:  \t−2.5\nCCP-3-1\t4.5\tγ1 [mPa · s, 20° C.]:\t132\nCCY-3-O2\t10.0\tK1 [pN, 20° C.]:   \t23.1\nCLOY-3-O2\t6.0\tK3 [pN, 20° C.]:   \t21.4\nCLY-3-O2\t9.0\nCOB(S)-2-O4\t6.0\nCP-3-O2\t1.0\nΣ\t100.0\n\n[0555]\nTo the mixture M6 are added 50 ppm of the stabiliser ST-9-1."
+      },
+      {
+        "name": "M7",
+        "content": "B(S)-2O-O5\t5.0\tcl.p. [° C.]:       \t105.5\nCC-3-V\t14.75\tne [589 nm, 20° C.]:\t1.5667\nCC-3-V1\t14.25\tno [589 nm, 20° C.]:\t1.4798\nCC-4-V1\t12.0\tΔn [589 nm, 20° C.]: \t0.0869\nCCD-3-3\t7.0\tε∥ [1 kHz, 20° C.]: \t3.2\nCC-3-O3\t8.0\tε⊥ [1 kHz, 20° C.]:  \t5.8\nCC-3-5\t5.0\tΔε [1 kHz, 20° C.]:  \t−2.6\nCCP-3-1\t2.25\tγ1 [mPa · s, 20° C.]:\t133\nCCY-3-O2\t9.0\tK1 [pN, 20° C.]:   \t24.0\nCLOY-3-O2\t6.75\tK3 [pN, 20° C.]:   \t21.9\nCLY-3-O2\t9.0\nCOB(S)-2-O4\t6.0\nCP-3-O2\t1.0\nΣ\t100.0\n\n[0556]\nTo the mixture M7 are added 50 ppm of the stabiliser ST-12."
+      },
+      {
+        "name": "M8",
+        "content": "B(S)-2O-O5\t5.0\tcl.p. [° C.]:       \t105\nCC-3-V\t12.0\tne [589 nm, 20° C.]:\t1.5661\nCC-3-V1\t14.0\tno [589 nm, 20° C.]:\t1.4802\nCC-4-V1\t12.0\tΔn [589 nm, 20° C.]: \t0.0859\nCCD-3-2\t5.0\tε∥ [1 kHz, 20° C.]: \t3.1\nCC-3-O3\t8.0\tε⊥ [1 kHz, 20° C.]:  \t5.5\nCC-3-5\t5.0\tΔε [1 kHz, 20° C.]:  \t−2.4\nCCP-3-1\t7.5\tγ1 [mPa · s, 20° C.]:\t140\nCCY-3-O2\t9.0\tK1 [pN, 20° C.]:   \t23.7\nCLOY-3-O2\t10.25\tK3 [pN, 20° C.]:   \t22.8\nCLY-3-O2\t9.0\nCOB(S)-2-O4\t2.25\nCP-3-O2\t1.0\nΣ\t100.0\n\n[0557]\nTo the mixture M8 are added 150 ppm of the stabiliser ST-3c."
+      },
+      {
+        "name": "M9",
+        "content": "B(S)-2O-O4\t2.0\tcl.p. [° C.]:       \t116\nCC-3-V\t3.25\tne [589 nm, 20° C.]:\t1.5727\nCC-3-V1\t12.0\tno [589 nm, 20° C.]:\t1.4828\nCC-4-V1\t10.0\tΔn [589 nm, 20° C.]: \t0.0899\nCCD-5-2\t3.0\tε∥ [1 kHz, 20° C.]: \t3.1\nCC-3-5\t12.0\tε⊥ [1 kHz, 20° C.]:  \t6.4\nCCP-3-1\t13.0\tΔε [1 kHz, 20° C.]:  \t−3.3\nCCY-3-O2\t10.0\tγ1 [mPa · s, 20° C.]:\t236\nCLOY-3-O2\t23.75\tK1 [pN, 20° C.]:   \t25.9\nCLY-3-O2\t10.0\tK3 [pN, 20° C.]:   \t28.7\nCP-3-O2\t1.0\nΣ\t100.0\n\n[0558]\nTo the mixture M9 are added 100 ppm of the stabiliser ST-3d."
+      },
+      {
+        "name": "M10",
+        "content": "B(S)-2O-O4\t4.0\tcl.p. [° C.]:       \t100.5\nB(S)-2O-O5\t2.0\tne [589 nm, 20° C.]:\t1.5645\nCC-3-V\t17.75\tno [589 nm, 20° C.]:\t1.4800\nCC-3-V1\t12.0\tΔn [589 nm, 20° C.]: \t0.0845\nCC-4-V1\t10.0\tε∥ [1 kHz, 20° C.]: \t3.1\nCCD-5-2\t3.0\tε⊥ [1 kHz, 20° C.]:  \t5.5\nCC-3-O3\t8.0\tΔε [1 kHz, 20° C.]:  \t−2.4\nCC-3-5\t5.0\tγ1 [mPa · s, 20° C.]:\t127\nCCP-3-1\t8.0\tK1 [pN, 20° C.]:   \t21.8\nCCY-3-O2\t10.0\tK3 [pN, 20° C.]:   \t22.3\nCLOY-3-O2\t10.25\nCLY-3-O2\t9.0\nCP-3-O2\t1.0\nΣ\t100.0\n\n[0559]\nTo the mixture M10 are added 100 ppm of the stabiliser ST-2a-2."
+      }
+    ],
+    "phys_params": {
+      "delta_n": "2",
+      "delta_epsilon": "2",
+      "epsilon_parallel": "2",
+      "epsilon_perpendicular": "2",
+      "gamma1": "2",
+      "K1": "2",
+      "K3": "2",
+      "V0": "6"
+    },
+    "molecular_structures": [
+      "CC-3-V",
+      "CC-4-V",
+      "CC-3-V1",
+      "CC-4-V1",
+      "ST-18",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "CCY-4-O2",
+      "CCY-3-O2",
+      "CCY-3-O3",
+      "CCY-3-O1",
+      "CCY-5-O2",
+      "CLY-2-O4",
+      "CLY-3-O2",
+      "CLY-3-O3",
+      "CP-3-O2",
+      "CCP-3-1",
+      "CPP-3-2",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14",
+      "RM-15",
+      "RM-16",
+      "RM-17",
+      "RM-18",
+      "RM-19",
+      "RM-20"
+    ],
+    "text_length": 263709
+  },
+  {
+    "patent_id": "US20250101305A1",
+    "url": "https://patents.google.com/patent/US20250101305A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2024-09-18",
+      "publication_date": "2025-03-27"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3003"
+    ],
+    "abstract": "The present invention relates to a liquid-crystal (LC) medium or LC material based on a mixture of polar compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the fringe-field switching mode, to an LC display of the fringe-field switching mode comprising the LC medium, especially an energy-saving LC display and to a process of manufacturing the LC display.\nClassifications\n C09K19/3003 Compounds containing at least two rings in which the different rings are directly linked (covalent bond)\nView 28 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nUS20250101305A1",
+    "claim1": "A liquid crystal medium comprising one or more compounds of formula and one or more compounds of formula III and/or one or more compounds of formula BC and/or one or more compounds of formula PH-1 in which R11, R31, R32, R81, and R82 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 15 C atoms, where one or more —CH2— groups in these radicals may each be replaced, independently of one another, by —C═C—, —CF2O—, —OCF2—, —CH═CH—, by —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, R12 denotes an alkenyl radical having 2 to 12 C atoms, A3 on each occurrence, independently of one another, denotes a 1,4-phenylene radical, in which one or two CH groups may be replaced by N, or a 1,4-cyclohexylene or 1,4-cyclohexenylene radical, in which one or two non-adjacent CH2 groups may be replaced by —O— or —S—, where the radicals may be mono- or polysubstituted by halogen atoms, n denotes 0, 1 or 2, Z3 on each occurrence independently of one another denotes —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CH2—, —CH2CH2—, —CH═CH—, —C═C— or a single bond, L31 and L32, each, independently of one another, denote F, Cl, CF3 or CHF2, and Y1, Y2, Y3, Y4, each, independently of one another, denote H, F, Cl, CF3, CHF2, CH3 or OCH3.",
+    "claim1_length": 1346,
+    "negative_dielectric_count": 84,
+    "positive_dielectric_count": 10,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "The contrast ratio is defined as the ratio of the luminance of the brightest shade (white) to that of the darkest shade (black) that the s",
+      "., the transmittane (white level) to the scattering parameter (dark level). The contrast ratio can be significantly improved by the lower scattering parameter (high Kavg and low Δn). Therefore, a LC mixture having",
+      "high Kavg and low Δn is very effective to achieve a high contrast ratio display. A further object of the present invention is to provide LC mixtures with a favourably high average elastic con",
+      "hich in combination with the high average elastic constant contribute to a high contrast ratio,",
+      "en at low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast and a broad viewing angle, and reduced image sticking.",
+      "refore, a LC mixture having high Kavg and low Δn is very effective to achieve a high contrast ratio display. A further object of the present invention is to provide LC mixtures with a favourably high average elast",
+      "ce, which in combination with the high average elastic constant contribute to a high contrast ratio,",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. The higher th",
+      "n, the liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. The higher the VHR",
+      "isplays. In particular, the LC medium has to show a high reliability and a high VHR value after UV exposure. Further requirements are a high specific resistance, a large working-temperature range, short",
+      "This “image sticking” can occur on the one hand if LC media having a low VHR are used. The UV component of daylight or the backlight can cause undesired decomposition reactions of the LC molecules",
+      "provide FFS—, VA-, and IPS-displays with good transmission, high reliability, a VHR value especially after backlight exposure, a high specific resistance, a large working-temperature range, short respons",
+      "rtically aligned”) displays are known which have a broad viewing angle and fast response times. The LC cell of a VA display contains a layer of an LC medium between two transparent electrodes, where the LC medium"
+    ],
+    "contrast_keyword_count": 18,
+    "mixture_examples": [],
+    "phys_params": {
+      "delta_n": "0",
+      "delta_epsilon": "2",
+      "epsilon_parallel": "0",
+      "epsilon_perpendicular": "0",
+      "gamma1": "0",
+      "K1": "0",
+      "K3": "0",
+      "V0": "0"
+    },
+    "molecular_structures": [
+      "CCC-3-V",
+      "CC-3-V",
+      "CC-4-V",
+      "CC-3-V1",
+      "CC-4-V1",
+      "CY-3-O2",
+      "CPY-3-O2",
+      "CCY-3-O2",
+      "CCY-5-O2",
+      "CLY-3-O2",
+      "CLY-3-O3",
+      "CLY-4-O2",
+      "CLY-5-O2",
+      "CC-3-4",
+      "CC-3-5",
+      "CP-3-O2",
+      "CY-3-O4",
+      "CY-5-04",
+      "CY-3-02",
+      "PY-1-O2",
+      "PY-2-02",
+      "PY-3-O2",
+      "CPY-2-O2",
+      "CPY-5-O2",
+      "CCY-4-O2",
+      "CCY-3-O3",
+      "CCY-3-O1",
+      "CCH-13",
+      "CCH-23",
+      "CCH-34"
+    ],
+    "text_length": 132394
+  },
+  {
+    "patent_id": "US20250197723A1",
+    "url": "https://patents.google.com/patent/US20250197723A1/en",
+    "success": true,
+    "title": "Liquid-crystalline medium",
+    "dates": {
+      "filing_date": "2024-12-16",
+      "publication_date": "2025-06-19"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "abstract": "Liquid-crystalline (LC) media or LC materials and to energy saving liquid-crystal displays (LCDs) containing these media, especially gaming displays and AR/VR headsets addressed by an active matrix and in particular LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.\nClassifications\n C09K19/3098 Unsaturated non-aromatic rings, e.g. cyclohexene rings\nView 26 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nUS20250197723A1",
+    "claim1": "A liquid-crystalline medium, comprising one or more compounds of Formula I in which the individual substituents, on each occurrence identically or differently, and each, independently of one another, have the following meaning: R0 an alkyl group having 1 to 12 C atoms or an alkenyl group having 2 to 12 C atoms in which one or more CH2 groups are optionally substituted by —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be substituted by a halogen atom; X0 a halogen atom, —CN, —SCN, —NCS or an alkyl or an alkoxy group having 1 to 6 C atoms or an alkenyl or an alkenyloxy group having 2 to 6 C atoms in which one or more H atoms has been substituted by a halogen atom; L1 and L2 each, independently of one another, H, F or C, wherein L1 and L2 do not simultaneously denote H; Y0 H or CH3; one or more antioxidant and, optionally, one or more light stabilizer.",
+    "claim1_length": 972,
+    "negative_dielectric_count": 104,
+    "positive_dielectric_count": 6,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "rgy saving liquid-crystal displays (LCDs) containing these media, especially to high contrast, fast switching gaming displays and AR/VR headsets having reduced short term image sticking and reduced long term image",
+      "t motion picture quality and an improved overall image quality, in particular a high contrast.",
+      "eriorate physical properties of the LC medium, in particular, in terms of their voltage holding ratio and mesogenic behaviour.",
+      "ly deteriorate physical properties of the LC medium, in particular, in terms of voltage holding ratio and mesogenic behaviour.",
+      "Measurements of the voltage holding ratio (VHR) [S. Matsumoto et al., Liquid Crystals 5, 1320 (1989); K. Niwa et al., Proc. SID Conference, San Francisco, June 1",
+      "articularly efficient UV stabilisers in LC mixtures, in particular, in terms of VHR stability:",
+      "e compounds are highly suitable as stabilisers in LC mixtures and stabilise the VHR of the mixtures upon UV exposure.",
+      "a low pretilt angle which is stable after UV exposure, a high reliability, high VHR value after UV exposure, and a high birefringence. By appropriate selection of the polymerisable compounds it is possib",
+      "g to the invention at the same time as constantly high clearing points and high VHR values.",
+      "Measurements of the voltage holding ratio (VHR) [S. Matsumoto et al., Liquid Crystals 5, 1320 (1989); K. Niwa et al., Proc. SID Conference, San Francisco, June 1984,",
+      "edia according to the invention exhibit a significantly smaller decrease in the VHR on UV exposure than analogous LC media comprising cyanophenylcyclohexanes of the Formula",
+      "-term image sticking and low long-term image-sticking in combination with short response times is a central challenge for modern FFS and IPS applications.",
+      "low short-term image sticking and low long-term image-sticking as well as short response times.",
+      "low short-term image sticking and low long-term image-sticking and enable short response times, especially when being used in FFS mode displays. The compounds of formulae I as such have been known in the prior art",
+      "tinguished, in particular, by high Δε values and thus have significantly faster response times than the LC media from the prior art."
+    ],
+    "contrast_keyword_count": 20,
+    "mixture_examples": [],
+    "phys_params": {},
+    "molecular_structures": [
+      "CC-3-V",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14",
+      "RM-15",
+      "RM-16",
+      "RM-17",
+      "RM-18",
+      "RM-19",
+      "RM-20",
+      "RM-21",
+      "RM-22",
+      "RM-23",
+      "RM-24",
+      "RM-25",
+      "RM-26",
+      "RM-27",
+      "RM-28",
+      "RM-29",
+      "RM-30",
+      "RM-31",
+      "RM-32",
+      "RM-33",
+      "RM-34",
+      "RM-35",
+      "RM-36",
+      "RM-37",
+      "RM-38"
+    ],
+    "text_length": 229824
+  },
+  {
+    "patent_id": "US20250189829A1",
+    "url": "https://patents.google.com/patent/US20250189829A1/en",
+    "success": true,
+    "title": "Reflective liquid crystal panel",
+    "dates": {
+      "filing_date": "2024-12-05",
+      "publication_date": "2025-06-12"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "abstract": "LCoS panels using liquid crystal (LC) media having negative dielectric anisotropy and LC media comprised therein. The liquid crystal material (LC medium) has negative dielectric anisotropy and high optical anisotropy and is particularly useful in electro-optical displays including projection systems based on vertical alignment (VA) nematic panels.\nImages (2)\n \nClassifications\n G02F1/0045 Liquid crystals characterised by their physical properties\nView 27 more classifications\nLandscapes\nChemical & Material Sciences\nPhysics & Mathematics\nShow more\nUS20250189829A1",
+    "claim1": "A Liquid Crystal on Silicon (LCoS) panel comprising a semiconductor substrate having a plurality of reflective electrodes, a transparent substrate comprising a transparent electrode assembled with the semiconductor substrate, and a liquid crystal layer arranged between the semiconductor substrate and the transparent substrate, wherein the liquid crystal layer comprises a liquid crystal medium comprising a) one or more compounds of formula I in which R11 and R12 denotes alkyl having 1 to 7 C atoms, alkoxy having 1 to 7 C atoms, or alkoxyalkyl, alkenyl or alkenyloxy having 2 to 7 C atoms, where, in addition, one or more CH2 groups in these radicals may each be replaced, independently of one another by, is Z1 denotes a single bond, —CH2CH2— or —(CO)O—, n independently denotes 0 or 1, L11, L12, L13, L14 independently denote H or methyl, b) one or more compounds of formula III in which R31 and R32 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 7 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, A3 on each occurrence, independently of one another, denotes a 1,4-phenylene radical, in which one or two CH groups may be replaced by N, or a 1,4-cyclohexylene or 1,4-cyclohexenylene radical, in which one or two non-adjacent CH2 groups may be replaced by —O— or —S—, where the radicals may be mono- or polysubstituted by halogen atoms, n denotes 0, 1 or 2, Z3 on each occurrence independently of one another denotes —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CH2—, —CH2CH2-, —CH═CH—, —C≡C— or a single bond, L31 and L32 each, independently of one another, denote F, Cl, CF3 or CHF2, and W denotes O or S, and c) one or more compounds of formula IV in which R41 denotes an unsubstituted alkyl radical having 1 to 7 C atoms or an unsubstituted alkenyl radical having 2 to 7 C atoms, and R42 denotes an unsubstituted alkyl radical having 1 to 7 C atoms or an unsubstituted alkoxy radical having 1 to 6 C atoms or an unsubstituted alkenyl radical having 2 to 7 C atoms.",
+    "claim1_length": 2242,
+    "negative_dielectric_count": 32,
+    "positive_dielectric_count": 0,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "ort response times, and a low threshold voltage, a multiplicity of grey shades, high contrast, have high reliability and high values for the VHR after UV exposure.",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other f",
+      "n, the liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "ty of grey shades, high contrast, have high reliability and high values for the VHR after UV exposure.",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other factors",
+      ", a high VHR is a prerequisite for a high reliability of the LC medium.",
+      "Unless indicated otherwise, the VHR is determined at 20° C. (VHR20) and after 5 minutes in an oven at 100° C. (VHR100) in a commercially available instrument Model LCM-1 (O0004) from T",
+      "aracteristics Measurement System Model 6254 from Toyo Corporation, Japan, using VHR test cells with AL16301 Polyimide (JSR Corp., Japan) having a 3.2 μm cell gap. The measurement is performed after 5 min",
+      "equire high temperature ranges (as in outdoor equipment and vehicles) and short response times.",
+      "pecific resistance at the same time as a large working-temperature range, short response times, and a low threshold voltage, a multiplicity of grey shades, high contrast, have high reliability and high values for",
+      "the liquid crystal medium according to the invention enables displays with fast response times, a low threshold voltage and a high birefringence, as well as high reliability when exposed to radiation and thermal s"
+    ],
+    "contrast_keyword_count": 12,
+    "mixture_examples": [
+      {
+        "name": "M6",
+        "content": "ST-12\t0.4%\tT(N, I) [° C.]:\t103\n\tB(S)-2O-O4\t5.976%\tΔn (589 nm, 20° C.):\t0.25\n\tB(S)-2O-O5\t4.98%\tne (20° C., 589.3 nm):\n\tB(S)-2O-O6\t3.984%\tno (20° C., 589.3 nm):\n\tB-2O-O5\t3.984%\tΔε (1 kHz, 20° C.):\t−4.5\n\tCC-3-V\t11.454%\tε|| (1 kHz, 20° C.):\n\tCC-3-O1\t7.968%\tε⊥ (1 kHz, 20° C.):\n\tCPTY-3-O2\t15.936%\tK1 [pN], (20° C.):\n\tPGIY-2-O4\t1.992%\tK3 [pN], (20° C.):\n\tPPTUI-3-2\t18.426%\tγ1 [mPa · s], (20° C.):\t313\n\tPPTUI-3-4\t7.968%\tV0 [V], (20° C.):\n\tPTY-3-O2\t14.94%\n\tPTY-5-O2\t1.992%\n\tΣ\t100.0%\n\t\n[0447]\nThis mixture is especially suitable for phase modulation combined with short switching times.\n[0448]\nThe above Example Mixtures are filled at 20° C. into test cells (d=2.5 μm) with inorganic alignment (SiOx) layers or to LCoS panels. Alignment is tested with crossed polarizers. The cells are further observed with c"
+      }
+    ],
+    "phys_params": {
+      "gamma1": "258",
+      "K1": ".",
+      "K3": ".",
+      "V0": "."
+    },
+    "molecular_structures": [
+      "ST-13",
+      "ST-12",
+      "CPP-3-2",
+      "CC-3-V",
+      "CLY-3-O2",
+      "CPY-3-O2",
+      "PGP-2",
+      "CPPC-3-3",
+      "CC-3-O1",
+      "CPTY-3-O2",
+      "CPTY-5-O2",
+      "CPTP-3-O1",
+      "PGIY-2-O4",
+      "PY-3-O2",
+      "CC-4-V1"
+    ],
+    "text_length": 109610
+  },
+  {
+    "patent_id": "US20250277152A1",
+    "url": "https://patents.google.com/patent/US20250277152A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2025-02-21",
+      "publication_date": "2025-09-04"
+    },
+    "assignee": "",
+    "cpc_codes": [],
+    "abstract": "A liquid-crystal (LC) medium (as a subcategory of liquid crystal material), based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode, an LC display of the vertically aligned mode comprising the LC medium, especially an energy-saving LC display, and a process of manufacturing the LC display.\nClassifications\n G02F1/1333 Constructional arrangements; Manufacturing methods\nView 24 more classifications\nLandscapes\nChemical & Material Sciences\nPhysics & Mathematics\nShow more\nUS20250277152A1",
+    "claim1": "An LC medium having negative dielectric anisotropy and comprising one or more compounds of formula L1: wherein the individual radicals, independently of each other and on each occurrence identically or differently, have the following meanings RL1 straight chain alkyl having 1 to 15 C atoms or branched or cyclic alkyl having 3 to 15 C atoms, wherein one or more non-adjacent CH2-groups are optionally replaced by —O—, —S—, —CO—, —CO—O—, —O—CO—, —O—CO—O—, CR0═CR00—, —C≡C—, in such a manner that O- and/or S-atoms are not directly connected with each other, and wherein one or more H atoms are each optionally replaced by F or Cl, XL CH3, F, Cl, CF3 or CHF2, YL H, F, Cl or CH3, and Y0 H, F, Cl, CF3, CHF2 or CH3.",
+    "claim1_length": 713,
+    "negative_dielectric_count": 99,
+    "positive_dielectric_count": 10,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "rt from fast switching times, there is a strong desire in the market for a high contrast ratio in order to achieve a superior black state. A possible approach for the generation of a high contrast ratio could be to",
+      "low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast ratio, superior black state, broad viewing angle, good transmission and reduced image sticking.",
+      "en at low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast and a broad viewing angle, and reduced image sticking.",
+      ", apart from fast switching times, there is a strong desire in the market for a high contrast ratio in order to achieve a superior black state. A possible approach for the generation of a high contrast ratio could",
+      "en at low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast ratio, superior black state, broad viewing angle, good transmission and reduced image sticking.",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. The higher th",
+      "n, the liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. The higher the VHR",
+      "isplays. In particular, the LC medium has to show a high reliability and a high VHR value after UV exposure. Further requirements are a high specific resistance, a large working-temperature range, short",
+      "This “image sticking” can occur on the one hand if LC media having a low VHR are used. The UV component of daylight or the backlight can cause undesired decomposition reactions of the LC molecules",
+      "s often show a decrease of the reliability and stability, and a decrease of the VHR especially after exposure to UV radiation but also to visible light from the backlight of a display, that usually does",
+      "e improved properties, including but not limited to a high reliability and high VHR especially after backlight exposure, a high specific resistance, a large working-temperature range, fast response times",
+      "displays comprising them, which show very high specific resistance values, high VHR values, high reliability, low threshold voltages, short response times, high birefringence, good UV absorption especial",
+      "the VHR and reliability can be improved, while maintaining other properties like suitable dielectric anisotropy and birefringen"
+    ],
+    "contrast_keyword_count": 26,
+    "mixture_examples": [],
+    "phys_params": {
+      "delta_n": "1",
+      "delta_epsilon": "1",
+      "epsilon_parallel": "1",
+      "epsilon_perpendicular": "1",
+      "gamma1": "1",
+      "K1": "1",
+      "K3": "1",
+      "V0": "6"
+    },
+    "molecular_structures": [
+      "CY-3-O4",
+      "CY-5-O4",
+      "CY-3-O2",
+      "PY-1-O2",
+      "PY-2-O2",
+      "PY-3-O2",
+      "CPY-2-O2",
+      "CPY-3-O2",
+      "CPY-5-O2",
+      "CCY-4-O2",
+      "CCY-3-O2",
+      "CCY-3-O3",
+      "CCY-3-O1",
+      "CCY-5-O2",
+      "CCH-13",
+      "CCH-23",
+      "CCH-34",
+      "CCH-35",
+      "CCH-301",
+      "CCH-303",
+      "CC-2-V1",
+      "CC-3-V1",
+      "CC-3-V2",
+      "CC-4-V1",
+      "CC-3-V",
+      "CC-4-V",
+      "CC-5-V",
+      "CCP-3-1",
+      "CPP-3-2",
+      "CLP-3-1"
+    ],
+    "text_length": 231787
+  },
+  {
+    "patent_id": "EP4400561A1",
+    "url": "https://patents.google.com/patent/EP4400561A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2024-01-09",
+      "publication_date": "2024-07-17"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/40",
+      "C09K19/06",
+      "C09K19/42"
+    ],
+    "abstract": "The present invention relates to a liquid-crystal (LC) mixtures or LC material based on a mixture of polar compounds, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the fringe-field switching mode, to an LC display of the fringe-field switching mode comprising the LC medium, and to a process of manufacturing the LC display.\nClassifications\n C09K19/42 Mixtures of liquid crystal compounds covered by two or more of the preceding groups C09K19/06 - C09K19/40\nView 19 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4400561A1",
+    "claim1": null,
+    "claim1_length": 0,
+    "negative_dielectric_count": 64,
+    "positive_dielectric_count": 13,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "object of LC medium for use in LC displays, which enable the displays with high contrast ratio, high transmittance and at the same time very high specific resistance values, high VHR values, high reliability, low t",
+      "hich in combination with the high average elastic constant contribute to a high contrast ratio,",
+      "en at low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast and a broad viewing angle, and reduced image sticking.",
+      "the object of LC medium for use in LC displays, which enable the displays with high contrast ratio, high transmittance and at the same time very high specific resistance values, high VHR values, high reliability,",
+      "ce, which in combination with the high average elastic constant contribute to a high contrast ratio,",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. The higher th",
+      "n, the liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. The higher the VHR",
+      "isplays. In particular, the LC medium has to show a high reliability and a high VHR value after UV exposure. Further requirements are a high specific resistance, a large working-temperature range, short",
+      "This \"image sticking\" can occur on the one hand if LC media having a low VHR are used. The UV component of daylight or the backlight can cause undesired decomposition reactions of the LC molecules",
+      "s often show a decrease of the reliability and stability, and a decrease of the VHR especially after exposure to UV radiation but also to visible light from the backlight of a display, that usually does",
+      "nvention is to provide FFS displays with good transmission, high reliability, a VHR value especially after backlight exposure, a high specific resistance, a large working-temperature range, short respons",
+      "h transmittance and at the same time very high specific resistance values, high VHR values, high reliability, low threshold voltages, short response times, low birefringence, show good UV absorption espe",
+      "high reliability and high VHR value after UV exposure and/or heat treatment,"
+    ],
+    "contrast_keyword_count": 22,
+    "mixture_examples": [],
+    "phys_params": {
+      "delta_n": "0",
+      "delta_epsilon": "2",
+      "epsilon_parallel": "0",
+      "epsilon_perpendicular": "0",
+      "gamma1": "0",
+      "K1": "0",
+      "K3": "0",
+      "V0": "0"
+    },
+    "molecular_structures": [
+      "CC-3-V",
+      "CC-4-V",
+      "CC-3-V1",
+      "CC-4-V1",
+      "CCY-3-O1",
+      "CCY-3-O2",
+      "CCY-3-O3",
+      "CLY-2-O4",
+      "CLY-3-O2",
+      "CLY-3-O3",
+      "CLY-4-O2",
+      "CLY-5-O2",
+      "CY-3-O4",
+      "CY-5-O4",
+      "CY-3-O2",
+      "PY-1-O2",
+      "PY-2-O2",
+      "PY-3-O2",
+      "CPY-2-O2",
+      "CPY-3-O2",
+      "CPY-5-O2",
+      "CCY-4-O2",
+      "CCY-5-O2",
+      "CCH-13",
+      "CCH-23",
+      "CCH-34",
+      "CCH-35",
+      "CCH-301",
+      "CCH-303",
+      "CC-2-V1"
+    ],
+    "text_length": 131490
+  },
+  {
+    "patent_id": "EP4720219A1",
+    "url": "https://patents.google.com/patent/EP4720219A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2024-05-21",
+      "publication_date": "2026-04-08"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, having negative dielectric anisotropy and to the use thereof for optical, electro- optical and electronic purposes, such as for example in LC displays, in particular energy saving displays based on the ECB, IPS or FFS effect.\nClassifications\n C09K19/3491 Non-steroidal liquid crystal compounds containing at least one heterocyclic ring having sulfur as hetero atom\nView 11 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4720219A1",
+    "claim1": "A liquid crystal medium comprising one or more compounds of the formula I I in which R1 and R2, identically or differently, denote H, halogen, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms, or branched alkyl, alkoxy, alkenyl or alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be -C ^C-, -CF2O-, -OCF2-, -CH=CH-, -O-, -CO-O- or -O-CO- in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, L11, L12, L13 and L14 each, independently of one another, denote F, Cl, CF3 or CHF2, and Y1 denotes H, F, Cl, CF3, CHF2 or CH3; and one or more compounds selected from the group of compounds of the formulae IIA, IIB, IIC and IID in which R2A, R2B, R2C and R2D identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be -OCF2-, -CH=CH-, -O-, -CO-O- or -O-CO- in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, L1 and L2, each, independently of one another, denote F, Cl, CF3 or CHF2, Y denotes H, F, Cl, CF3, CHF2 or CH3, Z2, Z2B and Z2D each, independently of one another, denote a single bond, -CH2CH2-, -CH=CH-, -CF2O-, -OCF2-, -CH2O-, -OCH2-, -COO-, -OCO-, -C2F4-, -CF=CF- or -CH=CHCH2O-, (O) denotes O or a single bond, p denotes 0, 1 or 2, q denotes 0 or 1, and v denotes an integer from 1 to 6.",
+    "claim1_length": 1685,
+    "negative_dielectric_count": 18,
+    "positive_dielectric_count": 8,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "en used in FFS displays: - excellent low-temperature stability (LTS) - improved contrast ratio of a display due to a favourably high Kav, - a low value ^1/K1 resulting in fast switching, - a high birefringence - hi",
+      "nd a low threshold voltage, a low pretilt angle, a multiplicity of grey shades, high contrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the pol",
+      "products. Alternatively, displays with higher brightness can be achieved having improved contrast especially under ambient light. Also, the popularity of 8K and gaming monitors leads to an increased need for LC displa",
+      "icular when used in FFS displays: - excellent low-temperature stability (LTS) - improved contrast ratio of a display due to a favourably high Kav, - a low value ^1/K1 resulting in fast switching, - a high birefringenc",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other f",
+      "n, the liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells. In general, liquid-crystal media having a low addressing voltage or threshold voltage exhibit",
+      "a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa. For the present invention, the term",
+      "s often show a decrease of the reliability and stability, and a decrease of the VHR especially after exposure to UV radiation. Especially for use in PSA displays this is a considerable disadvantage becau",
+      "A display is usually carried out by exposure to UV radiation, which may cause a VHR drop in the LC medium. In addition there is a great demand for PSA displays, and LC media and polymerisable compounds f",
+      "ntrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the polymerisable compounds, have low melting points and a high solubility in the LC",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other factors",
+      ", a high VHR is a prerequisite for a high reliability of the LC medium. Unless indicated otherwise, the term \"PSA\" is used hereinaft",
+      "protrusions can be increased, but this in turn results in a lengthening of the response times. In so-called PVA (\"patterned VA\") displays, protrusions are rendered completely superfluous in that both electrodes a",
+      ", for example, monitors and especially TV screens, however, a shortening of the response times and an improvement in the contrast and luminance (transmission) of the display are demanded. A further development are",
+      "n the cell. In the case of PS-VA displays, the pretilt has a positive effect on response times. For PS-VA displays, a standard MVA or PVA pixel and electrode layout can be used. In addition, however, it is also po"
+    ],
+    "contrast_keyword_count": 26,
+    "mixture_examples": [],
+    "phys_params": {
+      "clearing_point": "75.0",
+      "K1": "1",
+      "K3": "1"
+    },
+    "molecular_structures": [
+      "ST-19",
+      "ST-18",
+      "RM-17",
+      "RM-19",
+      "RM-35",
+      "RM-37",
+      "RM-39",
+      "RM-40",
+      "RM-41",
+      "RM-48",
+      "RM-52",
+      "RM-54",
+      "RM-57",
+      "RM-58",
+      "RM-64",
+      "RM-74",
+      "RM-76",
+      "RM-88",
+      "RM-91",
+      "RM-102",
+      "RM-103",
+      "RM-109",
+      "RM-116",
+      "RM-117",
+      "RM-120",
+      "RM-121",
+      "RM-122",
+      "RM-139",
+      "RM-140",
+      "RM-142"
+    ],
+    "text_length": 146897
+  },
+  {
+    "patent_id": "EP4502108A1",
+    "url": "https://patents.google.com/patent/EP4502108A1/en",
+    "success": true,
+    "title": "Liquid crystal medium",
+    "dates": {
+      "filing_date": "2024-07-29",
+      "publication_date": "2025-02-05"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "abstract": "The present invention relates to liquid-crystalline (LC) media having positive dielectric anisotropy and to liquid-crystal displays (LCDs) containing these media, especially to displays addressed by an active matrix and in particular to LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.\nClassifications\n C09K19/3098 Unsaturated non-aromatic rings, e.g. cyclohexene rings\nView 13 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4502108A1",
+    "claim1": null,
+    "claim1_length": 0,
+    "negative_dielectric_count": 41,
+    "positive_dielectric_count": 14,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "se thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good low-temp",
+      "the use thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good lo",
+      "esser extent, and in particular to provide a medium that enables a display with improved contrast preferably without deterioration of other display parameters.",
+      "The decrease in the voltage holding ratio (ΔVHR) usually caused by the exposure, for example by UV irradiation or by LCD backlighting, is determined in accordanc",
+      "Another disadvantage is that the reliability (VHR) of HB-FFS mixtures can be worse compared to conventional FFS mixtures.",
+      "a low pretilt angle which is stable after UV exposure, a high reliability, high VHR value after UV exposure, and a high birefringence. By appropriate selection of the polymerisable compounds it is possib",
+      "g to the invention at the same time as constantly high clearing points and high VHR values.",
+      "Unless indicated otherwise, the VHR is determined at 20°C (VHR20) and after 5 minutes in an oven at 100°C (VHR100) in a commercially available instrument Model LCM-1 (O0004) from TOY",
+      "The decrease in the voltage holding ratio (ΔVHR) usually caused by the exposure, for example by UV irradiation or by LCD backlighting, is determined in accordance with",
+      "aracteristics Measurement System Model 6254 from Toyo Corporation, Japan, using VHR test cells with AL16301 Polyimide (JSR Corp., Japan) having a 3.2µm cell gap. The measurement is performed after 5 min",
+      "ing mixtures with a higher KAvg., but this normally has the drawback of reduced response time.",
+      "ty γ1 and the elastic constant K22 for twist deformation, which leads to higher response times. Since K22 is approximately proportional to the elastic constant K11 for splay deformation (the value of K22 is typica",
+      "of the HB-FFS, FFS and IPS mode, with high brightness and transmission and fast response times. In addition, a higher average elastic constant (KAvg.) can be achieved while keeping all other relevant physical prop",
+      "selected from formula M and Table E, leads to advantageous properties like fast response times. Such a liquid-crystalline medium is especially suitable for use in PSA displays where it shows low image sticking, a",
+      "ys. In particular, the liquid-crystalline media exhibit significantly shortened response times, in particular also the grey-shade response times, in PSA displays compared with the media from the prior art."
+    ],
+    "contrast_keyword_count": 18,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "[0200]\nCC-3-V\t48.5 %\tClearing point /°C:\t82.7\nCC-3-V1\t3.0 %\tΔn (589 nm, 20°C):\t0.1013\nCCP-V-1\t14.5 %\tne (589 nm, 20°C):\t1.5882\nPGP-2-2V\t7.5 %\tno (589 nm, 20°C):\t1.4869\nAPUQU-3-F\t6.0 %\tΔε (1 kHz, 20°C):\t2.8\nPGUQU-4-F\t5.0 %\tε∥ (1 kHz, 20°C):\t6.2\nDPGU-4-F\t2.0 %\tε⊥ (1 kHz, 20°C):\t3.4\nPPGU-3-F\t0.5 %\tγ1 (20°C)/ mPa·s:\t68\nCY-5-O2\t2.0 %\tK1 (pN, 20°C):\t13.6\nCCY-3-O2\t1.5 %\tK3 (pN, 20°C):\t16.0\nCPY-3-O2\t3.0 %\t\t\nPP-1-2V1\t2.5 %\t\t\nCLOY-3-O2\t4.0 %\t\t\nΣ\t100.0 %"
+      },
+      {
+        "name": "M2",
+        "content": "[0201]\nCC-3-V\t48.5 %\tClearing point /°C:\t79.3\nCC-3-V1\t4.0 %\tΔn (589 nm, 20°C):\t0.1010\nCCP-V-1\t12.0 %\tne (589 nm, 20°C):\t1.5882\nPGP-1-2V\t4.0 %\tno (589 nm, 20°C):\t1.4872\nPGP-2-2V\t7.0 %\tΔε (1 kHz, 20°C):\t2.8\nAPUQU-3-F\t5.0 %\tε∥ (1 kHz, 20°C):\t5.9\nPGUQU-4-F\t4.5 %\tε⊥ (1 kHz, 20°C):\t3.1\nDPGU-4-F\t1.0 %\tγ1 (20°C)/ mPa·s:\t59\nCY-5-O2\t3.0 %\tK1 (pN, 20°C):\t13.2\nCPP-3-2\t2.0 %\tK3 (pN, 20°C):\t15.1\nCCU-3-F\t4.5 %\t\t\nPP-1-2V1\t2.0 %\t\t\nCLOY-3-O2\t2.5 %\t\t\nΣ\t100.0 %\t\t\n[0202]\nThe mixtures according to the invention are distinguished by advantageously high values KAvg. and low values γ1/K1.\nMixture\tΔε\tΔn\tKAvg. [pN]\tγ1/K1 [mPas/pN]\nC1\t2.7\t0.100\t11.5\t5.0\nM1\t2.8\t0.101\t12.1\t5.0\nM2\t2.8\t0.101\t11.6\t4.5"
+      },
+      {
+        "name": "M3",
+        "content": "[0203]\nCC-3-V\t48.5 %\tClearing point /°C:\t80.3\nCC-3-V1\t3.0 %\tΔn (589 nm, 20°C):\t0.1008\nCCP-V-1\t14.5 %\tne (589 nm, 20°C):\t1.5873\nPGP-2-2V\t7.5 %\tno (589 nm, 20°C):\t1.4865\nAPUQU-3-F\t6.0 %\tΔε (1 kHz, 20°C):\t2.8\nPGUQU-4-F\t5.0 %\tε∥ (1 kHz, 20°C):\t6.2\nDPGU-4-F\t2.0 %\tε⊥ (1 kHz, 20°C):\t3.4\nPPGU-3-F\t0.5 %\tγ1 (20°C)/ mPa·s:\t65\nCY-5-O2\t3.5 %\tK1 (pN, 20°C):\t13.3\nCPY-3-O2\t3.0 %\tK3 (pN, 20°C):\t15.5\nPP-1-2V1\t2.5 %\t\t\nCLOY-3-O2\t4.0 %\t\t\n∑\t100.0 %"
+      },
+      {
+        "name": "M4",
+        "content": "[0204]\nCC-3-V\t48.5 %\tClearing point /°C:\t82.4\nCC-4-V1\t3.0 %\tΔn (589 nm, 20°C):\t0.1002\nCCP-V-1\t14.5 %\tne (589 nm, 20°C):\t1.5876\nPGP-2-2V\t7.5 %\tno (589 nm, 20°C):\t1.4873\nAPUQU-3-F\t3.0 %\tΔε (1 kHz, 20°C):\t2.9\nAPUQU(1)-3-F\t3.0 %\tε∥ (1 kHz, 20°C):\t6.2\nPGUQU(1)-3-F\t5.0 %\tε⊥ (1 kHz, 20°C):\t3.3\nDPGU-4-F\t2.0 %\tγ1 (20°C)/ mPa·s:\t68\nPPGU-3-F\t0.5 %\t\t\nCY-5-O2\t2.0 %\t\t\nCCY-3-O2\t1.5 %\t\t\nCPY-3-O2\t3.0 %\t\t\nPP-1-2V1\t2.5 %\t\t\nCLOY-3-O2\t4.0 %\t\t\n∑\t100.0 %"
+      },
+      {
+        "name": "M5",
+        "content": "[0205]\nCC-3-V\t48.5 %\tClearing point /°C:\t78.7\nCC-3-V1\t4.0 %\tΔn (589 nm, 20°C):\t0.1006\nCCP-V-1\t12.0 %\tne (589 nm, 20°C):\t1.5881\nPGP-1-2V\t4.0 %\tno (589 nm, 20°C):\t1.4875\nPGP-2-2V\t7.0 %\tΔε (1 kHz, 20°C):\t2.8\nAPUQU-3-F\t5.0 %\tε∥ (1 kHz, 20°C):\t5.9\nPGUQU-(c3)1-F\t4.5 %\tε⊥ (1 kHz, 20°C):\t3.1\nDPGU-4-F\t1.0 %\tγ1 (20°C)/ mPa·s:\t59\nCY-5-O2\t3.0 %\t\t\nCPP-3-2\t2.0 %\t\t\nCCU-3-F\t4.5 %\t\t\nPP-1-2V1\t2.0 %\t\t\nCLOY-3-O2\t2.5 %\t\t\n∑\t100.0 %"
+      },
+      {
+        "name": "M6",
+        "content": "[0206]\nCC-3-V\t48.5 %\tClearing point /°C:\t80.0\nCC-3-V1\t4.0 %\tΔn (589 nm, 20°C):\t0.1010\nCCP-V-1\t12.0 %\tne (589 nm, 20°C):\t1.5885\nPGP-1-2V\t4.0 %\tno (589 nm, 20°C):\t1.4875\nPGP-2-2V\t4.0 %\tΔε (1 kHz, 20°C):\t2.8\nPGP-1-1(c3)\t3.0 %\t\t\nAPUQU-3-F\t5.0 %\tε∥ (1 kHz, 20°C):\t5.9\nPGUQU-4-F\t4.5 %\tε⊥ (1 kHz, 20°C):\t3.1\nDPGU-4-F\t1.0 %\tγ1 (20°C)/ mPa·s:\t59\nCY-5-O2\t3.0 %\tK1 (pN, 20°C):\t13.1\nCPP-3-2\t2.0 %\tK3 (pN, 20°C):\t15.0\nCCU-3-F\t4.5 %\t\t\nPP-1-2V1\t2.0 %\t\t\nCLOY-3-O2\t2.5 %\t\t\n∑\t100.0 %"
+      },
+      {
+        "name": "M7",
+        "content": "[0207]\nCC-3-V\t48.5 %\tClearing point /°C:\t82.0\nCC-3-V1\t3.0 %\tΔn (589 nm, 20°C):\t0.1004\nCCP-V-1\t14.5 %\tne (589 nm, 20°C):\t1.5873\nPGP-2-2V\t7.5 %\tno (589 nm, 20°C):\t1.4869\nAPUQU-3-F\t6.0 %\tΔε (1 kHz, 20°C):\t2.8\nPGUQU-4-F\t5.0 %\tε∥ (1 kHz, 20°C):\t6.2\nDPGU-4-F\t2.0 %\tε⊥ (1 kHz, 20°C):\t3.4\nPPGU-3-F\t0.5 %\tγ1 (20°C)/ mPa·s:\t67\nCY-5-O2\t2.0 %\tK1 (pN, 20°C):\t13.5\nCCY-3-O2\t1.5 %\tK3 (pN, 20°C):\t15.9\nCPY-3-O2\t3.0 %\t\t\nPP-1-5\t2.5 %\t\t\nCLOY-3-O2\t4.0 %\t\t\n∑\t100.0 %"
+      },
+      {
+        "name": "M8",
+        "content": "[0208]\nCC-3-V\t48.5 %\tClearing point /°C:\t81.8\nCC-3-V1\t3.0 %\tΔn (589 nm, 20°C):\t0.1007\nCCP-V-1\t14.5 %\tne (589 nm, 20°C):\t1.5877\nPGP-2-2V\t7.5 %\tno (589 nm, 20°C):\t1.4870\nAPUQU-3-F\t6.0 %\tΔε (1 kHz, 20°C):\t2.8\nPGUQU-4-F\t5.0 %\tε∥ (1 kHz, 20°C):\t6.2\nDPGU-4-F\t2.0 %\tε⊥ (1 kHz, 20°C):\t3.4\nPPPP-4-1T\t0.5 %\tγ1 (20°C)/ mPa·s:\t67\nCY-5-O2\t2.0 %\tK1 (pN, 20°C):\t13.6\nCCY-3-O2\t1.5 %\tK3 (pN, 20°C):\t15.7\nCPY-3-O2\t3.0 %\t\t\nPP-1-3\t2.5 %\t\t\nCLOY-3-O2\t4.0 %\t\t\n∑\t100.0 %"
+      },
+      {
+        "name": "M9",
+        "content": "[0209]\nCC-3-V\t48.0 %\tClearing point /°C:\t82.9\nCC-3-2V1\t3.0 %\tΔn (589 nm, 20°C):\t0.0996\nCCP-V-1\t16.0 %\tne (589 nm, 20°C):\t1.5865\nPGP-2-2V\t6.5 %\tno (589 nm, 20°C):\t1.4869\nAPUQU-3-F\t6.0 %\tΔε (1 kHz, 20°C):\t2.8\nPGUQU-4-F\t5.0 %\tε∥ (1 kHz, 20°C):\t6.2\nDPGU-4-F\t2.0 %\tε⊥ (1 kHz, 20°C):\t3.4\nPPGU-3-F\t0.5 %\tγ1 (20°C)/ mPa·s:\t68\nCY-5-O2\t2.0 %\tK1 (pN, 20°C):\t13.7\nCCY-3-O2\t1.5 %\tK3 (pN, 20°C):\t16.0\nCPY-3-O2\t3.0 %\t\t\nPP-1-3\t2.5 %\t\t\nCLOY-3-O2\t4.0 %\t\t\n∑\t100.0 %"
+      },
+      {
+        "name": "M10",
+        "content": "[0210]\nCC-3-V\t48.5 %\tClearing point /°C:\t82.9\nCC-3-V1\t4.0 %\tΔn (589 nm, 20°C):\t0.1059\nCLP-V-1\t13.5 %\tne (589 nm, 20°C):\t1.5943\nPGP-2-2V\t7.5 %\tno (589 nm, 20°C):\t1.4882\nAPUQU-3-F\t6.0 %\tΔε (1 kHz, 20°C):\t3.0\nPGUQU-4-F\t5.0 %\tε∥ (1 kHz, 20°C):\t6.4\nDPGU-4-F\t2.0 %\tε⊥ (1 kHz, 20°C):\t3.4\nPPGU-3-F\t0.5 %\tγ1 (20°C)/ mPa·s:\t72\nCY-5-O2\t2.0 %\tK1 (pN, 20°C):\t14.8\nCCY-3-O2\t1.5 %\tK3 (pN, 20°C):\t15.8\nCPY-3-O2\t3.0 %\t\t\nPP-1-4\t2.5 %\t\t\nCLOY-3-O2\t4.0 %\t\t\n∑\t100.0 %"
+      }
+    ],
+    "phys_params": {
+      "delta_n": "0",
+      "delta_epsilon": "2",
+      "epsilon_parallel": "0",
+      "epsilon_perpendicular": "0",
+      "gamma1": "0",
+      "K1": "0",
+      "K3": "0"
+    },
+    "molecular_structures": [
+      "B-1-1",
+      "B-1-11",
+      "B-1-6",
+      "B-2-1",
+      "B-2-10",
+      "B-2-6",
+      "B-3-1",
+      "B-3-10",
+      "ST-19",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "CC-4-V1",
+      "RM-182",
+      "RM-17",
+      "RM-19",
+      "RM-35",
+      "RM-37",
+      "RM-39",
+      "RM-40",
+      "RM-41",
+      "RM-48",
+      "RM-52",
+      "RM-54",
+      "RM-57",
+      "RM-58",
+      "RM-64",
+      "RM-74",
+      "RM-76",
+      "RM-88"
+    ],
+    "text_length": 107051
+  },
+  {
+    "patent_id": "EP4538349A1",
+    "url": "https://patents.google.com/patent/EP4538349A1/en",
+    "success": true,
+    "title": "Liquid-crystalline medium",
+    "dates": {
+      "filing_date": "2024-10-11",
+      "publication_date": "2025-04-16"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3098"
+    ],
+    "abstract": "The present invention relates to liquid-crystalline (LC) media or LC materials and to energy saving liquid-crystal displays (LCDs) containing these media, especially to gaming displays and AR/VR headsets addressed by an active matrix and in particular to LC displays of the TN, PS-TN, STN, TN-TFT, OCB, IPS, PS-IPS, FFS, HB-FFS, XB-FFS, PS-FFS, SA-HB-FFS, SA-XB-FFS, polymer stabilised SA-HB-FFS, polymer stabilised SA-XB-FFS, positive VA or positive PS-VA type.\nClassifications\n C09K19/3098 Unsaturated non-aromatic rings, e.g. cyclohexene rings\nView 17 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4538349A1",
+    "claim1": null,
+    "claim1_length": 0,
+    "negative_dielectric_count": 35,
+    "positive_dielectric_count": 10,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "se thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good low-temp",
+      "Until now, it was not possible to design suitable LC media having a high contrast ratio e.g. high elastic constants K1 and Kav, low temperature stability and low response times. Therefore, the overall pictur",
+      "rgy saving liquid-crystal displays (LCDs) containing these media, especially to high contrast gaming displays and AR/VR headsets addressed by an active matrix and in particular to LC displays of the TN, PS-TN, STN",
+      "the use thereof in a display having high transmission, a good black state and a high contrast ratio is a central challenge for modern FFS and IPS applications. In addition, modern applications also require good lo",
+      "Until now, it was not possible to design suitable LC media having a high contrast ratio e.g. high elastic constants K1 and Kav, low temperature stability and low response times. Therefore, the overall",
+      "t motion picture quality and an improved overall image quality, in particular a high contrast.",
+      "Measurements of the voltage holding ratio (HR) [S. Matsumoto et al., Liquid Crystals 5, 1320 (1989); K. Niwa et al., Proc. SID Conference, San Francisco, June 19",
+      "articularly efficient UV stabilisers in LC mixtures, in particular, in terms of VHR stability:",
+      "e compounds are highly suitable as stabilisers in LC mixtures and stabilise the VHR of the mixtures upon UV exposure.",
+      "a low pretilt angle which is stable after UV exposure, a high reliability, high VHR value after UV exposure, and a high birefringence. By appropriate selection of the polymerisable compounds it is possib",
+      "g to the invention at the same time as constantly high clearing points and high VHR values.",
+      "ion of 500 ppm of the compound of the Formula ST-1-3 significantly improves the VHR100 after UV exposure compared to the non-stabilized mixture M1, without affecting the remaining physical properties of",
+      "ition of 50 ppm of the compound of the Formula H-3-5 significantly improves the VHR100 after UV exposure compared to the non-stabilized mixture M2, without affecting the remaining physical properties of",
+      "on of 1 000 ppm of the compound of the Formula H-3-3 significantly improves the VHR100 after UV exposure compared to the non-stabilized mixture M3, without affecting the remaining physical properties of",
+      "dition of 1 000 ppm of the compound of Formula H-3-1 significantly improves the VHR100 after UV exposure compared to the non-stabilized mixture M4, without affecting the remaining physical properties of"
+    ],
+    "contrast_keyword_count": 51,
+    "mixture_examples": [],
+    "phys_params": {},
+    "molecular_structures": [
+      "CC-3-V",
+      "RM-184",
+      "RM-17",
+      "RM-19",
+      "RM-35",
+      "RM-37",
+      "RM-39",
+      "RM-40",
+      "RM-41",
+      "RM-48",
+      "RM-52",
+      "RM-54",
+      "RM-57",
+      "RM-58",
+      "RM-64",
+      "RM-74",
+      "RM-76",
+      "RM-88",
+      "RM-91",
+      "RM-102",
+      "RM-103",
+      "RM-109",
+      "RM-116",
+      "RM-117",
+      "RM-120",
+      "RM-121",
+      "RM-122",
+      "RM-139",
+      "RM-140",
+      "RM-142"
+    ],
+    "text_length": 136764
+  },
+  {
+    "patent_id": "EP4702104A1",
+    "url": "https://patents.google.com/patent/EP4702104A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium comprising polymerizable compound",
+    "dates": {
+      "filing_date": "2024-04-22",
+      "publication_date": "2026-03-04"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/062"
+    ],
+    "abstract": "The present invention relates to an LC medium (as a subcategory of liquid crystal material), comprising a polymerizable compound having a monocyclic group, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the PSA (polymer sustained alignment) or SA (self- aligning) mode, to an LC display of the PSA or SA mode comprising the LC medium, and to a process of manufacturing the LC display using the LC medium, especially an energy-saving LC display and energy-saving LC display production process.\nClassifications\n C09K19/062 Non-steroidal liquid crystal compounds containing one non-condensed benzene ring\nView 16 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4702104A1",
+    "claim1": null,
+    "claim1_length": 0,
+    "negative_dielectric_count": 19,
+    "positive_dielectric_count": 3,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "oltage, a low tilt angle, a high tilt stability, a multiplicity of grey shades, high contrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the pol",
+      "ead to a decrease of the reliability of the mixture, and to a large drop of its voltage holding ratio (VHR), when being exposed to the UV light needed to polymerize the RMs. Thus is especially problematic when using short",
+      "n, the liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells. In general, liquid-crystal media having a low addressing voltage or threshold voltage exhibit",
+      "a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "e reliability of the mixture, and to a large drop of its voltage holding ratio (VHR), when being exposed to the UV light needed to polymerize the RMs. Thus is especially problematic when using shorter UV",
+      "alkenyl compounds, which show high reliability and only a small decrease of the VHR value after UV stress, and at the same time show fast response times. In addition, there is a great demand for PSA or S",
+      "ntrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the polymerizable compounds, have low melting points and a high solubility in the LC",
+      "in PSA or SA displays, which enable very high specific resistance values, high VHR values, high reliability, low threshold voltages, short response times, high birefringence, show good UV absorption esp",
+      "hibit both fast polymerization speed and good reliability parameters, like high VHR or good tilt stability.",
+      "- they lead to high and stable VHR and only small decrease of the CHR after UV stress, especially in case of LC media based on LC host mixtures which cont",
+      "e less or no negative effects on the LC-mixture performance parameters, such as VHR, tilt stability, etc.",
+      "ve effects of the residual RM on the LC mixture performance parameters, such as VHR, tilt stability, etc. An alkenyl group in the compounds of formula II or other components of the LC medium as disclosed",
+      "For the VHR measurement the polymerizable LC media are filled in in test cells and the monomers are polymerized under the same cond",
+      "itions as described above for the tilt angle generation. The VHR is measured before and after exposure to a UV B-type lamp or a UV-C type lamp used for the PSA process as described abo",
+      "Light stress usually causes the decrease of VHR in LC mixtures, therefore the smaller the absolute decrease of VHR value after stress, the better performance for displ"
+    ],
+    "contrast_keyword_count": 24,
+    "mixture_examples": [],
+    "phys_params": {},
+    "molecular_structures": [
+      "ST-18",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "CY-3-O4",
+      "CY-5-O4",
+      "PY-1-O2",
+      "PY-2-O2",
+      "CPY-2-O2",
+      "CPY-3-O2",
+      "CPY-5-O2",
+      "CCY-4-O2",
+      "CCY-3-O2",
+      "CCY-3-O3",
+      "CCY-3-O1",
+      "CCY-5-O2",
+      "PY-3-O2",
+      "CCY-3",
+      "CLY-2-O4",
+      "CLY-3-O2",
+      "CLY-3-O3",
+      "CLY-4-O2",
+      "CLY-5-O2",
+      "CC-3-V",
+      "CCH-13",
+      "CCH-23",
+      "CCH-34",
+      "CCH-35",
+      "CCH-301",
+      "CCH-303"
+    ],
+    "text_length": 145677
+  },
+  {
+    "patent_id": "US20250297161A1",
+    "url": "https://patents.google.com/patent/US20250297161A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2025-03-18",
+      "publication_date": "2025-09-25"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/40",
+      "C09K19/06",
+      "C09K19/42"
+    ],
+    "abstract": "A liquid-crystal (LC) material having negative dielectric anisotropy and the use thereof for optical, electro-optical and electronic purposes, such as for example in energy-efficient LC displays, in particular displays based on the electrically controlled birefringence (ECB), IPS, or FFS effect.\nClassifications\n C09K19/42 Mixtures of liquid crystal compounds covered by two or more of the preceding groups C09K19/06 - C09K19/40\nView 37 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nUS20250297161A1",
+    "claim1": "A liquid crystal medium comprising: a) one or more compounds of formula ST: in which RS1 denotes a straight-chain alkyl radical having 1 to 12 C atoms or a branched alkyl radical having 3 to 12 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen; RS2 denotes H, an alkyl or alkoxy having 1 to 7 C atoms, or an alkenyl having 2 to 7 C atoms, where one or more H atoms in these radials may be replaced by halogen; W1, W2, W3, and W4 identically or differently, denote an O or CH2; and r1 and r2 independently are 0 or 1; b) one or more compounds of formula Ia: in which W denotes CH4-s, an aromatic hydrocarbon group having 6 to 40 C atoms, or a heteroaromatic hydrocarbon group having 4 to 40 C atoms; A on each occurrence, identically or differently, denotes a single bond, a straight-chain alkyl radical having 1 to 20 C atoms, a straight-chain alkenylene radical having 2 to 20 C atoms, or a branched alkylene or alkenylene radical having 3 to 12 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —C≡C—, —CH═CH—, —C(O)—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, in which one or more H atoms may be replaced by halogen, and in which one or two H atoms may be replaced by a group —ZS-HAa; RS denotes H, an alkyl having 1 to 12 C atoms, or an alkenyl having 2 to 12 C atoms; ZS denotes —O—, —C(O)O—, —(CH2)z—, —(CH2)zO—, or a single bond; HAa denotes RS1, RS2, RS3 and RS4 identically or differently, denote an alkyl having 1 to 6 C atoms; G denotes H, RS, or a group ZS-HAa; z is an integer from 1 to 6; and s is 2, 3, or 4; c) one or more compounds of formula Ib: W denotes CH4-s, an aromatic hydrocarbon group having 6 to 40 C atoms, or a heteroaromatic hydrocarbon group having 4 to 40 C atoms; A on each occurrence, identically or differently, denotes a single bond, a straight-chain alkylene radical having 1 to 20 C atoms, a straight-chain alkenylene radical having 2 to 20 C atoms, or a branched alkylene or alkenylene radical having 3 to 12 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —C≡C—, —CH═CH—, —C(O)—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, and in which one or two H atoms may be replaced by a group —ZS-HAb; RS denotes H, an alkyl having 1 to 12 C atoms, or an alkenyl having 2 to 12 C atoms; ZS denotes —O—, —C(O)O—, —(CH2)z— or —(CH2)zO—, or a single bond; HAb denotes RS1, RS2, RS3 and RS4 identically or differently, denote an alkyl having 1 to 6 C atoms; G denotes H, RS, or a group ZS-HAb; z is an integer from 1 to 6; and s is 2, 3, or 4; and d) one or more compounds selected from the group of compounds of formulae IIA, IIB, IIC and IID: in which R2A, R2B, R2C and R2D identically or differently, denote H, a straight-chain alkyl or alkoxy having 1 to 15 C atoms, a straight-chain alkenyl or alkenyloxy having 2 to 15 C atoms, or a branched alkyl, alkoxy, alkenyl, or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by —CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen; L1 and L2 each, independently of one another, denote F, Cl, CF3, or CHF2, Y denotes H, F, Cl, CF3, CHF2 or CH3, Z2, Z2B, and Z2D each, independently of one another, denote a single bond, —CH2CH2—, —CH═CH—, —CF2O—, —OCF2—, —CH2O—, —OCH2—, —COO—, —OCO—, —C2F4—, —CF═CF—, or —CH═CHCH2O—; (O) denotes O or a single bond; p denotes 0, 1 or 2; q denotes 0 or 1; and v denotes an integer from 1 to 6.",
+    "claim1_length": 4036,
+    "negative_dielectric_count": 46,
+    "positive_dielectric_count": 10,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "Another important display trend is to achieve high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially in IPS/FFS technology",
+      "ngly impacted by the scattering parameter and has therefore a big impact on the contrast ratio. To improve the contrast ratio and to reduce the scattering parameter, LC mixtures with high elastic constants are nece",
+      "gh elastic constants. Therefore, new materials need to be found to increase the contrast ratio of future displays even further.",
+      "improved contrast ratio of the display;",
+      "nd a low threshold voltage, a low pretilt angle, a multiplicity of grey shades, high contrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the pol",
+      "Another important display trend is to achieve high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially",
+      "products. Alternatively, displays with higher brightness can be achieved having improved contrast especially under ambient light. Also, the popularity of 8K and gaming monitors leads to an increased need for LC displa",
+      "s often show a decrease of the reliability and stability, and a decrease of the voltage holding ratio (VHR), especially after exposure to UV radiation. Especially for use in PSA displays this is a considerable disadvantag",
+      "displays. As a standard parameter for categorizing the reliability, usually the voltage holding ratio (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other fa",
+      "The liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "thickness 65 nm, rubbed) are filled with the corresponding mixtures, and their voltage holding ratio is measured before and after irradiation using the measurement system Model 6254 from Toyo Corporation, Japan. The test",
+      "of the reliability and stability, and a decrease of the voltage holding ratio (VHR), especially after exposure to UV radiation. Especially for use in PSA displays this is a considerable disadvantage bec",
+      "A display is usually carried out by exposure to UV radiation, which may cause a VHR drop in the LC medium.",
+      "ntrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the polymerizable compounds, have low melting points and a high solubility in the LC"
+    ],
+    "contrast_keyword_count": 34,
+    "mixture_examples": [],
+    "phys_params": {
+      "gamma1": "91",
+      "K1": "16.3",
+      "K3": "17.8",
+      "V0": "2.38"
+    },
+    "molecular_structures": [
+      "CLP-3-3",
+      "CCY-4-02",
+      "CCY-3-02",
+      "CCY-3-03",
+      "CCY-3-01",
+      "CCY-5-02",
+      "CLY-2-04",
+      "CLY-3-02",
+      "CLY-3-03",
+      "CC-3-V1",
+      "CC-4-V1",
+      "CC-3-V",
+      "CC-4-V",
+      "CP-3-O2",
+      "CCP-3-1",
+      "CPP-3-2",
+      "CCC-3-V",
+      "PPGU-3-F",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14",
+      "RM-15",
+      "RM-16",
+      "RM-17",
+      "RM-18",
+      "RM-19",
+      "RM-20",
+      "RM-21"
+    ],
+    "text_length": 153307
+  },
+  {
+    "patent_id": "US12595417B2",
+    "url": "https://patents.google.com/patent/US12595417B2/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2024-12-12",
+      "publication_date": "2025-07-03",
+      "grant_date": "2026-04-07"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/44",
+      "C09K19/40",
+      "C09K19/06"
+    ],
+    "abstract": "A liquid-crystal (LC) material comprising one or more compounds of the formula I",
+    "claim1": "Claims (15) Hide Dependent The invention claimed is: 1. A liquid crystal medium comprising one or more compounds of the formula I in which R11 and R12 identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl, alkenyloxy each having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by -CH═CH—, —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, one of L11 and L12 denotes H, and the other one of L11 and L12 denotes H, F, Cl, CF3 or CHF2.",
+    "claim1_length": 757,
+    "negative_dielectric_count": 52,
+    "positive_dielectric_count": 8,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "0.5",
+      "2.3"
+    ],
+    "contrast_snippets": [
+      "Another important display trend is to achieve a high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially in IPS/FFS technology",
+      "acted by the scattering parameter and has therefore a significant impact on the contrast ratio. To improve the contrast ratio and to reduce the scattering parameter LC mixtures with high elastic constants are neces",
+      "gh elastic constants. Therefore, new materials need to be found to increase the contrast ratio of future displays even further.",
+      "improved contrast ratio of the display,",
+      "nd a low threshold voltage, a low pretilt angle, a multiplicity of grey shades, high contrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the pol",
+      "Another important display trend is to achieve a high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially",
+      "products. Alternatively, displays with higher brightness can be achieved having improved contrast especially under ambient light. Also, the popularity of 8K and gaming monitors leads to an increased need for LC displa",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other f",
+      "The liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "s often show a decrease of the reliability and stability, and a decrease of the VHR especially after exposure to UV radiation. Especially for use in PSA displays this is a considerable disadvantage becau",
+      "A display is usually carried out by exposure to UV radiation, which may cause a VHR drop in the LC medium.",
+      "ntrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the polymerisable compounds, have low melting points and a high solubility in the LC",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other factors",
+      ", a high VHR is a prerequisite for a high reliability of the LC medium."
+    ],
+    "contrast_keyword_count": 29,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t123.0\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1019\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.7\n\tCC-3-V\t5.5\tγ1 [mPa s, 20° C.]:\t202\n\tCC-3-V1\t9.5\tK1 [pN, 20° C.]:\t29.8\n\tCC-4-V1\t8.0\tK3 [pN, 20° C.]:\t29.7\n\tCC-3-O3\t3.0\t\t\n\tCC-3-5\t12.5\t\t\n\tCCP-3-1\t8.0\t\t\n\tCCP-V2-1\t3.0\t\t\n\tCCY-3-O2\t11.0\t\t\n\tCLOY-3-O2\t6.25\t\t\n\tCLPC-3-2\t3.0\t\t\n\tCLY-3-O2\t9.25\t\t\n\tCLY-4-O2\t5.0\t\t\n\tCLY-5-O2\t5.0\t\t\n\tΣ\t100\n\nIn the following table, key parameters of the mixtures C1 and M1 are summarized.\n\n\tΔε\tΔn\tKav [pN]\tγ1 [mPas]\tγ1/K1 [mPas/pN]\n\n\nC1\t−3.6\t0.1030\t23.9\t209\t7.3\nM1\t−3.7\t0.1019\t24.8\t202\t6.8\n\nIt is surprisingly found that by use of the compound of formula I in Mixture Example 1, despite the higher clearing temperature a favorably lower rotational viscosity (γ1) and at the same time a very low ratio γ1/K1 can b"
+      },
+      {
+        "name": "M2",
+        "content": "B(S)-2O-O5\t5.0\tcl. p. [° C.]:\t108.5\nCC-3-V\t19.25\tΔn [589 nm, 20° C.]:\t0.0909\nCC-3-V1\t14.0\tΔε[1 kHz, 20° C.]:\t−2.4\nCC-4-V1\t12.0\tγ1 [mPa s, 20° C.]:\t134\nCC-3-O3\t3.25\tK1 [pN, 20° C.]:\t22.2\nCC-3-5\t5.0\tK3 [pN, 20° C.]:\t21.9\nCCP-3-1\t5.25\t\t\nCCY-3-O2\t9.0\t\t\nCLOY-3-O2\t6.25\t\t\nCLPC-3-2\t5.0\t\t\nCLY-3-O2\t9.0\t\t\nCOB(S)-2-O4\t6.0\t\t\nCP-3-O2\t1.0\t\t\nΣ\t100.0"
+      },
+      {
+        "name": "M3",
+        "content": "B(S)-2O-O4\t1.0\tcl. p. [° C.]:\t116.5\n\tCC-3-V\t14.75\tΔn [589 nm, 20° C.]:\t0.0893\n\tCC-3-V1\t12.5\tΔε [1 kHz, 20° C.]:\t−3.1\n\tCC-3-5\t12.0\tγ1 [mPa s, 20° C.]:\t224\n\tCCP-3-1\t10.5\tK1 [pN, 20° C.]:\t24.7\n\tCCY-3-O2\t11.0\tK3 [pN, 20° C.]:\t28.2\n\tCLOY-3-O2\t23.25\tLTS bulk [h, −20° C.]:\t1000\n\tCLPC-3-2\t5.0\n\tCLY-3-O2\t10.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M4",
+        "content": "B(S)-2O-O4\t1.0\tcl. p. [° C.]:\t116.5\n\tCC-3-V\t4.0\tΔn [589 nm, 20° C.]:\t0.0892\n\tCC-3-V1\t12.0\tΔε [1 kHz, 20° C.]:\t−3.2\n\tCC-4-V1\t10.0\tγ1 [mPa s, 20° C.]:\t235\n\tCC-3-O3\t2.5\tK1 [pN, 20° C.]:\t26.1\n\tCC-3-5\t12.0\tK3 [pN, 20° C.]:\t28.4\n\tCCP-3-1\t10.5\tLTS bulk [h, −20° C.]:\t288\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t23.5\n\tCLPC-3-2\t2.5\n\tCLY-3-O2\t11.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M5",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t123.0\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1015\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.7\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-4-3\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M6",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t122.5\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1021\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.7\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-V-1\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M7",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t124\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1021\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.7\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-O1\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M8",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t122.5\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1010\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−4.0\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCOY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M9",
+        "content": "B(S)-2O-O4\t4.0\tcl. p. [° C.]:\t123.5\n\tB(S)-2O-O5\t3.0\tΔn [589 nm, 20° C.]:\t0.1010\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.6\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCEY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      },
+      {
+        "name": "M10",
+        "content": "B(P)-2O-O3\t4.0\tcl. p. [° C.]:\t125\n\tB(P)-2O-O4\t3.0\tΔn [589 nm, 20° C.]:\t0.1036\n\tB(S)-2O-O6\t4.0\tΔε [1 kHz, 20° C.]:\t−3.3\n\tCC-3-V\t5.5\n\tCC-3-V1\t9.5\n\tCC-4-V1\t8.0\n\tCC-3-O3\t3.0\n\tCC-3-5\t12.5\n\tCCP-3-1\t8.0\n\tCCP-V2-1\t3.0\n\tCCY-3-O2\t11.0\n\tCLOY-3-O2\t6.25\n\tCLPC-3-2\t3.0\n\tCLY-3-O2\t9.25\n\tCLY-4-O2\t5.0\n\tCLY-5-O2\t5.0\n\tΣ\t100.0"
+      }
+    ],
+    "phys_params": {
+      "delta_n": "0",
+      "delta_epsilon": "2",
+      "gamma1": "1",
+      "K1": "1",
+      "K3": "1"
+    },
+    "molecular_structures": [
+      "CLP-3-3",
+      "ST-18",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "CCY-4-02",
+      "CCY-3-02",
+      "CCY-3-03",
+      "CCY-3-01",
+      "CCY-5-02",
+      "CLY-2-04",
+      "CLY-3-02",
+      "CLY-3-03",
+      "B(S)-20-04",
+      "B(S)-20-05",
+      "B(S)-20-06",
+      "CC-3-V1",
+      "CC-4-V1",
+      "CC-3-V",
+      "CC-4-V",
+      "CP-3-02",
+      "CCP-3-1",
+      "CPP-3-2",
+      "CCC-3-V",
+      "PPGU-3-F",
+      "RM-10",
+      "RM-11",
+      "RM-12",
+      "RM-13",
+      "RM-14"
+    ],
+    "text_length": 144900
+  },
+  {
+    "patent_id": "US20250154412A1",
+    "url": "https://patents.google.com/patent/US20250154412A1/en",
+    "success": true,
+    "title": "Liquid crystal medium",
+    "dates": {
+      "filing_date": "2024-10-29",
+      "publication_date": "2025-05-15",
+      "grant_date": "2026-01-20"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/04"
+    ],
+    "abstract": "A compound of formula AN\na liquid crystal material comprising a compound of formula AN, and high-frequency components comprising these media, especially microwave components for high-frequency devices, such as devices for shifting the phase of microwaves, tuneable filters, tuneable metamaterial structures, and electronic beam steering antennas, e.g., phased array antennas.\nClassifications\n C09K19/04 Liquid crystal materials characterised by the chemical structure of the liquid crystal components, e.g. by a specific unit\nView 15 more classifications\nLandscapes\nChemical & Material Sciences\nOrganic Chemistry\nShow more\nUS20250154412A1",
+    "claim1": "Comparative Mixture C2 PTU-5-AN 10.00 Cl. p. [° C.]: 142.5 PTU-3-S 14.38 τ [20° C., 19 GHz]: 0.310 PGU-3-S 12.58 εr,∥ [20° C., 19 GHz]: 3.54 PPTU-5-S 17.98 εr,⊥ [20° C., 19 GHz]: 2.44 CPU-2-S 31.46 tan δε r,∥ [20° C., 19 GHz]: 0.0061 CPU-4-S 13.48 tan δε r,⊥ [20° C., 19 GHz]: 0.0119 ST-3b-1 0.12 η [20° C., 19 GHz]: 26.1 Σ 100.0 Mixture Example M2 PTUI-5-AN 10.00 Cl. p. [° C.]: 147 PTU-3-S 14.38 τ [20° C., 19 GHz]: 0.315 PGU-3-S 12.58 εr,∥ [20° C., 19 GHz]: 3.54 PPTU-5-S 17.98 εr,⊥ [20° C., 19 GHz]: 2.42 CPU-2-S 31.46 tan δε r,∥ [20° C., 19 GHz]: 0.0057 CPU-4-S 13.48 tan δε r,⊥ [20° C., 19 GHz]: 0.0108 ST-3b-1 0.12 η [20° C., 19 GHz]: 29.3 Σ 100.0 [0952] Mixture Example M2 differs from Comparative Example C2 in that the compound PTU-5-AN is replaced with its isomer PTUI-5-AN according to the invention. This results in an improvement of all physical properties: an increased clearing temperature, a higher tunability, and a lower dielectric loss which gives an improved material quality of 29 compared to only 26 of Comparative Example C2. Mixture Example M3 PTUI-4-AN 12.0 Cl. p. [° C.]: 127 PU-3-AN 10.0 τ [20° C., 19 GHz]: 0.280 PU-5-AN 10.0 εr,∥ [20° C., 19 GHz]: 3.52 PTU-4-AN 6.0 εr,⊥ [20° C., 19 GHz]: 2.54 PTU-5-AN 10.0 tan δε r,∥ [20° C., 19 GHz]: 0.0046 PTP(2)IUI-5-AN 5.0 tan δε r,⊥ [20° C., 19 GHz]: 0.0143 PP(2)TU-5-AN 12.0 η [20° C., 19 GHz]: 19.6 P(2)TPU-5-AN 15.0 P(2)TPUI-5-AN 20.0 Σ 100.0 Mixture Example M4 ST-3b-1 0.12 Cl. p. [° C.]: 151 PTU-3-S 8.88 ε∥ [1 kHz, 20° C.]: 25.2 PTU-5-S 7.0 ε⊥ [1 kHz, 20° C.]: 4.1 PPTU-4-S 6.0 Δε [1 kHz, 20° C.]: 21.0 PPTU-5-S 15.0 K1 [pN, 20° C.]: 15.7 PPU-TO-S 5.0 K3 [pN, 20° C.]: 30.6 CPTU-5-S 8.0 K3/K1 [pN, 20° C.]: 1.94 PTUI-4-AN 10.0 V0 [V, 20° C.]: 0.91 PTP(2)IUI-5-AN 5.0 τ [20° C., 19 GHz]: 0.321 PP(2)TU-5-AN 10.0 εr,∥ [20° C., 19 GHz]: 3.65 P(2)TPU-5-AN 10.0 εr,⊥ [20° C., 19 GHz]: 2.48 P(2)TPUI-5-AN 15.0 tan δε r,∥ [20° C., 19 GHz]: 0.0043 Σ 100.0 tan δε r,⊥ [20° C., 19 GHz]: 0.0091 η [20° C., 19 GHz]: 35.4 Mixture Example M5 PPTU-4-S 6.0 Cl. p. [° C.]: 130.5 PPTU-5-S 12.0 ε∥ [1 kHz, 20° C.]: 36.3 PPU-TO-S 2.0 ε⊥ [1 kHz, 20° C.]: 5.0 CPTU-5-S 6.0 Δε [1 kHz, 20° C.]: 31.3 CPU(FF)-3-S 5.0 γ1 [mPa s, 20° C.]: 505 CPUI-4-S 5.0 K1 [pN, 20° C.]: 15.0 PTUI-2-S 5.0 K3 [pN, 20° C.]: 24.7 PUITP-4-S 7.0 K3/K1 [pN, 20° C.]: 1.65 PTUP-4-S 7.0 V0 [V, 20° C.]: 0.73 PTUI-4-AN 10.0 τ [20° C., 19 GHz]: 0.302 PU-3-AN 10.0 εr,∥ [20° C., 19 GHz]: 3.58 PU-5-AN 10.0 εr,⊥ [20° C., 19 GHz]: 2.50 PTU-4-AN 5.0 tan δε r,∥ [20° C., 19 GHz]: 0.0063 PTU-5-AN 10.0 tan δε r,⊥ [20° C., 19 GHz]: 0.0148 Σ 100.0 η [20° C., 19 GHz]: 20.5 Mixture Example M6 PTP(2)TP-6-3 20.0 Cl. p. [° C.]: 118.5 Mixture Example M5 80.0 ε∥ [1 kHz, 20° C.]: 28.9 Σ 100.0 ε⊥ [1 kHz, 20° C.]: 4.6 Δε [1 kHz, 20° C.]: 24.3 K1 [pN, 20° C.]: 14.8 K3 [pN, 20° C.]: 21.9 K3/K1 [pN, 20° C.]: 1.48 V0 [V, 20° C.]: 0.82 τ [20° C., 19 GHz]: 0.282 εr,∥ [20° C., 19 GHz]: 3.50 εr,⊥ [20° C., 19 GHz]: 2.51 tan δε r,∥ [20° C., 19 GHz]: 0.0059 tan δε r,⊥ [20° C., 19 GHz]: 0.0131 η [20° C., 19 GHz]: 21.6 Claims (20) Hide Dependent 1. A compound of the formula AN in which RA denotes H, straight-chain alkyl having 1 to 12 C atoms, or straight-chain alkenyl or straight chain alkynyl each having 2 to 12 C atoms, or branched alkyl having 3 to 12 C atoms or branched alkenyl having 3 to 12 C atoms or branched alkynyl having 4 to 12 C atoms, where one or more CH2-groups may be replaced by and where one or more non-adjacent CH2-groups may be replaced by O, and where in all of these groups one or more H atoms may be replaced by F, ZA1 and ZA2, identically or differently, denote CH2CH2, CF2CH2, CH2CF2, CF2CF2, —CH═CH—, —CF═CF—, —CH═CF—, —CF═CH—, —C≡C—, —C≡C—C≡C—, or a single bond, V1 and V2, identically or differently, denote —N═ or —CR0═, R0 denotes H, F, Cl, CF3, CHF2, or alkyl or alkoxy each having 1 to 6 C atoms, identically or differently, denote 1,4-phenylene, 2,6-naphthylene, 1,2-dihydronaphthalene-3,7-diyl, in which one or two CH groups may be replaced by N and in which one or more H atoms may be replaced by RL, benzo[1,2-b:4,5-b′]dithiophene-2,6-diyl, thiophene-2,5-diyl, or thieno[3,2-b]thiophene-2,5-diyl, RL on each occurrence, identically or differently, denotes F, Cl, CN, SCN, SF5 or straight-chain or branched, in each case optionally fluorinated, alkyl, alkoxy, alkylcarbonyl, alkoxycarbonyl, alkylcarbonyloxy or alkoxycarbonyloxy having 1 to 12 C atoms, where alternatively denotes 1,4-cyclohexylene, 1,4-cyclohexenylene, bicyclo[1.1.1]pentane-1,3-diyl, 4,4′-bicyclohexylene, bicyclo[2.2.2]octane-1,4-diyl, or spiro[3.3]heptane-2,6-diyl, in which one or more non-adjacent CH2 groups may be replaced by —O— and/or —S— and in which one or more H atoms may be replaced by F, and n is 0, 1 or 2.",
+    "claim1_length": 4738,
+    "negative_dielectric_count": 62,
+    "positive_dielectric_count": 2,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [
+      "16.7",
+      "17.7",
+      "10.0",
+      "10.7"
+    ],
+    "contrast_snippets": [
+      "The response times are given as rise time (τon) for the time for the change of the relative tuning, respectively of the relative contrast",
+      "the electro-optical response, from 100% back to 10% (t100−t10) and as the total response time (τtotal=τon+τoff), respectively."
+    ],
+    "contrast_keyword_count": 2,
+    "mixture_examples": [
+      {
+        "name": "M1",
+        "content": "PTUI-4-AN\t10.00\tCl. p. [° C.]:\t146.5\nPTU-3-S\t14.38\tτ [20° C., 19 GHz]:\t0.308\nPGU-3-S\t12.58\tεr,∥ [20° C., 19 GHz]:\t3.56\nPPTU-5-S\t17.98\tεr,⊥ [20° C., 19 GHZ]:\t2.46\nCPU-2-S\t31.46\ttan δε r,∥ [20° C., 19 GHz]:\t0.0060\nCPU-4-S\t13.48\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0110\nST-3b-1\t0.12\tη [20° C., 19 GHz]:\t28.0\nΣ\t100.00\n\n[0951]"
+      },
+      {
+        "name": "M2",
+        "content": "PTUI-5-AN\t10.00\tCl. p. [° C.]:\t147\nPTU-3-S\t14.38\tτ [20° C., 19 GHz]:\t0.315\nPGU-3-S\t12.58\tεr,∥ [20° C., 19 GHz]:\t3.54\nPPTU-5-S\t17.98\tεr,⊥ [20° C., 19 GHz]:\t2.42\nCPU-2-S\t31.46\ttan δε r,∥ [20° C., 19 GHz]:\t0.0057\nCPU-4-S\t13.48\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0108\nST-3b-1\t0.12\tη [20° C., 19 GHz]:\t29.3\nΣ\t100.0\n\n[0952]"
+      },
+      {
+        "name": "M3",
+        "content": "PTUI-4-AN\t12.0\tCl. p. [° C.]:\t127\nPU-3-AN\t10.0\tτ [20° C., 19 GHz]:\t0.280\nPU-5-AN\t10.0\tεr,∥ [20° C., 19 GHz]:\t3.52\nPTU-4-AN\t6.0\tεr,⊥ [20° C., 19 GHz]:\t2.54\nPTU-5-AN\t10.0\ttan δε r,∥ [20° C., 19 GHz]:\t0.0046\nPTP(2)IUI-5-AN\t5.0\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0143\nPP(2)TU-5-AN\t12.0\tη [20° C., 19 GHz]:\t19.6\nP(2)TPU-5-AN\t15.0\t\t\nP(2)TPUI-5-AN\t20.0\t\t\nΣ\t100.0"
+      },
+      {
+        "name": "M4",
+        "content": "ST-3b-1\t0.12\tCl. p. [° C.]:\t151\nPTU-3-S\t8.88\tε∥ [1 kHz, 20° C.]:\t25.2\nPTU-5-S\t7.0\tε⊥ [1 kHz, 20° C.]:\t4.1\nPPTU-4-S\t6.0\tΔε [1 kHz, 20° C.]:\t21.0\nPPTU-5-S\t15.0\tK1 [pN, 20° C.]:\t15.7\nPPU-TO-S\t5.0\tK3 [pN, 20° C.]:\t30.6\nCPTU-5-S\t8.0\tK3/K1 [pN, 20° C.]:\t1.94\nPTUI-4-AN\t10.0\tV0 [V, 20° C.]:\t0.91\nPTP(2)IUI-5-AN\t5.0\tτ [20° C., 19 GHz]:\t0.321\nPP(2)TU-5-AN\t10.0\tεr,∥ [20° C., 19 GHz]:\t3.65\nP(2)TPU-5-AN\t10.0\tεr,⊥ [20° C., 19 GHz]:\t2.48\nP(2)TPUI-5-AN\t15.0\ttan δε r,∥ [20° C., 19 GHz]:\t0.0043\nΣ\t100.0\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0091\n\t\tη [20° C., 19 GHz]:\t35.4"
+      },
+      {
+        "name": "M5",
+        "content": "PPTU-4-S\t6.0\tCl. p. [° C.]:\t130.5\nPPTU-5-S\t12.0\tε∥ [1 kHz, 20° C.]:\t36.3\nPPU-TO-S\t2.0\tε⊥ [1 kHz, 20° C.]:\t5.0\nCPTU-5-S\t6.0\tΔε [1 kHz, 20° C.]:\t31.3\nCPU(FF)-3-S\t5.0\tγ1 [mPa s, 20° C.]:\t505\nCPUI-4-S\t5.0\tK1 [pN, 20° C.]:\t15.0\nPTUI-2-S\t5.0\tK3 [pN, 20° C.]:\t24.7\nPUITP-4-S\t7.0\tK3/K1 [pN, 20° C.]:\t1.65\nPTUP-4-S\t7.0\tV0 [V, 20° C.]:\t0.73\nPTUI-4-AN\t10.0\tτ [20° C., 19 GHz]:\t0.302\nPU-3-AN\t10.0\tεr,∥ [20° C., 19 GHz]:\t3.58\nPU-5-AN\t10.0\tεr,⊥ [20° C., 19 GHz]:\t2.50\nPTU-4-AN\t5.0\ttan δε r,∥ [20° C., 19 GHz]:\t0.0063\nPTU-5-AN\t10.0\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0148\nΣ\t100.0\tη [20° C., 19 GHz]:\t20.5"
+      },
+      {
+        "name": "M6",
+        "content": "PTP(2)TP-6-3\t20.0\tCl. p. [° C.]:\t118.5\nMixture Example M5\t80.0\tε∥ [1 kHz, 20° C.]:\t28.9\nΣ\t100.0\tε⊥ [1 kHz, 20° C.]:\t4.6\n\t\tΔε [1 kHz, 20° C.]:\t24.3\n\t\tK1 [pN, 20° C.]:\t14.8\n\t\tK3 [pN, 20° C.]:\t21.9\n\t\tK3/K1 [pN, 20° C.]:\t1.48\n\t\tV0 [V, 20° C.]:\t0.82\n\t\tτ [20° C., 19 GHz]:\t0.282\n\t\tεr,∥ [20° C., 19 GHz]:\t3.50\n\t\tεr,⊥ [20° C., 19 GHz]:\t2.51\n\t\ttan δε r,∥ [20° C., 19 GHz]:\t0.0059\n\t\ttan δε r,⊥ [20° C., 19 GHz]:\t0.0131\n\t\tη [20° C., 19 GHz]:\t21.6"
+      }
+    ],
+    "phys_params": {
+      "delta_epsilon": "2",
+      "epsilon_parallel": "2",
+      "epsilon_perpendicular": "2",
+      "gamma1": "2",
+      "K1": "2",
+      "K3": "2",
+      "V0": "2"
+    },
+    "molecular_structures": [
+      "ST-22",
+      "ST-8-1",
+      "ST-9-1",
+      "ST-12",
+      "ST-18",
+      "PGU-2-S",
+      "PGU-3-S",
+      "PGU-4-S",
+      "CPU-2-S",
+      "CPU-3-S",
+      "CPU-4-S",
+      "PGPU-5-S",
+      "PPTU-5-S",
+      "PPTU-4-S",
+      "CPTU-5-S",
+      "CPU(FF)-3-S",
+      "CPUI-4-S"
+    ],
+    "text_length": 173739
+  },
+  {
+    "patent_id": "US20250223496A1",
+    "url": "https://patents.google.com/patent/US20250223496A1/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2025-01-03",
+      "publication_date": "2025-07-10"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3491"
+    ],
+    "abstract": "A liquid-crystal (LC) medium or LC material based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode and/or the fringe-field switching mode, an LC display of the vertically aligned mode and/or the fringe-field switching mode comprising the LC medium, especially an energy-saving LC display, and a process of manufacturing the LC display.\nClassifications\n C09K19/3491 Non-steroidal liquid crystal compounds containing at least one heterocyclic ring having sulfur as hetero atom\nView 21 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nUS20250223496A1",
+    "claim1": "Example 53 [0615] The nematic LC mixture N53 is formulated as follows. CCP-V-1 6.3% Cl. p. [° C.]: 107 CCP-3-1 5.85% Δn [589 nm, 20° C.]: 0.1232 CY-3-O2 5.4% Δε [1 kHz, 20° C.]: −3.3 CPY-3-O2 3.6% γ1 [mPa s, 20° C.]: 162 CCY-3-O2 5.85% K1 [pN, 20° C.]: 19.3 CLY-2-O4 3.6% K3 [pN, 20° C.]: 20.1 CLY-3-O2 5.4% CLY-3-O3 4.5% CLY-4-O2 3.6% CLY-5-O2 3.6% PGIY-2-O4 4.5% B(S)-2O-O4 3.6% B(S)-2O-O5 3.6% CC-3-V 13.5% CC-4-V1 9.0% CC-2-3 8.1% PUS-3-O1(c5) 10.0% Σ 100.0% wherein PUS-3-O1(c5) is [0617] To the mixture N53 are added 150 ppm of the stabiliser ST-3b-1. Example 54 [0618] The nematic LC mixture N54 is formulated as follows. CCP-V-1 6.3% Cl. p. [° C.]: 103 CCP-3-1 5.85% Δn [589 nm, 20° C.]: 0.1246 LOY-3-O2 5.4% Δε [1 kHz, 20° C.]: −3.2 CPY-3-O2 3.6% γ1 [mPa s, 20° C.]: 140 CCY-3-O2 5.85% K1 [pN, 20° C.]: 18.7 CLY-2-O4 3.6% K3 [pN, 20° C.]: 19.5 CLY-3-O2 5.4% CLY-3-O3 4.5% CLY-4-O2 3.6% CLY-5-O2 3.6% PGIY-2-O4 4.5% B(S)-2O-O4 3.6% B(S)-2O-O5 3.6% CC-3-V 13.5% CC-4-V1 9.0% CC-2-3 8.1% PUS-3-2 10.0% Σ 100.0% wherein LOY-3-O2 is [0620] To the mixture N54 are added 50 ppm of the stabiliser H-2-1-1. Example 55 [0621] The nematic LC mixture N55 is formulated as follows. CCP-V-1 6.3% Cl. p. [° C.]: 108.5 CCP-3-1 5.85% Δn [589 nm, 20° C.]: 0.1296 YG-2O-O4 5.4% Δε [1 kHz, 20° C.]: −3.1 CPY-3-O2 3.6% γ1 [mPa s, 20° C.]: 148 CCY-3-O2 5.85% K1 [pN, 20° C.]: 19.4 CLY-2-O4 3.6% K3 [pN, 20° C.]: 19.9 CLY-3-O2 5.4% CLY-3-O3 4.5% CLY-4-O2 3.6% CLY-5-O2 3.6% PGIY-2-O4 4.5% B(S)-2O-O4 3.6% B(S)-2O-O5 3.6% CC-3-V 13.5% CC-4-V1 9.0% CC-2-3 8.1% PUS-3-2 10.0% Σ 100.0% wherein YG-2O-O4 is [0623] To the mixture N55 are added 100 ppm of the stabiliser ST-8-1. Example 56 [0624] The nematic LC mixture N56 is formulated as follows. CCP-V-1 6.3% Cl. p. [° C.]: 109 CCP-3-1 5.85% Δn [589 nm, 20° C.]: 0.1288 YG-4O-O4 5.4% Δε [1 kHz, 20° C.]: −3.1 CPY-3-O2 3.6% γ1 [mPa s, 20° C.]: 146 CCY-3-O2 5.85% K1 [pN, 20° C.]: 19.4 CLY-2-O4 3.6% K3 [pN, 20° C.]: 19.6 CLY-3-O2 5.4% CLY-3-O3 4.5% CLY-4-O2 3.6% CLY-5-O2 3.6% PGIY-2-O4 4.5% B(S)-2O-O4 3.6% B(S)-2O-O5 3.6% CC-3-V 13.5% CC-4-V1 9.0% CC-2-3 8.1% PUS-3-2 10.0% Σ 100.0% wherein YG-4O-O4 is [0626] To the mixture N56 are added 50 ppm of the stabiliser ST-9-1. Claims (15) Hide Dependent The invention claimed is: 1. A liquid crystal medium comprising one or more compounds selected from the group of compounds of formula III and/or formula IIIA and/or formula BC and/or formula PH-1 and one or more compounds of formula I in which R11, R12, R31, R32, R81, and R82 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 15 C atoms, where one or more —CH2— groups in these radicals may each be replaced, independently of one another, by —C≡C—, —CF2O—, —OCF2—, —CH═CH—, by —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, X denotes S or O, A3 on each occurrence, independently of one another, denotes a) a 1,4-cyclohexylene or 1,4-cyclohexenylene radical, in which one or two non-adjacent CH2 groups may be replaced by —O— or —S—, b) a 1,4-phenylene radical, in which one or two CH groups may be replaced by N, or c) a radical selected from the group consisting of spiro[3.3]heptane-2,6-diyl, piperidine-1,4-diyl, 1,4-bicyclo[2.2.2]octylene, naphthalene-2,6-diyl, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl, phenanthrene-2,7-diyl and fluorene-2,7-diyl, where the radicals a), b) and c) are optionally monosubstituted or polysubstituted by halogen atoms, n denotes 0, 1 or 2, Z3 on each occurrence independently of one another denotes —CO—O—, —O—CO—, —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CH2—, —CH2CH2—, —(CH2)4—, —CH═CH—CH2O—, —C2F4—, —CH2CF2—, —CF2CH2—, —CF═CF—, —CH═CF—, —CF═CH—, —CH═CH—, —C═C— or a single bond, L11, L12, L31 and L32, each, independently of one another, denote F, Cl, CF3 or CHF2, and Y1, Y2, Y3, Y4, each, independently of one another, denote H, F, Cl, CF3, CHF2, CH3 or OCH3.",
+    "claim1_length": 3994,
+    "negative_dielectric_count": 85,
+    "positive_dielectric_count": 10,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "en at low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast and a broad viewing angle, and reduced image sticking.",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. The higher th",
+      "n, the liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. The higher the VHR",
+      "isplays. In particular, the LC medium has to show a high reliability and a high VHR value after UV exposure. Further requirements are a high specific resistance, a large working-temperature range, short",
+      "This “image sticking” can occur on the one hand if LC media having a low VHR are used. The UV component of daylight or the backlight can cause undesired decomposition reactions of the LC molecules",
+      "s often show a decrease of the reliability and stability, and a decrease of the VHR especially after exposure to UV radiation but also to visible light from the backlight of a display, that usually does",
+      "B-FFS-, UBplus and/or IPS- displays with good transmission, high reliability, a VHR value especially after backlight exposure, a high specific resistance, a large working-temperature range, short respons",
+      "high reliability and high VHR value after UV exposure and/or heat treatment,",
+      "terms of reliability the LC media according to the present invention show high VHR values and less or no undesired mura effects such as edge mura.",
+      "rtically aligned”) displays are known which have a broad viewing angle and fast response times. The LC cell of a VA display contains a layer of an LC medium between two transparent electrodes, where the LC medium",
+      "ements are a high specific resistance, a large working-temperature range, short response times even at low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast and a broad viewing an",
+      "exposure, a high specific resistance, a large working-temperature range, short response times even at low temperatures, a low threshold voltage, a multiplicity of grey levels, high contrast and a broad viewing an",
+      "a reduced viscosity which enables fast response times,"
+    ],
+    "contrast_keyword_count": 17,
+    "mixture_examples": [],
+    "phys_params": {
+      "delta_n": "0",
+      "delta_epsilon": "2",
+      "epsilon_perpendicular": "4.5",
+      "gamma1": "5",
+      "K1": "5",
+      "K3": "5"
+    },
+    "molecular_structures": [
+      "CC-3-V",
+      "CC-4-V",
+      "CC-3-V1",
+      "CC-4-V1",
+      "CY-3-O2",
+      "CPY-3-O2",
+      "CCY-3-O2",
+      "CCY-5-O2",
+      "CLY-3-O2",
+      "CLY-3-O3",
+      "CLY-4-O2",
+      "CLY-5-O2",
+      "PYP-2-3",
+      "PYP-2-4",
+      "CC-3-4",
+      "CC-3-5",
+      "CP-3-O2",
+      "CY-3-O4",
+      "CY-5-O4",
+      "PY-1-O2",
+      "PY-2-O2",
+      "PY-3-O2",
+      "CPY-2-O2",
+      "CPY-5-O2",
+      "CCY-4-O2",
+      "CCY-3-O3",
+      "CCY-3-O1",
+      "CC-2-V1",
+      "CC-3-V2",
+      "CC-5-V"
+    ],
+    "text_length": 145695
+  },
+  {
+    "patent_id": "EP4563675",
+    "url": "https://patents.google.com/patent/EP4563675/en",
+    "success": true,
+    "title": "Reflective liquid crystal panel",
+    "dates": {
+      "filing_date": "2024-11-27",
+      "publication_date": "2025-06-04"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/3003"
+    ],
+    "abstract": "The present invention relates to LCoS panels using liquid crystal (LC) media having negative dielectric anisotropy and to the LC media comprised therein. The disclosed liquid crystal medium (LC medium) is a negative dielectric anisotropy liquid crystal material having high optical anisotropy. It is particularly useful in electro-optical displays including projection systems based on vertical alignment (VA) nematic panels.\nClassifications\n C09K19/3003 Compounds containing at least two rings in which the different rings are directly linked (covalent bond)\nView 29 more classifications\nLandscapes\nChemical & Material Sciences\nPhysics & Mathematics\nShow more\nEP4563675A1",
+    "claim1": null,
+    "claim1_length": 0,
+    "negative_dielectric_count": 69,
+    "positive_dielectric_count": 1,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "ort response times, and a low threshold voltage, a multiplicity of grey shades, high contrast, have high reliability and high values for the VHR after UV exposure.",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other f",
+      "n, the liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "ty of grey shades, high contrast, have high reliability and high values for the VHR after UV exposure.",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other factors",
+      ", a high VHR is a prerequisite for a high reliability of the LC medium.",
+      "Unless indicated otherwise, the VHR is determined at 20°C (VHR20) and after 5 minutes in an oven at 100°C (VHR100) in a commercially available instrument Model LCM-1 (O0004) from TOY",
+      "aracteristics Measurement System Model 6254 from Toyo Corporation, Japan, using VHR test cells with AL16301 Polyimide (JSR Corp., Japan) having a 3.2µm cell gap. The measurement is performed after 5 min",
+      "pecific resistance at the same time as a large working-temperature range, short response times, and a low threshold voltage, a multiplicity of grey shades, high contrast, have high reliability and high values for",
+      "the liquid crystal medium according to the invention enables displays with fast response times, a low threshold voltage and a high birefringence, as well as high reliability when exposed to radiation and thermal s"
+    ],
+    "contrast_keyword_count": 11,
+    "mixture_examples": [
+      {
+        "name": "M42",
+        "content": "[0252]\nCC-3-V\t7.952 %\tT(N,I) [°C]:\t121\nCCH-301\t7.952 %\tΔn (589 nm, 20°C):\t0.271\nCPGP-5-2\t2.982 %\tne (20°C, 589.3 nm):\t1.784\nPGUQU-3-F\t2.982 %\tno (20°C, 589.3 nm):\t1.512\nPGUQU-5-F\t2.982 %\tΔε (1 kHz, 20°C):\t7.5\nPPTUI-3-2\t24.85 %\tε∥ (1 kHz, 20°C):\t11\nPPTUI-3-4\t25.844 %\tε⊥ (1 kHz, 20°C):\t3.5\nPUS-3-2\t10.934 %\tK1 [pN], (20°C):\t\nPZG-4-N\t5.964 %\tK3 [pN], (20°C):\t\nPZG-2-N\t1.988 %\tγ1 [mPa·s], (20°C):\t290\nCPTP-301\t2.982 %\tV0 [V], (20°C):\t\nPTP-102\t1.988 %\t\t\nST-1a-1\t0.2 %\t\t\nH-12\t0.4 %\t\t\n∑\t100.0 %\t\t\nStability tests\n[0253]\nThe above Example Mixtures are subjected to test cells with inorganic alignment (SiOx) layers or to analogous LCoS panels. The devices are tested under enforced temperature and illumination (stress test blue light, >45 W/cm2, 70 °C). Occurrence of bubbles and dark stains is avoided ove"
+      }
+    ],
+    "phys_params": {
+      "gamma1": "0",
+      "K1": "0",
+      "K3": "0",
+      "V0": "0"
+    },
+    "molecular_structures": [
+      "ST-12",
+      "PYP-2-3",
+      "PYP-2-4",
+      "CPY-2-O2",
+      "CPY-3-O2",
+      "CPY-5-O2",
+      "CY-3-O2",
+      "CY-3-O4",
+      "CY-5-O2",
+      "CY-5-O4",
+      "CCY-4-O2",
+      "CCY-3-O2",
+      "CCY-3-O3",
+      "CCY-3-O1",
+      "CCY-5-O2",
+      "CLY-2-O4",
+      "CLY-3-O2",
+      "CLY-3-O3",
+      "CCOY-3-O2",
+      "BCH-32",
+      "PPY-3-O2",
+      "CCEY-3-O2",
+      "PGP-2-4",
+      "PY-4-O2",
+      "CPGP-5-2",
+      "PPGU-3-F",
+      "CCH-34",
+      "CCP-3-2",
+      "PGIY-2-O4",
+      "CCH-23"
+    ],
+    "text_length": 112375
+  },
+  {
+    "patent_id": "EP4621030",
+    "url": "https://patents.google.com/patent/EP4621030/en",
+    "success": true,
+    "title": "Liquid-crystal medium",
+    "dates": {
+      "filing_date": "2025-03-18",
+      "publication_date": "2025-09-24"
+    },
+    "assignee": "",
+    "cpc_codes": [
+      "C09K19/40",
+      "C09K19/06",
+      "C09K19/42"
+    ],
+    "abstract": "The present invention relates to a liquid-crystal (LC) material as defined in claim 1, having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, such as for example in energy efficient LC displays, in particular displays based on the ECB, IPS or FFS effect.\nClassifications\n C09K19/42 Mixtures of liquid crystal compounds covered by two or more of the preceding groups C09K19/06 - C09K19/40\nView 37 more classifications\nLandscapes\nChemical & Material Sciences\nCrystallography & Structural Chemistry\nShow more\nEP4621030A1",
+    "claim1": null,
+    "claim1_length": 0,
+    "negative_dielectric_count": 47,
+    "positive_dielectric_count": 11,
+    "is_negative_dielectric": true,
+    "delta_eps_values": [],
+    "contrast_snippets": [
+      "Another important display trend is to achieve high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially in IPS/FFS technology",
+      "ngly impacted by the scattering parameter and has therefore a big impact on the contrast ratio. To improve the contrast ratio and to reduce the scattering parameter LC mixtures with high elastic constants are neces",
+      "gh elastic constants. Therefore, new materials need to be found to increase the contrast ratio of future displays even further.",
+      "improved contrast ratio of the display,",
+      "nd a low threshold voltage, a low pretilt angle, a multiplicity of grey shades, high contrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the pol",
+      "Another important display trend is to achieve high contrast ratio. Contrast ratio is described by the ratio between the bright and the dark state of the display. In LCD especially",
+      "products. Alternatively, displays with higher brightness can be achieved having improved contrast especially under ambient light. Also, the popularity of 8K and gaming monitors leads to an increased need for LC displa",
+      "displays. As a standard parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other f",
+      "The liquid-crystal media according to the invention have high values for the voltage holding ratio in liquid-crystal cells.",
+      "stal media having a low addressing voltage or threshold voltage exhibit a lower voltage holding ratio than those having a higher addressing voltage or threshold voltage and vice versa.",
+      "thickness 65 nm, rubbed) are filled with the corresponding mixtures, and their voltage holding ratio is measured before and after irradiation using the measurement system Model 6254 from Toyo Corporation, Japan. The test",
+      "s often show a decrease of the reliability and stability, and a decrease of the VHR especially after exposure to UV radiation. Especially for use in PSA displays this is a considerable disadvantage becau",
+      "A display is usually carried out by exposure to UV radiation, which may cause a VHR drop in the LC medium.",
+      "ntrast and a broad viewing angle, have high reliability and high values for the VHR after UV exposure, and, in case of the polymerisable compounds, have low melting points and a high solubility in the LC",
+      "parameter for categorising the reliability usually the voltage holding ration (VHR) value is used, which is a measure for maintaining a constant electrical voltage in a test display. Among other factors"
+    ],
+    "contrast_keyword_count": 33,
+    "mixture_examples": [],
+    "phys_params": {
+      "gamma1": "91",
+      "K1": "16.3",
+      "K3": "17.8",
+      "V0": "2.38"
+    },
+    "molecular_structures": [
+      "CLP-3-3",
+      "CCY-4-O2",
+      "CCY-3-O2",
+      "CCY-3-O3",
+      "CCY-3-O1",
+      "CCY-5-O2",
+      "CLY-2-O4",
+      "CLY-3-O2",
+      "CLY-3-O3",
+      "CC-3-V1",
+      "CC-4-V1",
+      "CC-3-V",
+      "CC-4-V",
+      "CP-3-O2",
+      "CCP-3-1",
+      "CPP-3-2",
+      "CCC-3-V",
+      "PPGU-3-F",
+      "RM-182",
+      "RM-17",
+      "RM-19",
+      "RM-35",
+      "RM-37",
+      "RM-39",
+      "RM-40",
+      "RM-41",
+      "RM-48",
+      "RM-52",
+      "RM-54",
+      "RM-57"
+    ],
+    "text_length": 145721
+  }
+]

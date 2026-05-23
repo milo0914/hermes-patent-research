@@ -1,0 +1,181 @@
+{
+  "total_unique": 27,
+  "patent_ids": [
+    "US12528988B2",
+    "US20250207032A1",
+    "US12612551B2",
+    "US20250361444A1",
+    "US20250215323A1",
+    "US20260015735A1",
+    "EP4733370A1",
+    "EP4689796A1",
+    "US20250136868A1",
+    "US20250284151A1",
+    "US20250101305A1",
+    "US20250197723A1",
+    "US20250189829A1",
+    "US20250277152A1",
+    "EP4400561A1",
+    "EP4720219A1",
+    "EP4502108A1",
+    "EP4538349A1",
+    "EP4702104A1",
+    "US20250297161A1",
+    "US12595417B2",
+    "US20250154412A1",
+    "US20250223496A1",
+    "EP4400561",
+    "EP4563675",
+    "EP4621030",
+    "EP4733370"
+  ],
+  "date_map": {
+    "US20250361444A1": {
+      "filing_date": "2024-05-22"
+    },
+    "US20250215323A1": {
+      "filing_date": "2023-12-26"
+    },
+    "US12612551B2": {
+      "filing_date": "2023-12-26"
+    },
+    "EP4689796A1": {
+      "filing_date": "2023-03-28"
+    },
+    "EP4733370A1": {
+      "filing_date": "2024-10-22"
+    },
+    "US20250207032A1": {
+      "filing_date": "2023-12-26"
+    },
+    "US20260015735A1": {
+      "filing_date": "2023-03-23"
+    },
+    "US12528988B2": {
+      "filing_date": "2023-11-08"
+    },
+    "US20250197723A1": {
+      "filing_date": "2023-12-19"
+    },
+    "US20250136868A1": {
+      "filing_date": "2023-08-29"
+    },
+    "US20250189829A1": {
+      "filing_date": "2023-12-07"
+    },
+    "US20250101305A1": {
+      "filing_date": "2023-09-19"
+    },
+    "US20250284151A1": {
+      "filing_date": "2024-03-11"
+    },
+    "EP4400561A1": {
+      "filing_date": "2023-01-12"
+    },
+    "US20250277152A1": {
+      "filing_date": "2024-02-29"
+    },
+    "EP4720219A1": {
+      "filing_date": "2023-05-25"
+    },
+    "EP4502108A1": {
+      "filing_date": "2023-07-31"
+    },
+    "EP4702104A1": {
+      "filing_date": "2023-04-24"
+    },
+    "EP4538349A1": {
+      "filing_date": "2023-10-13"
+    },
+    "US20250297161A1": {
+      "filing_date": "2024-03-20"
+    },
+    "US12595417B2": {
+      "filing_date": "2023-12-26"
+    }
+  },
+  "snippets": {
+    "US20250361444A1": "mpositions … Liquid Crystal Medium EP US CN JP KR US20250361444A1 Jing Wang Merck Patent Gmbh Priority 2024-05-22 • File",
+    "US20250215323A1": "mproved … Liquid-crystal medium EP US CN JP KR TW US20250215323A1 Jing Wang Merck Patent Gmbh Priority 2023-12-26 • File",
+    "US12612551B2": " C atoms, alkoxy having 1 … Liquid crystal medium US12612551B2 Sven Christian Laut Merck Patent Gmbh Priority 2023-12-26",
+    "EP4689796A1": " point above room … Composition WO EP CN JP KR TW EP4689796A1 Daishi Yokoyama Merck Patent GmbH Priority 2023-03-28 • Fi",
+    "EP4733370A1": "others, identically … Liquid-crystal medium EP CN EP4733370A1 I-Hua Huang Merck Patent GmbH Priority 2024-10-22 • Filed ",
+    "US20250207032A1": " long term image sticking … Liquid crystal medium US20250207032A1 Sven Christian Laut Merck Patent Gmbh Priority 2023-12",
+    "US20260015735A1": "dium comprises one or more … Formulation WO US TW US20260015735A1 Henning Seim Merck Patent Gmbh Priority 2023-03-23 • F",
+    "US12528988B2": "STN, TN-TFT, OCB … Liquid crystal medium EP US CN US12528988B2 Constanze Brocke Merck Patent Gmbh Priority 2023-11-08 • ",
+    "US20250197723A1": " by … Liquid-crystalline medium EP US CN JP KR TW US20250197723A1 Harald Hirschmann Merck Patent Gmbh Priority 2023-12-1",
+    "US20250136868A1": " 100  Liquid-crystalline medium EP US CN JP KR TW US20250136868A1 Sven Christian Laut Merck Patent Gmbh Priority 2023-08",
+    "US20250189829A1": "Reflective liquid crystal panel EP US CN JP KR TW US20250189829A1 Izumi Saito Merck Patent Gmbh Priority 2023-12-07 • Fi",
+    "US20250101305A1": "-ratio, … Liquid-crystal medium EP US CN JP KR TW US20250101305A1 Sven Christian Laut Merck Patent Gmbh Priority 2023-09",
+    "US20250284151A1": "aterial … Liquid-crystal medium EP US CN JP KR TW US20250284151A1 Sven Christian Laut Merck Patent Gmbh Priority 2024-03",
+    "EP4400561A1": "active matrix … Liquid-crystal medium EP CN KR TW EP4400561A1 Chang-Suk Choi Merck Patent GmbH Priority 2023-01-12 • Fil",
+    "US20250277152A1": "ods for … Liquid-crystal medium EP US CN JP KR TW US20250277152A1 Min Tzu CHUANG Merck Patent Gmbh Priority 2024-02-29 •",
+    "EP4720219A1": "e ECB, IPS or … Liquid-crystal medium WO EP CN TW EP4720219A1 Minghui Yang Merck Patent GmbH Priority 2023-05-25 • Filed",
+    "EP4502108A1": "ide LC materials … Liquid crystal medium EP CN TW EP4502108A1 Jing Wang Merck Patent GmbH Priority 2023-07-31 • Filed 20",
+    "EP4702104A1": "ium comprising polymerizable compound WO EP CN TW EP4702104A1 Chia-Sheng Hsieh Merck Patent GmbH Priority 2023-04-24 • F",
+    "EP4538349A1": "ung et … Liquid-crystalline medium EP CN JP KR TW EP4538349A1 Sven Christian Laut Merck Patent GmbH Priority 2023-10-13 ",
+    "US20250297161A1": "display … Liquid-crystal medium EP US CN JP KR TW US20250297161A1 Chang-Suk CHOI Merck Patent Gmbh Priority 2024-03-20 •",
+    "US12595417B2": "nother, … Liquid-crystal medium EP US CN JP KR TW US12595417B2 Jing Wang Merck Patent Gmbh Priority 2023-12-26 • Filed 2"
+  },
+  "search_stats": [
+    {
+      "label": "S1: MPG+contrast+LC",
+      "total": 8,
+      "new": 8
+    },
+    {
+      "label": "S2: MEK+contrast+LC",
+      "total": 10,
+      "new": 5
+    },
+    {
+      "label": "S3: MPG+high_contrast",
+      "total": 3,
+      "new": 2
+    },
+    {
+      "label": "S4: MPG+contrast+negDA",
+      "total": 10,
+      "new": 2
+    },
+    {
+      "label": "S5: MPG+contrast+C09K19",
+      "total": 14,
+      "new": 2
+    },
+    {
+      "label": "S6: MPG+contrast+VA",
+      "total": 7,
+      "new": 2
+    },
+    {
+      "label": "S7: MKG+contrast+LC",
+      "total": 1,
+      "new": 0
+    },
+    {
+      "label": "S8: MEK+contrast+C09K19",
+      "total": 9,
+      "new": 0
+    }
+  ],
+  "prev_search_ids": [
+    "US12528988B2",
+    "US20250101305A1",
+    "US20250136868A1",
+    "US20250154412A1",
+    "US20250189829A1",
+    "US20250197723A1",
+    "US20250207032A1",
+    "US20250215323A1",
+    "US20250223496A1",
+    "US20250277152A1",
+    "US20250284151A1",
+    "US20250361444A1",
+    "US20260015735A1",
+    "EP4400561",
+    "EP4563675",
+    "EP4621030",
+    "EP4733370"
+  ]
+}
