@@ -1,0 +1,215 @@
+[
+  {
+    "patent_id": "US20230295510A1",
+    "title": "",
+    "abstract": "The present invention relates to a liquid crystal (LC) medium comprising a compound of formula Iand one or more compounds of formula IIas defined in claim 1, and to the use thereof for optical, electro-optical and electronic purposes, in particular in LC displays, especially in IPS, FFS, VA or PS-VA displays.",
+    "claim1": "1. A liquid crystal medium comprising one or more compounds of formula I\nin which\nR11, R12 identically or differently, denote H, or a straight chain or branched alkyl radical having 1 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n—C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen,\nY denotes H or CH3,\np is 0 or 1;\nand\none or more compounds of formula II\nin which\nR11 and R12, identically or differently, denote H, a straight chain or branched alkyl or\nalkoxy radical having 1 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n—C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen,\nA1 on each occurrence, independently of one another, denotes\na) a 1,4-cyclohexenylene or 1,4-cyclohexylene radical, in which one or two non-adjacent CH2 groups may be replaced by —O— or —S—,\nb) a 1,4-phenylene radical, in which one or two CH groups may be replaced by N, or\nc) a radical from the group spiro[3.3]heptane-2,6-diyl, 1,4-bicyclo[2.2.2]-octylene, naphthalene-2,6-diyl, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl, phenanthrene-2,7-diyl and fluorene-2,7-diyl, where the radicals a), b) and c) may be mono- or polysubstituted by methyl, ethyl, or halogen,\nn is 0, 1 or 2,\nZ1 on each occurrence independently of one another denotes\n—CO—O—, —O—CO—, —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CH2—,\n—CH2CH2—, —(CH2)4—, —CH═CH—CH2O—, —C2F4—, —CH2CF2—, —CF2CH2—,\n—CF═CF—, —CH═CF—, —CF═CH—, —CH═CH—, —C≡C- or a single bond,\nL11 and L12 each, independently of one another, denote H, F, Cl, CF3 or CHF2, and\nW denotes O or S.",
+    "dates": {
+      "priority": "2021-06-30",
+      "published": "2041-06-30",
+      "derived_pub_year": 2023,
+      "estimated_filed_year": 2022
+    },
+    "neg_da_count": 3,
+    "pos_da_count": 5,
+    "is_negative_da": false,
+    "elastic_count": 1,
+    "has_elastic": true,
+    "scatter_count": 1,
+    "has_scattering": true,
+    "in_date_range": true,
+    "body_length": 151066
+  },
+  {
+    "patent_id": "US20230272282A1",
+    "title": "",
+    "abstract": "The present invention relates to liquid-crystal (LC) media having negative dielectric anisotropy comprising one or more compounds of formula Iand one, two, three or more compounds of formula IIIas defined in claim 1, and to the use of the LC media for optical, electro-optical and electronic purposes, in particular useful to enable energy-saving LC displays of the VA, IPS or FFS type.",
+    "claim1": "1. A liquid crystal medium comprising one or more compounds of formula I\nand\none, two, three or more compounds of formula III\nin which\nR11 and R12, each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n—C≡C—, —CF2O—, —OCF2—, —CH═CH—, by —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen,\nA1 on each occurrence, independently of one another, denotes a 1,4-phenylene radical, in which one or two CH groups may be replaced by N, or a 1,4-cyclohexylene or 1,4-cyclohexenylene radical, in which one or two non-adjacent CH2 groups may be replaced by —O— or —S—,\nwhere the radicals may be mono- or polysubstituted by halogen atoms,\nn denotes 0, 1 or 2,\nZ1 on each occurrence independently of one another denotes —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CH2—, —CH2CH2—, —CH═CH—, —C□C— or a single bond,\nL11 and L12, each, independently of one another, denote F, Cl, CF3 or CHF2, and W denotes O or S.",
+    "dates": {
+      "filed": "2024-08-09"
+    },
+    "neg_da_count": 6,
+    "pos_da_count": 4,
+    "is_negative_da": true,
+    "elastic_count": 2,
+    "has_elastic": true,
+    "scatter_count": 0,
+    "has_scattering": false,
+    "in_date_range": true,
+    "body_length": 187919
+  },
+  {
+    "patent_id": "US12305103B2",
+    "title": "",
+    "abstract": "A liquid crystal medium having negative dielectric anisotropy and containing one or more compounds of formulae B and C and one or more compounds of formula G",
+    "claim1": "1. A liquid crystal (LC) medium having negative dielectric anisotropy and comprising\none or more compounds of formula C1 and one or more compounds of formula G\nin which the individual radicals, on each occurrence identically or differently, and each, independently of one another, have the following meanings:\ndenotes\nR0, R1 and R2 denote a straight chain alkyl or alkoxy radical having 1 to 15 C atoms or a branched alkyl or alkoxy radical having 3 to 15 C atoms, in which one or more CH2 groups may each be replaced, independently of one another, by\n—C≡C-, —CF2O-, —OCF2-, —CH═CH—, —O—, —CO—O— or —O-CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen\nX0 denotes F, CI, CN, SF5, SCN, NCS, a halogenated alkyl radical, a halogenated alkenyl radical, a halogenated alkoxy radical or a halogenated alkenyloxy radical having 1 to 6 C atoms, and\nZ0 denotes a single bond, —C2H4-, —CH2O-, —CF2O-, or —CH═CH-;\nand\none or more compounds selected from formulae ZK and DK\nin which the individual radicals on each occurrence, identically or differently, have the following meanings:\ndenotes\ndenotes\ndenotes\nand\nR3 and R4 each, independently of one another, denote alkyl having 1 to 12 C atoms, in which one or two non-adjacent CH2 groups may be replaced by —O—, —CH-CH—, —CO—, —O—CO— or —CO—O— in such a way that O atoms are not linked directly to one another,\nZy denotes —CH2CH2-, —CH═CH—, —CF2O-, —OCF2-, —CH2O—, —OCH2-, —COO—, —OCO-, —C2F4-, —CF═CF— or a single bond,\nR5 and R6 each, independently of one another, denote alkyl having 1 to 12 C atoms, in which one or two non-adjacent CH2 groups may be replaced by —O—, —CH═CH—, —CO—, —OCO— or —COO— in such a way that O atoms are not linked directly to one another, and\ne denotes 1 or 2.",
+    "dates": {
+      "priority": "2024-09-04"
+    },
+    "neg_da_count": 7,
+    "pos_da_count": 1,
+    "is_negative_da": true,
+    "elastic_count": 7,
+    "has_elastic": true,
+    "scatter_count": 1,
+    "has_scattering": true,
+    "in_date_range": true,
+    "body_length": 129401
+  },
+  {
+    "patent_id": "US12264276B2",
+    "title": "",
+    "abstract": "The present invention relates to an LC medium comprising two or more polymerizable compounds, at least one of which contains a substituent comprising a tertiary OH group, to its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the PSA (polymer sustained alignment) or SA (self-aligning) mode, to an LC display of the PSA or SA mode comprising the LC medium, and to a process of manufacturing the LC display using the LC medium, especially an energy-saving LC display and energy-saving LC display production process.",
+    "claim1": "1. A liquid crystal medium comprising:\none or more polymerizable compounds selected from formula IA-1 to IA-10, and one or more polymerizable compounds selected from formulae IB-D, IB-T, and IC-1 to IC-9\nwherein the individual radicals, independently of each other and on each occurrence identically or differently, have the following meanings\nP acrylate or methacrylate group,\nSp a single bond, or —(CH2)2—, —(CH2)3—, or —(CH2)4—, or —O—(CH2)2—, —O—(CH2)3—, —O—CO—(CH2)2, or —CO—O—(CH)2— wherein the O atom or the CO group is attached to a benzene ring,\nL F, Cl, —CN, or straight chain alkyl having 1 to 25 C atoms, branched alkyl having 3 to 25 C atoms, or cyclic alkyl having 3 to 25 C atoms, wherein one or more non-adjacent CH2-groups are each optionally replaced by —O—, —S—, —CO—, —CO—O—, —O—CO—, —O—CO—O— in such a manner that O- and/or S-atoms are not directly connected with each other, and wherein one or more H atoms are each optionally replaced by P, F or Cl,\nr1, r2, and r3 independently of each other 0, 1, 2, 3 or 4,\nr4 0, 1, 2 or 3,\nk 0 or 1,\nwherein in the compounds of formulae IC-1 to IC-9 at least one of the phenylene groups is monosubstituted with Lb,\nwherein the compounds of formulae IA-1 to IA-10 contain at least one spacer group Sp that is at least monosubstituted with La and/or at least one group L that denotes La,\nLa —C(Raa)(Rbb)OH,\nLb straight-chain or branched alkenyl with 3 to 7 C atoms, and\nRaa, Rbb straight-chain alkyl with 1 to 6 C atoms; and\none or more compounds of formula II:\nwherein the individual radicals, independently of each other and on each occurrence identically or differently, have the following meanings\nR1 and R2 straight chain alkyl having 1 to 25 C atoms, branched alkyl having 3 to 25 C atoms, or cyclic alkyl having 3 to 25 C atoms, wherein one or more non-adjacent CH2-groups are each optionally replaced by —O—, —S—, —CO—, —CO—O—, —O—CO—, —O—CO—O—, CR0═CR00—, —C≡C—,\nin such a manner that O- and/or S-atoms are not directly connected wit",
+    "dates": {
+      "priority": "2022-12-08",
+      "published": "2042-12-08"
+    },
+    "neg_da_count": 1,
+    "pos_da_count": 0,
+    "is_negative_da": false,
+    "elastic_count": 0,
+    "has_elastic": false,
+    "scatter_count": 0,
+    "has_scattering": false,
+    "in_date_range": true,
+    "body_length": 190448
+  },
+  {
+    "patent_id": "US12163081B2",
+    "title": "",
+    "abstract": "A liquid-crystal (LC) medium based on a mixture of polar compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the vertically aligned mode, to an LC display of the vertically aligned mode containing the LC medium, especially an energy-saving LC display and a process of manufacturing the LC display.",
+    "claim1": "1. An LC medium having negative dielectric anisotropy and comprising\none or more compounds of formula IA\nin which the individual radicals, on each occurrence identically or differently, and each, independently of one another, have the following meaning:\nR1A is an alkyl or alkoxy group having 1 to 12, wherein one or more non-adjacent CH2-groups are replaced by cyclopropyl, cyclobutyl or cyclopentyl,\nR2A is a straight chain alkyl having 1 to 25 C atoms or a branched or cyclic alkyl having 3 to 25 C atoms, wherein one or more non-adjacent CH2-groups are optionally replaced by —O—, —S—, —CO—, —CO—O—, —O—CO—, —O—CO—O—, CR0 ═CR00—, —C≡C—,\n in such a manner that O- and/or S-atoms are not directly connected with each other, and wherein one or more H atoms are each optionally replaced by F or Cl,\nL1A, L2A are F, Cl, CF3 or CHF2,\nY is H, F, Cl, CF3, CHF2 or CH3, and\nn 0 or 1,\nand\nat least one compound selected from the group of compounds of formulae IID-4, IID-10, PH-1 and Q\nwherein\nalkyl each, independently of one another, denotes a straight-chain alkyl radical having 1-6 C atoms,\nY denotes, for formula IID-10, H or CH3, and\n(O) denotes an oxygen atom or a single bond,\nwherein\nR71, R72 are H, an alkyl or alkoxy radical having 1 to 15 C atoms or an or alkenyl radical having 2 to 15 C atoms, each of which is unsubstituted or monosubstituted by F, Cl, CN or CF3 and in which one or more CH2 groups may be replaced by —O—, —S—, —C≡C—, —CF2O—, —OCF2—, —OC—O—, —O—CO—\n in such a way that O- and/or S-atoms are not linked directly to one another,\nwherein\nRQ is alkyl, alkoxy, oxaalkyl or alkoxyalkyl having 1 to 9 C atoms or alkenyl or alkenyloxy having 2 to 9 C atoms, all of which are optionally fluorinated,\nXQ is F, Cl, halogenated alkyl or alkoxy having 1 to 6 C atoms or halogenated alkenyl or alkenyloxy having 2 to 6 C atoms, and\nLQ1 to LQ6 independently of each other are H or F, with at least one of LQ1 to LQ6 being F.",
+    "dates": {
+      "priority": "2023-06-01",
+      "published": "2043-06-01"
+    },
+    "neg_da_count": 9,
+    "pos_da_count": 5,
+    "is_negative_da": true,
+    "elastic_count": 3,
+    "has_elastic": true,
+    "scatter_count": 1,
+    "has_scattering": true,
+    "in_date_range": true,
+    "body_length": 149638
+  },
+  {
+    "patent_id": "US12104109B2",
+    "title": "",
+    "abstract": "A liquid-crystal (LC) material having negative dielectric anisotropy and the use thereof for optical, electro-optical and electronic purposes, such as for example in LC displays, in particular energy saving displays based on the ECB, IPS or FFS effect, where the liquid crystal medium contains one or more compounds of formula Iand one or more compounds compounds of formulae IIA, IIB, IIC and IID",
+    "claim1": "1. A liquid crystal medium comprising\na) one or more compounds of formula I\nin which\nR1 and R2, identically or differently, denote H, halogen, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl or alkoxy or alkenyl or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another,\nA0, A1, and A2, each, independently of one another, denote phenylene-1,4-diyl, in which one or two CH groups may be replaced by N and one or more H atoms may be replaced by halogen, CN, CH3, CHF2, CH2F, CF3, OCH3, OCHF2 or OCF3, or denote cyclohexane-1,4-diyl, in which one or two non-adjacent CH2 groups may be replaced, independently of one another, by O and/or S and one or more H atoms may be replaced by F, or denote cyclohexene-1,4-diyl, bicyclo[1.1.1]-pentane-1,3-diyl, bicyclo[2.2.2]octane-1,4-diyl, spiro[3.3]heptane-2,6-diyl, tetrahydropyran-2,5-diyl or 1,3-dioxane-2,5-diyl,\nZ1 and Z2, each, independently of one another, denote —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CO—O—, —O—CO—, —C2H4—, —C2F4, —CF2CH2—, —CH2CF2—, —CFHCFH—, —CFHCH2—, —CH2CFH—, —CF2CFH—, —CFHCF2—, —CH═CH—, —CF═CH—, —CH═CF—, —CF═CF—, —C≡C— or a single bond,\nm denotes 0, 1, 2 or 3, and\nn denotes 0, 1, 2 or 3;\nand\nb) one or more compounds selected from the group of compounds of formulae IIA, IIB, IIC and IID\nin which\nR2A, R2B, R2C and R2D identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl or alkoxy or alkenyl or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n —C≡C—, —CF2O—, —OCF2—, —CH═CH—, by —O—, —CO—O— or —O—CO— in such a way that O atoms are not ",
+    "dates": {
+      "priority": "2023-06-22",
+      "published": "2043-06-22"
+    },
+    "neg_da_count": 7,
+    "pos_da_count": 4,
+    "is_negative_da": true,
+    "elastic_count": 0,
+    "has_elastic": false,
+    "scatter_count": 0,
+    "has_scattering": false,
+    "in_date_range": true,
+    "body_length": 178623
+  },
+  {
+    "patent_id": "US12404452B2",
+    "title": "",
+    "abstract": "A liquid-crystal (LC) medium containing polymerizable compounds, its use for optical, electro-optical and electronic purposes, in particular in LC displays, especially in LC displays of the PSA (polymer sustained alignment) or SA (self-aligning) mode, to an LC display of the PSA or SA mode containing the LC medium, and to a process of manufacturing the LC display using the LC medium, especially an energy-saving LC display and energy-saving LC display production process.",
+    "claim1": "1. An LC medium having negative dielectric anisotropy and comprising\none or more polymerizable compounds\nand\none or more dopants of formula IA\nwherein\nalkyl and alkyl* each, independently of one another, denote a C1-6-straight-chain, C3-6-branched or C3-6-cyclic alkyl radical,\nand\nwherein the total proportion of the one or more dopants of formula IA in the LC medium is 0.05 to 0.3% by weight,\nwherein said LC medium has the property of being UV polymerizable and has a UV polymerization time that is reduced compared to a UV polymerization time of an otherwise identical LC medium, but which does not contain the one or more dopants of formula IA, when polymerized under the same conditions as the otherwise identical LC medium.",
+    "dates": {
+      "priority": "2023-01-27",
+      "published": "2043-01-27"
+    },
+    "neg_da_count": 5,
+    "pos_da_count": 1,
+    "is_negative_da": true,
+    "elastic_count": 5,
+    "has_elastic": true,
+    "scatter_count": 0,
+    "has_scattering": false,
+    "in_date_range": true,
+    "body_length": 159449
+  },
+  {
+    "patent_id": "US12325817B2",
+    "title": "",
+    "abstract": "The present invention relates to liquid-crystal (LC) media as defined in claim 1, having negative dielectric anisotropy and to the use thereof for optical, electro-optical and electronic purposes, in particular in LC displays.",
+    "claim1": "1. A liquid crystal medium comprising\na) one or more compounds selected from formulae I-1, I-2, and I-3\nin which\nRH denotes H, O•, CH3, OH or ORS,\nSp on each occurrence, identically or differently, denotes a spacer group, and\nW denotes linear, optionally unsaturated, alkylene having 1 to 12 C atoms or branched, optionally unsaturated, alkylene having 2 to 12 C atoms, in which one or more non-adjacent-CH2-groups may each be replaced with —O—,\nwherein the total concentration of the one or more compounds of formulae I-1, I-2, and I-3 is in the range of from 1000 ppm to 5000 ppm;\nb) one or more compounds selected from the group of compounds of formulae IIA, IIB, and IIC\nin which\nR2A, R2B, and R2C each, independently of one another, denote H, or an alkyl having 1 to 15 C atoms or alkenyl radical having 2 to 15 C atoms which is unsubstituted, monosubstituted by CN or CF3 or at least monosubstituted by halogen, where one or more CH2 groups in these radicals may each be replaced by —O—, —S—,\n —C≡C—, —CF2O—, —OCF2—, —OC—O—, or —O—CO— in such a way that O atoms are not linked directly to one another;\nL1 and L2 each, independently of one another, denote F, Cl, CF3 or CHF2;\nY denotes H, F, Cl, CF3, CHF2, or CH3;\nZ2 and Z2B each, independently of one another, denote a single bond, —CH2CH2—, —CH═CH—, —CF2O—, —OCF2—, —CH2O—, —OCH2—, —COO—, —OCO—, —C2F4—, —CF═CF—, or —CH═CHCH2O—;\n(O) denotes O or a single bond;\np denotes 0, 1 or 2;\nq denotes 0 or 1; and\nv denotes 1, 2, 3, 4, 5, or 6;\nc) one or more compounds selected from formula IID\nin which\nR2D denotes H, or an alkyl having 1 to 15 C atoms or alkenyl radical having 2 to 15 C atoms which is unsubstituted, monosubstituted by CN or CF3 or at least monosubstituted by halogen, where one or more CH2 groups in these radicals may each be replaced by —O—, —S—,\n —C≡C—, —CF2O—, —OCF2—, —OC—O—, or —O—CO— in such a way that O atoms are not linked directly to one another;\nL1 and L2 each, independently of one another, denote F, Cl, CF3 or CHF2;",
+    "dates": {
+      "priority": "2023-04-11",
+      "published": "2042-04-22"
+    },
+    "neg_da_count": 5,
+    "pos_da_count": 3,
+    "is_negative_da": true,
+    "elastic_count": 1,
+    "has_elastic": true,
+    "scatter_count": 0,
+    "has_scattering": false,
+    "in_date_range": true,
+    "body_length": 164809
+  },
+  {
+    "patent_id": "US11802243B2",
+    "title": "",
+    "abstract": "A liquid-crystal (LC) media having a negative dielectric anisotropy containing a compound of formula Iand the use of the LC media for optical, electro-optical and electronic purposes, in particular in energy-efficient LC displays, especially in IPS, FFS, VA or PS-VA displays.",
+    "claim1": "1. A liquid-crystal medium having a negative dielectric anisotropy and comprising\none or more compounds of formula I in a total amount of 0.25% by weight to 3% by weight\nin which\nR1 denotes a straight-chain alkenyl radical having 2 to 15 C atoms or a branched alkenyl radical having 4 to 15 C atoms, where one or more CH2 groups may each be replaced, independently of one another, by\n —C≡C—, —CF2O—, —OCF2—, —O—, —CO—O— or —O—CO— in such a way that 0 atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen,\nR2 denotes H, a straight-chain alkyl radical having 1 to 15 C atoms or a branched alkyl radical having 4 to 15 C atoms, where one or more CH2 groups may each be replaced, independently of one another, by\n —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen, and\nY1 denotes H, F, Cl or CH3;\nand\none or more compounds of formula III\nin which\nR11 and R12 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 15 C atoms, where one or more CH2 groups may each be replaced, independently of one another, by\n —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen,\nA1 on each occurrence, independently of one another, denotes\na) a 1,4-cyclohexenylene or 1,4-cyclohexylene radical, in which one or two non-adjacent CH2 groups may be replaced by —O— or —S—,\nb) a 1,4-phenylene radical, in which one or two CH groups may be replaced by N, or\nc) a radical selected from the group consisting of spiro[3.3]heptane-2,6-diyl, 1,4-bicyclo[2.2.2]octylene, naphthalene-2,6-diyl, decahydronaphthalene-2,6-diyl, 1,2,3,4-tetrahydronaphthalene-2,6-diyl, phenanthrene-2,7-diyl and fluorene-2,7-diyl,\nwhere the radicals in a), b) and c) may be mono- or polysubstituted by halogen atom",
+    "dates": {
+      "priority": "2022-02-23",
+      "published": "2042-02-23"
+    },
+    "neg_da_count": 8,
+    "pos_da_count": 3,
+    "is_negative_da": true,
+    "elastic_count": 0,
+    "has_elastic": false,
+    "scatter_count": 0,
+    "has_scattering": false,
+    "in_date_range": true,
+    "body_length": 132095
+  },
+  {
+    "patent_id": "US20240067879A1",
+    "title": "",
+    "abstract": "The present invention relates to liquid-crystal (LC) media as defined in claim 1, to the use thereof for optical, electro-optical and electronic purposes, in particular in LC displays, and to LC displays containing said LC media. The invention in particular relates to LC media with improved response time that enable energy saving displays.",
+    "claim1": "1. A liquid crystal medium comprising\na) one or more compounds of the formula I:\nin which\nR1 and R2, identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl, alkoxy, alkenyl or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n —C≡C, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may each be replaced by halogen,\nZ1 denotes —CF2O—, —OCF2—, —CH2O—, —OCH2—, —CO—O—, —O—CO—, —C2H4—, —CH═CH—, —C≡C— or a single bond,\nL1 and L2, each, independently of one another, denote F, Cl, CF3 or CHF2,\nY denotes H, F, Cl, CF3, CHF2 or CH3;\nand\nb) one or more compounds selected from the group of compounds of the formulae IIA, IIB, IIC and IID\nin which\nR2A, R2B, R2C and R2D identically or differently, denote H, straight chain alkyl or alkoxy having 1 to 15 C atoms, straight chain alkenyl or alkenyloxy having 2 to 15 C atoms or branched alkyl or alkoxy or alkenyl or alkenyloxy having 3 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n —C≡C—, —CF2O—, —OCF2—, —CH═CH—, —O—, —CO—O—, or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may each be replaced by halogen,\nL1 and L2 each, independently of one another, denote F, Cl, CF3 or CHF2,\nY denotes H, F, Cl, CF3, CHF2 or CH3,\nZ2, Z2B and Z2D each, independently of one another, denote a single bond, —CH2CH2—, —CH═CH—, —CF2O—, —OCF2—, —CH2O—, —OCH2—, —COO—, —OCO—, —C2F4—, —CF═CF— or —CH═CHCH2O—,\np denotes 0, 1 or 2,\nq denotes 0 or 1, and\nv denotes an integer from 1 to 6.",
+    "dates": {
+      "priority": "2023-07-10",
+      "published": "2043-07-10",
+      "derived_pub_year": 2024,
+      "estimated_filed_year": 2023
+    },
+    "neg_da_count": 5,
+    "pos_da_count": 4,
+    "is_negative_da": true,
+    "elastic_count": 1,
+    "has_elastic": true,
+    "scatter_count": 0,
+    "has_scattering": false,
+    "in_date_range": true,
+    "body_length": 359907
+  },
+  {
+    "patent_id": "US20240360362A1",
+    "title": "",
+    "abstract": "Liquid crystal (LC) media having negative dielectric anisotropy, the use thereof in an electro-optical display, particularly in a display with passive matrix addressing, based on the VA, ECB, FFS or IPS effect, and displays of this type, in particular an energy saving PM-VA display with low duty driving.",
+    "claim1": "1. A liquid crystal medium comprising a) one or more compounds of formula I\nin which\nR1 and R2 independently of one another, denote H, an alkyl radical having 1 to 12 C atoms or an alkenyl radical having 2 to 12 C atoms, wherein the alkyl radical or alkenyl radical is unsubstituted or substituted by one or more halogens, in which one or more CH2 groups may be replaced by —O—, —S—,\n—C≡C—, —CF2O—, —OCF2—, —OC—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and\nn is 0 or 1;\nb) one or more compounds selected from the group of compounds of formulae IIA, IIB, IIC and IID\nin which\nR1A, R1B, R1C, R1D, R2A, R2B, R2C and R2D each, independently of one another, denote H, an alkyl radical having 1 to 12 C atoms or an alkenyl radical having 2 to 12 C atoms, wherein the alkyl radical or alkenyl radical is unsubstituted, monosubstituted by CN or CF3 or substituted by one or more halogens, in which one or more CH2 groups may be replaced by —O—, —S—,\n—C≡C—, —CF2O—, —OCF2—, —OC—O— or —O—CO— in such a way that O atoms are not linked directly to one another,\nL1 and L2, each, independently of one another, denote F, Cl, CF3 or CHF2,\nY on each occurrence, identically or differently, denotes H, F, Cl, CF3, CHF2 or CH3,\nZ1, Z1B and Z1D each, independently of one another, denote a single bond, —CH2CH2—, —CH═CH—, —CF2O—, —OCF2—, —CH2O—, —OCH2—, —COO—, —OCO—, —C2F4—, —CF═CF— or —CH═CHCH2O—,\np denotes 0, 1 or 2, and\nq denotes 0 or 1;\nand\nc) one or more compounds of formula III\nin which\nR31 and R32 each, independently of one another, denote H, an alkyl or alkoxy radical having 1 to 15 C atoms, where one or more CH2 groups in these radicals may each be replaced, independently of one another, by\n—C≡C—, —CF2O—, —OCF2—, —CH═CH—, by —O—, —CO—O— or —O—CO— in such a way that O atoms are not linked directly to one another, and in which one or more H atoms may be replaced by halogen,\nA31 on each occurrence, independently of one another, denotes\na) 1,4-cyclohexylene or 1,4-",
+    "dates": {
+      "priority": "2023-04-10",
+      "published": "2043-04-28",
+      "derived_pub_year": 2024,
+      "estimated_filed_year": 2023
+    },
+    "neg_da_count": 8,
+    "pos_da_count": 4,
+    "is_negative_da": true,
+    "elastic_count": 11,
+    "has_elastic": true,
+    "scatter_count": 0,
+    "has_scattering": false,
+    "in_date_range": true,
+    "body_length": 96524
+  }
+]

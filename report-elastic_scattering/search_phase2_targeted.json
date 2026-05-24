@@ -1,0 +1,229 @@
+{
+  "N1": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22negative+dielectric+anisotropy%22+%22K33%22+%7COR%7C+%22K11%22+%7COR%7C+%22K22%22&after=priority:20200101",
+    "patent_ids": [
+      "EP4050084B1",
+      "EP3985085A2",
+      "EP4261269A1",
+      "EP4189035A1"
+    ],
+    "new_pids": [
+      "EP4050084B1",
+      "EP3985085A2",
+      "EP4261269A1",
+      "EP4189035A1"
+    ],
+    "results_count": 8,
+    "body_length": 4121
+  },
+  "N2": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22negative+dielectric%22+%22elastic+constant%22+%22medium%22&after=priority:20200101",
+    "patent_ids": [
+      "EP4194529B1",
+      "US12258510B2",
+      "US20240360362A1",
+      "US11952527B2",
+      "US12305103B2",
+      "US20230272282A1",
+      "US12325817B2",
+      "US11802243B2",
+      "US12104109B2"
+    ],
+    "new_pids": [
+      "EP4194529B1",
+      "US12258510B2",
+      "US20240360362A1",
+      "US11952527B2",
+      "US12305103B2",
+      "US20230272282A1",
+      "US12325817B2",
+      "US11802243B2",
+      "US12104109B2"
+    ],
+    "results_count": 101,
+    "body_length": 5113
+  },
+  "N3": {
+    "url": "https://patents.google.com/?assignee=Merck+KGaA&q=%22Δε%22+%22negative%22+%22liquid+crystal+medium%22&after=priority:20200101",
+    "patent_ids": [
+      "US20240067879A1",
+      "US12258510B2",
+      "US11952527B2",
+      "US20240376382A1",
+      "US12163081B2",
+      "US12305103B2",
+      "US20230323207A1",
+      "US12264276B2",
+      "US12325817B2",
+      "US12104109B2"
+    ],
+    "new_pids": [
+      "US20240067879A1",
+      "US12258510B2",
+      "US11952527B2",
+      "US20240376382A1",
+      "US12163081B2",
+      "US12305103B2",
+      "US20230323207A1",
+      "US12264276B2",
+      "US12325817B2",
+      "US12104109B2"
+    ],
+    "results_count": 39,
+    "body_length": 5059
+  },
+  "N4": {
+    "url": "https://patents.google.com/?assignee=Merck+Electronics+KGaA&q=%22negative+dielectric+anisotropy%22+%22elastic%22+%22liquid+crystal%22&after=priority:20200101",
+    "patent_ids": [
+      "US20240067879A1",
+      "US12404452B2",
+      "US20230383186A1",
+      "US20240360362A1",
+      "US12163081B2",
+      "US20240376382A1",
+      "US20230323207A1",
+      "US12325817B2",
+      "US20250284151A1",
+      "US12104109B2"
+    ],
+    "new_pids": [
+      "US20240067879A1",
+      "US12404452B2",
+      "US20230383186A1",
+      "US20240360362A1",
+      "US12163081B2",
+      "US20240376382A1",
+      "US20230323207A1",
+      "US12325817B2",
+      "US12104109B2"
+    ],
+    "results_count": 17,
+    "body_length": 5103
+  },
+  "N5": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22negative+Δε%22+%22medium%22&after=priority:20200101",
+    "patent_ids": [
+      "US20240067879A1",
+      "US12258510B2",
+      "US20240360362A1",
+      "US11952527B2",
+      "US12163081B2",
+      "US20230357637A1",
+      "US12264276B2",
+      "US12325817B2",
+      "US11802243B2",
+      "US12104109B2"
+    ],
+    "new_pids": [
+      "US20240067879A1",
+      "US12258510B2",
+      "US20240360362A1",
+      "US11952527B2",
+      "US12163081B2",
+      "US20230357637A1",
+      "US12264276B2",
+      "US12325817B2",
+      "US11802243B2",
+      "US12104109B2"
+    ],
+    "results_count": 58,
+    "body_length": 5163
+  },
+  "N6": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22Δε<0%22+%7COR%7C+%22Δε+<0%22+%7COR%7C+%22Δε+is+negative%22+%22liquid+crystal%22&after=priority:20200101",
+    "patent_ids": [],
+    "new_pids": [],
+    "results_count": 0,
+    "body_length": 212
+  },
+  "N7": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22vertical+alignment%22+%22K33%22+%7COR%7C+%22elastic+constant%22+%22medium%22&after=priority:20200101",
+    "patent_ids": [
+      "WO2023094404A1",
+      "EP4050084B1",
+      "EP3985085A2",
+      "WO2022136223A1",
+      "EP4229046A1",
+      "EP4189035A1"
+    ],
+    "new_pids": [
+      "WO2023094404A1",
+      "EP4050084B1",
+      "EP3985085A2",
+      "WO2022136223A1",
+      "EP4229046A1",
+      "EP4189035A1"
+    ],
+    "results_count": 14,
+    "body_length": 5226
+  },
+  "N8": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22VA+mode%22+%22negative%22+%22liquid+crystal+medium%22&after=priority:20200101",
+    "patent_ids": [
+      "US11952527B2",
+      "US20230295511A1",
+      "US20230295510A1",
+      "US12264276B2",
+      "US20220119711A1"
+    ],
+    "new_pids": [
+      "US11952527B2",
+      "US20230295511A1",
+      "US20230295510A1",
+      "US12264276B2",
+      "US20220119711A1"
+    ],
+    "results_count": 50,
+    "body_length": 5082
+  },
+  "N9": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22negative+dielectric+anisotropy%22+%22elastic%22+%22liquid+crystal+medium%22&after=priority:20200101",
+    "patent_ids": [
+      "US11802243B2",
+      "US20230383186A1"
+    ],
+    "new_pids": [
+      "US11802243B2",
+      "US20230383186A1"
+    ],
+    "results_count": 98,
+    "body_length": 5123
+  },
+  "N10": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22negative+dielectric+anisotropy%22+%22scattering%22+%22liquid+crystal%22&after=priority:20200101",
+    "patent_ids": [
+      "WO2023094404A1",
+      "US11952527B2",
+      "US20230295511A1"
+    ],
+    "new_pids": [
+      "WO2023094404A1",
+      "US11952527B2",
+      "US20230295511A1"
+    ],
+    "results_count": 34,
+    "body_length": 5046
+  },
+  "N11": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22liquid+crystal%22+%22medium%22+%28G02F1/137%29&after=priority:20200101",
+    "patent_ids": [
+      "US20240067879A1",
+      "US12163081B2",
+      "US12264276B2"
+    ],
+    "new_pids": [
+      "US20240067879A1",
+      "US12163081B2",
+      "US12264276B2"
+    ],
+    "results_count": 39,
+    "body_length": 4947
+  },
+  "N12": {
+    "url": "https://patents.google.com/?assignee=Merck+Patent+GmbH&q=%22liquid+crystal+medium%22+%22formula+I%22+%22formula+II%22+%22negative%22+%22Δε%22&after=priority:20200101",
+    "patent_ids": [],
+    "new_pids": [],
+    "results_count": 90,
+    "body_length": 5248
+  }
+}
